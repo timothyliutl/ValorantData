@@ -1,4 +1,7 @@
 import scrapy
+import logging
+import pandas as pd
+from collections import defaultdict
 
 class VlrSpider(scrapy.Spider):
     name = 'valorant'
@@ -11,16 +14,63 @@ class VlrSpider(scrapy.Spider):
             yield scrapy.Request(url, self.parse)
     
     def parse(self, response):
+        event = response.css('.wf-title::text')[0].extract().strip()
         for match in response.css('.wf-module-item.match-item.mod-color.mod-left.mod-bg-after-striped_purple.mod-first'):
             link = match.attrib['href']
-            yield scrapy.Request('https://www.vlr.gg' + link, callback=self.postparse)
+            yield scrapy.Request('https://www.vlr.gg' + link, callback=self.postparse, meta={'event': event})
 
 
     def postparse(self, response):
+        #start scraping data for each of the maps
+        #only get individual map data dont get all
+        #make sure to record dates so can compare results before and after patch updates
         winner = response.css('.wf-title-med::text')[0].extract().strip()
         loser = response.css('.wf-title-med::text')[1].extract().strip()
         mappicks = response.css('.match-header-note')
+        mapdata = response.css('.vm-stats-game') #make sure to get rid of overall in list
+
+        for map in mapdata:
+            mapName = map.css('.map div span::text').extract()
+            mydict = lambda: defaultdict(mydict)
+            mapDict = mydict()
+            mapDict['mapName'] = mapName
+            
+            if not map.attrib['data-game-id']=='all':
+                mapDict['numRounds'] = int(response.css('.score::text').extract()[0]) + int(response.css('.score::text').extract()[1])
+                counter = 1
+                #parses class names to see win type for round
+                for col in map.css('.vlr-rounds-row-col'):
+                    if len(col.css('.rnd-sq'))==2:
+                        team1_classnames = col.css('.rnd-sq')[0].xpath("@class").extract()[0]
+                        team2_classnames = col.css('.rnd-sq')[1].xpath("@class").extract()[0]
+                        if "win" in team1_classnames:
+                            mapDict['round'+str(counter)][loser] = 0
+                            #if team1 wins
+                            mapDict['round'+str(counter)][winner] = 1 if 'mod-ct' in team1_classnames else 3
+                            #if elimination win dont add anything, if objective add 1
+                            if not col.css('.rnd-sq')[0].css('img')[0].attrib['src'] =='/img/vlr/game/round/elim.webp':
+                                mapDict['round'+str(counter)][winner]= 1+ mapDict['round'+str(counter)][winner]
+                        else:
+                            if "win" in team2_classnames:
+                                mapDict['round'+str(counter)][winner] = 0
+                                #if team 2 wins (losing team)
+                                mapDict['round'+str(counter)][loser] = 1 if 'mod-ct' in team1_classnames else 3
+                                #if elimination win dont add anything, if objective add 1
+                                if not col.css('.rnd-sq')[1].css('img')[0].attrib['src'] =='/img/vlr/game/round/elim.webp':
+                                    mapDict['round'+str(counter)][loser] = 1+ mapDict['round'+str(counter)][winner]
+                    counter = counter +1
+        yield dict(mapDict)
+
+                #keys for dictionary
+                #1 = ct elimination win
+                #2 = ct objective win
+                #3 = t elimination win
+                #4 = t objective win
+                #0 = loss
+                #yield mapDict
+
         yield {
             'winner': winner,
             'loser': loser,
+            'match': response.meta['event']
         }
