@@ -25,7 +25,7 @@ class VlrSpider(scrapy.Spider):
         #start scraping data for each of the maps
         #only get individual map data dont get all
         #make sure to record dates so can compare results before and after patch updates
-        date = datetime.strptime(response.css('.moment-tz-convert')[0].attrib('data-utc-ts').extract(),"%Y-%m-%d %H:%M:%S")
+        date = datetime.strptime(response.css('.moment-tz-convert')[0].attrib['data-utc-ts'],"%Y-%m-%d %H:%M:%S")
         winner = response.css('.wf-title-med::text')[0].extract().strip()
         loser = response.css('.wf-title-med::text')[1].extract().strip()
         mappicks = response.css('.match-header-note')
@@ -33,15 +33,10 @@ class VlrSpider(scrapy.Spider):
 
         for map in mapdata:
             mapName = map.css('.map div span::text').extract()
-            mydict = lambda: defaultdict(mydict)
-            mapDict = mydict()
-            mapDict['mapName'] = mapName
-            mapDict['winner'] = winner
-            mapDict['loser'] = loser
             
             if not map.attrib['data-game-id']=='all':
                 mapdf = pd.DataFrame(columns=['round', winner, loser])
-                mapDict['numRounds'] = int(response.css('.score::text').extract()[0]) + int(response.css('.score::text').extract()[1])
+                numRounds = int(response.css('.score::text').extract()[0]) + int(response.css('.score::text').extract()[1])
                 counter = 1
                 #parses class names to see win type for round
                 for col in map.css('.vlr-rounds-row-col'):
@@ -70,7 +65,13 @@ class VlrSpider(scrapy.Spider):
                                 mapdf = mapdf.append({'round': counter, winner: 0, loser: tempnum}, ignore_index= True)
                         counter = counter +1
                     mapdf.to_csv(winner + "vs" + loser + date.strftime('%d-%m-%y') + '.csv')
-        yield dict(mapDict)
+        yield {
+            'winner':winner,
+            'loser':loser,
+            'numRounds': numRounds,
+            'mapName': mapName,
+            'event': response.meta['event']
+        }
 
                 #keys for dictionary
                 #1 = ct elimination win
@@ -80,8 +81,3 @@ class VlrSpider(scrapy.Spider):
                 #0 = loss
                 #yield mapDict
 
-        yield {
-            'winner': winner,
-            'loser': loser,
-            'match': response.meta['event']
-        }
