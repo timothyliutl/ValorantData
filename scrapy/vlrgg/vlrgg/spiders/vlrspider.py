@@ -35,7 +35,7 @@ class VlrSpider(scrapy.Spider):
             
             if not map.attrib['data-game-id']=='all':
                 mapName = map.css('.map div span::text')[0].extract().strip()
-                mapdf = pd.DataFrame(columns=['round', winner, loser])
+                mapdf = pd.DataFrame(columns=['round', winner, loser, 'date', 'map', 'event'])
                 numRounds = int(response.css('.score::text').extract()[0]) + int(response.css('.score::text').extract()[1])
                 counter = 1
                 #parses class names to see win type for round
@@ -52,7 +52,7 @@ class VlrSpider(scrapy.Spider):
                             #if elimination win dont add anything, if objective add 1
                             if not col.css('.rnd-sq')[0].css('img')[0].attrib['src'] =='/img/vlr/game/round/elim.webp':
                                 tempnum = tempnum +1
-                            mapdf = mapdf.append({'round': counter, winner: tempnum, loser: 0}, ignore_index=True)
+                            mapdf = mapdf.append({'round': counter, winner: tempnum, loser: 0,'date': date.strftime('%d-%m-%y'), 'map': mapName, 'event': response.meta['event']}, ignore_index=True)
                         else:
                             if "win" in team2_classnames:
                                 #if team 2 wins (losing team)
@@ -62,7 +62,7 @@ class VlrSpider(scrapy.Spider):
                                     continue
                                 if not col.css('.rnd-sq')[1].css('img')[0].attrib['src'] =='/img/vlr/game/round/elim.webp':
                                     tempnum = tempnum + 1
-                                mapdf = mapdf.append({'round': counter, winner: 0, loser: tempnum}, ignore_index= True)
+                                mapdf = mapdf.append({'round': counter, winner: 0, loser: tempnum, 'date': date.strftime('%d-%m-%y'), 'map': mapName, 'event': response.meta['event']}, ignore_index= True)
                         counter = counter +1
                     mapdf.to_csv(winner + "vs" + loser + date.strftime('%d-%m-%y') + '.csv')
         yield {
@@ -70,7 +70,8 @@ class VlrSpider(scrapy.Spider):
             'loser':loser,
             'numRounds': numRounds,
             'mapName': mapName,
-            'event': response.meta['event']
+            'event': response.meta['event'],
+            'date':date
         }
 
                 #keys for dictionary
