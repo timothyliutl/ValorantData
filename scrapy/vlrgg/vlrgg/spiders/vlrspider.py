@@ -8,7 +8,7 @@ class VlrSpider(scrapy.Spider):
     name = 'valorant'
     start_urls = ['https://www.vlr.gg/event/matches/449/valorant-champions/?series_id=all', 
     'https://www.vlr.gg/event/matches/466/valorant-champions-tour-stage-3-masters-berlin/?series_id=all', 
-    'https://www.vlr.gg/event/matches/353/valorant-champions-tour-stage-2-masters-reykjavik']
+    'https://www.vlr.gg/event/matches/353/valorant-champions-tour-stage-2-masters-reykjavik/?series_id=all&group=all']
 
     def start_requests(self):
         for url in self.start_urls:
@@ -16,7 +16,7 @@ class VlrSpider(scrapy.Spider):
     
     def parse(self, response):
         event = response.css('.wf-title::text')[0].extract().strip()
-        for match in response.css('.wf-module-item.match-item.mod-color.mod-left.mod-bg-after-striped_purple.mod-first'):
+        for match in response.css('.wf-module-item.match-item.mod-color.mod-left.mod-bg-after-striped_purple'):
             link = match.attrib['href']
             yield scrapy.Request('https://www.vlr.gg' + link, callback=self.postparse, meta={'event': event})
 
@@ -32,9 +32,9 @@ class VlrSpider(scrapy.Spider):
         mapdata = response.css('.vm-stats-game') #make sure to get rid of overall in list
 
         for map in mapdata:
-            mapName = map.css('.map div span::text').extract()
             
             if not map.attrib['data-game-id']=='all':
+                mapName = map.css('.map div span::text')[0].extract().strip()
                 mapdf = pd.DataFrame(columns=['round', winner, loser])
                 numRounds = int(response.css('.score::text').extract()[0]) + int(response.css('.score::text').extract()[1])
                 counter = 1
