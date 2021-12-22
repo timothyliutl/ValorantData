@@ -2,6 +2,7 @@ import scrapy
 import logging
 import pandas as pd
 from collections import defaultdict
+from datetime import datetime
 
 class VlrSpider(scrapy.Spider):
     name = 'valorant'
@@ -24,6 +25,7 @@ class VlrSpider(scrapy.Spider):
         #start scraping data for each of the maps
         #only get individual map data dont get all
         #make sure to record dates so can compare results before and after patch updates
+        date = datetime.strptime(response.css('.moment-tz-convert')[0].attrib('data-utc-ts').extract(),"%Y-%m-%d %H:%M:%S")
         winner = response.css('.wf-title-med::text')[0].extract().strip()
         loser = response.css('.wf-title-med::text')[1].extract().strip()
         mappicks = response.css('.match-header-note')
@@ -67,7 +69,7 @@ class VlrSpider(scrapy.Spider):
                                     tempnum = tempnum + 1
                                 mapdf = mapdf.append({'round': counter, winner: 0, loser: tempnum}, ignore_index= True)
                         counter = counter +1
-                    mapdf.to_csv(winner + "vs" + loser + '.csv')
+                    mapdf.to_csv(winner + "vs" + loser + date.strftime('%d-%m-%y') + '.csv')
         yield dict(mapDict)
 
                 #keys for dictionary
