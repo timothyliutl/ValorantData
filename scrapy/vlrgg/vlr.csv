@@ -1,142 +1,145 @@
-mapName,numRounds
+mapName,winner,loser,numRounds
 "
 							Breeze														,
 								PICK
 							,
-												",18
-,
+												",Vision Strikers,FULL SENSE,18
+,Vision Strikers,FULL SENSE,
 "
-							Split														,
+							Breeze													",Gambit Esports,X10 CRIT,20
+,Gambit Esports,X10 CRIT,
+"
+							Icebox													",Gambit Esports,Team Vikings,19
+,Gambit Esports,Team Vikings,
+"
+							Breeze													",Vision Strikers,Cloud9,23
+,Vision Strikers,Cloud9,
+"
+							Fracture													",Vision Strikers,Fnatic,23
+"
+							Bind														,
 								PICK
 							,
-												",19
+												",Acend,Envy,21
 "
 							Breeze														,
 								PICK
 							,
-												",21
-,
-,
-"
-							Breeze													",20
-"
-							Split													",24
-"
-							Icebox													",19
-"
-							Bind														,
-								PICK
-							,
-												",21
-"
-							Fracture													",23
-"
-							Breeze													",23
-"
-							Bind													",19
-,
-,
-,
-,
-,
-,
-,
-"
-							Bind														,
-								PICK
-							,
-												",22
-"
-							Icebox														,
-								PICK
-							,
-												",15
-"
-							Icebox														,
-								PICK
-							,
-												",23
+												",Acend,Team Secret,21
 "
 							Split														,
 								PICK
 							,
-												",19
+												",Acend,Team Liquid,19
+,Vision Strikers,Fnatic,
+,Acend,Envy,
+,Acend,Team Secret,
+,Acend,Team Liquid,
+"
+							Split													",Acend,Gambit Esports,24
+,Acend,Gambit Esports,
+"
+							Bind													",Gambit Esports,Team Secret,19
+"
+							Icebox														,
+								PICK
+							,
+												",Fnatic,KRÜ Esports,18
 "
 							Ascent														,
 								PICK
 							,
-												",23
+												",Fnatic,Team Liquid,23
 "
 							Ascent														,
 								PICK
 							,
-												",26
+												",Version1,Fnatic,26
 "
-							Split														,
-								PICK
-							,
-												",28
+							Split													",Version1,NUTURN,16
 "
 							Haven														,
 								PICK
 							,
-												",26
-,
-,
-,
-,
-,
-,
-,
-,
-"
-							Icebox														,
-								PICK
-							,
-												",26
-,
-"
-							Icebox														,
-								PICK
-							,
-												",18
-,
-"
-							Split													",16
-"
-							Ascent														,
-								PICK
-							,
-												",22
-"
-							Icebox														,
-								PICK
-							,
-												",22
-"
-							Icebox														,
-								PICK
-							,
-												",22
-"
-							Bind														,
-								PICK
-							,
-												",21
+												",Sentinels,Fnatic,26
 "
 							Split														,
 								PICK
 							,
-												",26
+												",Envy,Gambit Esports,28
+"
+							Breeze													",Acend,Keyd Stars,22
+,Gambit Esports,Team Secret,
+,Fnatic,KRÜ Esports,
+,Fnatic,Team Liquid,
+,Version1,Fnatic,
+,Version1,NUTURN,
+,Sentinels,Fnatic,
+,Envy,Gambit Esports,
+,Acend,Keyd Stars,
+"
+							Icebox														,
+								PICK
+							,
+												",Gambit Esports,G2 Esports,23
+"
+							Icebox														,
+								PICK
+							,
+												",Vision Strikers,Gambit Esports,15
+"
+							Split														,
+								PICK
+							,
+												",Acend,SuperMassive Blaze,19
+"
+							Split														,
+								PICK
+							,
+												",Paper Rex,SuperMassive Blaze,26
 "
 							Ascent														,
 								PICK
 							,
-												",16
-,
-,
-,
-,
-,
-,
-,
+												",F4Q,G2 Esports,16
+,Gambit Esports,G2 Esports,
+,Vision Strikers,Gambit Esports,
+,Acend,SuperMassive Blaze,
+,Paper Rex,SuperMassive Blaze,
+,F4Q,G2 Esports,
+"
+							Bind														,
+								PICK
+							,
+												",SuperMassive Blaze,Acend,22
+"
+							Ascent														,
+								PICK
+							,
+												",Envy,KRÜ Esports,22
+"
+							Icebox														,
+								PICK
+							,
+												",X10 CRIT,Crazy Raccoon,22
+"
+							Icebox														,
+								PICK
+							,
+												",Team Vikings,X10 CRIT,26
+"
+							Bind														,
+								PICK
+							,
+												",KRÜ Esports,ZETA DIVISION,21
+"
+							Icebox														,
+								PICK
+							,
+												",Vision Strikers,Paper Rex,22
+,SuperMassive Blaze,Acend,
+,Envy,KRÜ Esports,
+,X10 CRIT,Crazy Raccoon,
+,Team Vikings,X10 CRIT,
+,KRÜ Esports,ZETA DIVISION,
+,Vision Strikers,Paper Rex,

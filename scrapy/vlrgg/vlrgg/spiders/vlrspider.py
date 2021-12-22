@@ -49,6 +49,9 @@ class VlrSpider(scrapy.Spider):
                         if "win" in team1_classnames:
                             #if team1 wins
                             tempnum = 1 if 'mod-ct' in team1_classnames else 3
+                            #put in here because errors with website formatting
+                            if len(col.css('.rnd-sq')[0].css('img'))==0:
+                                    continue
                             #if elimination win dont add anything, if objective add 1
                             if not col.css('.rnd-sq')[0].css('img')[0].attrib['src'] =='/img/vlr/game/round/elim.webp':
                                 tempnum = tempnum +1
@@ -58,6 +61,8 @@ class VlrSpider(scrapy.Spider):
                                 #if team 2 wins (losing team)
                                 tempnum = 1 if 'mod-ct' in team1_classnames else 3
                                 #if elimination win dont add anything, if objective add 1
+                                if len(col.css('.rnd-sq')[1].css('img'))==0:
+                                    continue
                                 if not col.css('.rnd-sq')[1].css('img')[0].attrib['src'] =='/img/vlr/game/round/elim.webp':
                                     tempnum = tempnum + 1
                                 mapdf = mapdf.append({'round': counter, winner: 0, loser: tempnum}, ignore_index= True)
