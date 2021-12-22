@@ -34,8 +34,11 @@ class VlrSpider(scrapy.Spider):
             mydict = lambda: defaultdict(mydict)
             mapDict = mydict()
             mapDict['mapName'] = mapName
+            mapDict['winner'] = winner
+            mapDict['loser'] = loser
             
             if not map.attrib['data-game-id']=='all':
+                mapdf = pd.DataFrame(columns=['round', winner, loser])
                 mapDict['numRounds'] = int(response.css('.score::text').extract()[0]) + int(response.css('.score::text').extract()[1])
                 counter = 1
                 #parses class names to see win type for round
@@ -44,21 +47,22 @@ class VlrSpider(scrapy.Spider):
                         team1_classnames = col.css('.rnd-sq')[0].xpath("@class").extract()[0]
                         team2_classnames = col.css('.rnd-sq')[1].xpath("@class").extract()[0]
                         if "win" in team1_classnames:
-                            mapDict['round'+str(counter)][loser] = 0
                             #if team1 wins
-                            mapDict['round'+str(counter)][winner] = 1 if 'mod-ct' in team1_classnames else 3
+                            tempnum = 1 if 'mod-ct' in team1_classnames else 3
                             #if elimination win dont add anything, if objective add 1
                             if not col.css('.rnd-sq')[0].css('img')[0].attrib['src'] =='/img/vlr/game/round/elim.webp':
-                                mapDict['round'+str(counter)][winner]= 1+ mapDict['round'+str(counter)][winner]
+                                tempnum = tempnum +1
+                            mapdf = mapdf.append({'round': counter, winner: tempnum, loser: 0}, ignore_index=True)
                         else:
                             if "win" in team2_classnames:
-                                mapDict['round'+str(counter)][winner] = 0
                                 #if team 2 wins (losing team)
-                                mapDict['round'+str(counter)][loser] = 1 if 'mod-ct' in team1_classnames else 3
+                                tempnum = 1 if 'mod-ct' in team1_classnames else 3
                                 #if elimination win dont add anything, if objective add 1
                                 if not col.css('.rnd-sq')[1].css('img')[0].attrib['src'] =='/img/vlr/game/round/elim.webp':
-                                    mapDict['round'+str(counter)][loser] = 1+ mapDict['round'+str(counter)][winner]
-                    counter = counter +1
+                                    tempnum = tempnum + 1
+                                mapdf = mapdf.append({'round': counter, winner: 0, loser: tempnum}, ignore_index= True)
+                        counter = counter +1
+                    mapdf.to_csv(winner + "vs" + loser + '.csv')
         yield dict(mapDict)
 
                 #keys for dictionary
