@@ -1,19 +1,19 @@
-,round,Acend,Team Liquid,date,map,event
-0,1,1,0,11-12-21,Split,VALORANT Champions
-1,2,1,0,11-12-21,Split,VALORANT Champions
-2,3,2,0,11-12-21,Split,VALORANT Champions
-3,4,0,3,11-12-21,Split,VALORANT Champions
-4,5,1,0,11-12-21,Split,VALORANT Champions
-5,6,2,0,11-12-21,Split,VALORANT Champions
-6,7,1,0,11-12-21,Split,VALORANT Champions
-7,8,1,0,11-12-21,Split,VALORANT Champions
-8,9,1,0,11-12-21,Split,VALORANT Champions
-9,10,2,0,11-12-21,Split,VALORANT Champions
-10,11,2,0,11-12-21,Split,VALORANT Champions
-11,12,2,0,11-12-21,Split,VALORANT Champions
-12,13,0,3,11-12-21,Split,VALORANT Champions
-13,14,0,3,11-12-21,Split,VALORANT Champions
-14,15,3,0,11-12-21,Split,VALORANT Champions
-15,16,0,4,11-12-21,Split,VALORANT Champions
-16,17,0,4,11-12-21,Split,VALORANT Champions
-17,18,3,0,11-12-21,Split,VALORANT Champions
+,round,winningTeamRound,losingTeamRound,date,map,event,winner,loser
+0,1,1,0,11-12-21,Split,VALORANT Champions,Acend,Team Liquid
+1,2,1,0,11-12-21,Split,VALORANT Champions,Acend,Team Liquid
+2,3,2,0,11-12-21,Split,VALORANT Champions,Acend,Team Liquid
+3,4,0,3,11-12-21,Split,VALORANT Champions,Acend,Team Liquid
+4,5,1,0,11-12-21,Split,VALORANT Champions,Acend,Team Liquid
+5,6,2,0,11-12-21,Split,VALORANT Champions,Acend,Team Liquid
+6,7,1,0,11-12-21,Split,VALORANT Champions,Acend,Team Liquid
+7,8,1,0,11-12-21,Split,VALORANT Champions,Acend,Team Liquid
+8,9,1,0,11-12-21,Split,VALORANT Champions,Acend,Team Liquid
+9,10,2,0,11-12-21,Split,VALORANT Champions,Acend,Team Liquid
+10,11,2,0,11-12-21,Split,VALORANT Champions,Acend,Team Liquid
+11,12,2,0,11-12-21,Split,VALORANT Champions,Acend,Team Liquid
+12,13,0,3,11-12-21,Split,VALORANT Champions,Acend,Team Liquid
+13,14,0,3,11-12-21,Split,VALORANT Champions,Acend,Team Liquid
+14,15,3,0,11-12-21,Split,VALORANT Champions,Acend,Team Liquid
+15,16,0,4,11-12-21,Split,VALORANT Champions,Acend,Team Liquid
+16,17,0,4,11-12-21,Split,VALORANT Champions,Acend,Team Liquid
+17,18,3,0,11-12-21,Split,VALORANT Champions,Acend,Team Liquid

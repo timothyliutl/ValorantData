@@ -1,22 +1,22 @@
-,round,100 Thieves,Envy,date,map,event
-0,1,3,0,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-1,2,3,0,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-2,3,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-3,4,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-4,5,0,4,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-5,6,3,0,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-6,7,3,0,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-7,8,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-8,9,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-9,10,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-10,11,3,0,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-11,12,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-12,13,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-13,14,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-14,15,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-15,16,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-16,17,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-17,18,1,0,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-18,19,1,0,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-19,20,1,0,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-20,21,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
+,round,winningTeamRound,losingTeamRound,date,map,event,winner,loser
+0,1,3,0,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,100 Thieves,Envy
+1,2,3,0,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,100 Thieves,Envy
+2,3,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,100 Thieves,Envy
+3,4,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,100 Thieves,Envy
+4,5,0,4,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,100 Thieves,Envy
+5,6,3,0,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,100 Thieves,Envy
+6,7,3,0,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,100 Thieves,Envy
+7,8,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,100 Thieves,Envy
+8,9,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,100 Thieves,Envy
+9,10,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,100 Thieves,Envy
+10,11,3,0,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,100 Thieves,Envy
+11,12,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,100 Thieves,Envy
+12,13,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,100 Thieves,Envy
+13,14,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,100 Thieves,Envy
+14,15,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,100 Thieves,Envy
+15,16,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,100 Thieves,Envy
+16,17,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,100 Thieves,Envy
+17,18,1,0,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,100 Thieves,Envy
+18,19,1,0,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,100 Thieves,Envy
+19,20,1,0,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,100 Thieves,Envy
+20,21,0,3,18-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,100 Thieves,Envy

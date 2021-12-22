@@ -1,19 +1,19 @@
-,round,Team Vikings,Team Liquid,date,map,event
-0,1,0,4,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-1,2,3,0,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-2,3,4,0,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-3,4,0,4,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-4,5,0,4,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-5,6,4,0,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-6,7,0,3,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-7,8,0,3,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-8,9,0,4,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-9,10,4,0,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-10,11,3,0,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-11,12,0,3,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-12,13,0,3,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-13,14,0,4,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-14,15,0,3,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-15,16,0,3,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-16,17,0,3,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-17,18,0,3,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
+,round,winningTeamRound,losingTeamRound,date,map,event,winner,loser
+0,1,0,4,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Vikings,Team Liquid
+1,2,3,0,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Vikings,Team Liquid
+2,3,4,0,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Vikings,Team Liquid
+3,4,0,4,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Vikings,Team Liquid
+4,5,0,4,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Vikings,Team Liquid
+5,6,4,0,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Vikings,Team Liquid
+6,7,0,3,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Vikings,Team Liquid
+7,8,0,3,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Vikings,Team Liquid
+8,9,0,4,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Vikings,Team Liquid
+9,10,4,0,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Vikings,Team Liquid
+10,11,3,0,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Vikings,Team Liquid
+11,12,0,3,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Vikings,Team Liquid
+12,13,0,3,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Vikings,Team Liquid
+13,14,0,4,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Vikings,Team Liquid
+14,15,0,3,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Vikings,Team Liquid
+15,16,0,3,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Vikings,Team Liquid
+16,17,0,3,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Vikings,Team Liquid
+17,18,0,3,28-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Vikings,Team Liquid

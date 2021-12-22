@@ -1,19 +1,19 @@
-,round,SuperMassive Blaze,Acend,date,map,event
-0,1,0,3,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin
-1,2,0,3,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin
-2,3,0,4,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin
-3,4,0,3,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin
-4,5,0,3,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin
-5,6,1,0,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin
-6,7,0,4,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin
-7,8,2,0,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin
-8,9,0,4,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin
-9,10,0,4,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin
-10,11,0,3,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin
-11,12,0,3,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin
-12,13,3,0,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin
-13,14,3,0,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin
-14,15,0,4,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin
-15,16,4,0,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin
-16,17,0,3,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin
-17,18,0,3,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin
+,round,winningTeamRound,losingTeamRound,date,map,event,winner,loser
+0,1,0,3,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin,SuperMassive Blaze,Acend
+1,2,0,3,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin,SuperMassive Blaze,Acend
+2,3,0,4,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin,SuperMassive Blaze,Acend
+3,4,0,3,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin,SuperMassive Blaze,Acend
+4,5,0,3,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin,SuperMassive Blaze,Acend
+5,6,1,0,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin,SuperMassive Blaze,Acend
+6,7,0,4,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin,SuperMassive Blaze,Acend
+7,8,2,0,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin,SuperMassive Blaze,Acend
+8,9,0,4,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin,SuperMassive Blaze,Acend
+9,10,0,4,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin,SuperMassive Blaze,Acend
+10,11,0,3,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin,SuperMassive Blaze,Acend
+11,12,0,3,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin,SuperMassive Blaze,Acend
+12,13,3,0,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin,SuperMassive Blaze,Acend
+13,14,3,0,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin,SuperMassive Blaze,Acend
+14,15,0,4,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin,SuperMassive Blaze,Acend
+15,16,4,0,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin,SuperMassive Blaze,Acend
+16,17,0,3,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin,SuperMassive Blaze,Acend
+17,18,0,3,10-09-21,Bind,Valorant Champions Tour Stage 3: Masters Berlin,SuperMassive Blaze,Acend

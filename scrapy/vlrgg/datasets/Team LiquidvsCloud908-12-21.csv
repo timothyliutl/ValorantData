@@ -1,25 +1,25 @@
-,round,Team Liquid,Cloud9,date,map,event
-0,1,0,3,08-12-21,Ascent,VALORANT Champions
-1,2,0,3,08-12-21,Ascent,VALORANT Champions
-2,3,3,0,08-12-21,Ascent,VALORANT Champions
-3,4,4,0,08-12-21,Ascent,VALORANT Champions
-4,5,0,4,08-12-21,Ascent,VALORANT Champions
-5,6,0,4,08-12-21,Ascent,VALORANT Champions
-6,7,0,3,08-12-21,Ascent,VALORANT Champions
-7,8,3,0,08-12-21,Ascent,VALORANT Champions
-8,9,3,0,08-12-21,Ascent,VALORANT Champions
-9,10,0,3,08-12-21,Ascent,VALORANT Champions
-10,11,0,3,08-12-21,Ascent,VALORANT Champions
-11,12,3,0,08-12-21,Ascent,VALORANT Champions
-12,13,1,0,08-12-21,Ascent,VALORANT Champions
-13,14,1,0,08-12-21,Ascent,VALORANT Champions
-14,15,2,0,08-12-21,Ascent,VALORANT Champions
-15,16,0,4,08-12-21,Ascent,VALORANT Champions
-16,17,2,0,08-12-21,Ascent,VALORANT Champions
-17,18,1,0,08-12-21,Ascent,VALORANT Champions
-18,19,1,0,08-12-21,Ascent,VALORANT Champions
-19,20,1,0,08-12-21,Ascent,VALORANT Champions
-20,21,0,3,08-12-21,Ascent,VALORANT Champions
-21,22,0,3,08-12-21,Ascent,VALORANT Champions
-22,23,0,4,08-12-21,Ascent,VALORANT Champions
-23,24,2,0,08-12-21,Ascent,VALORANT Champions
+,round,winningTeamRound,losingTeamRound,date,map,event,winner,loser
+0,1,0,3,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9
+1,2,0,3,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9
+2,3,3,0,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9
+3,4,4,0,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9
+4,5,0,4,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9
+5,6,0,4,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9
+6,7,0,3,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9
+7,8,3,0,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9
+8,9,3,0,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9
+9,10,0,3,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9
+10,11,0,3,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9
+11,12,3,0,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9
+12,13,1,0,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9
+13,14,1,0,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9
+14,15,2,0,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9
+15,16,0,4,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9
+16,17,2,0,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9
+17,18,1,0,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9
+18,19,1,0,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9
+19,20,1,0,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9
+20,21,0,3,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9
+21,22,0,3,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9
+22,23,0,4,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9
+23,24,2,0,08-12-21,Ascent,VALORANT Champions,Team Liquid,Cloud9

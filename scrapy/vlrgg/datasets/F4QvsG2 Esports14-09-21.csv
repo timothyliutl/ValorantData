@@ -1,20 +1,20 @@
-,round,F4Q,G2 Esports,date,map,event
-0,1,0,3,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-1,2,0,3,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-2,3,1,0,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-3,4,0,3,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-4,5,0,3,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-5,6,1,0,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-6,7,1,0,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-7,8,0,3,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-8,9,0,3,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-9,10,0,3,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-10,11,0,3,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-11,12,0,3,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-12,13,0,3,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-13,14,0,4,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-14,15,4,0,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-15,16,3,0,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-16,17,3,0,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-17,18,0,4,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
-18,19,0,4,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin
+,round,winningTeamRound,losingTeamRound,date,map,event,winner,loser
+0,1,0,3,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,G2 Esports
+1,2,0,3,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,G2 Esports
+2,3,1,0,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,G2 Esports
+3,4,0,3,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,G2 Esports
+4,5,0,3,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,G2 Esports
+5,6,1,0,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,G2 Esports
+6,7,1,0,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,G2 Esports
+7,8,0,3,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,G2 Esports
+8,9,0,3,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,G2 Esports
+9,10,0,3,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,G2 Esports
+10,11,0,3,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,G2 Esports
+11,12,0,3,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,G2 Esports
+12,13,0,3,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,G2 Esports
+13,14,0,4,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,G2 Esports
+14,15,4,0,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,G2 Esports
+15,16,3,0,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,G2 Esports
+16,17,3,0,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,G2 Esports
+17,18,0,4,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,G2 Esports
+18,19,0,4,14-09-21,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,G2 Esports

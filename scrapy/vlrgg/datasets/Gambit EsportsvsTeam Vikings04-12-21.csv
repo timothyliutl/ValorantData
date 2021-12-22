@@ -1,27 +1,27 @@
-,round,Gambit Esports,Team Vikings,date,map,event
-0,1,0,4,04-12-21,Icebox,VALORANT Champions
-1,2,0,3,04-12-21,Icebox,VALORANT Champions
-2,3,0,4,04-12-21,Icebox,VALORANT Champions
-3,4,0,4,04-12-21,Icebox,VALORANT Champions
-4,5,3,0,04-12-21,Icebox,VALORANT Champions
-5,6,0,4,04-12-21,Icebox,VALORANT Champions
-6,7,0,3,04-12-21,Icebox,VALORANT Champions
-7,8,3,0,04-12-21,Icebox,VALORANT Champions
-8,9,3,0,04-12-21,Icebox,VALORANT Champions
-9,10,0,4,04-12-21,Icebox,VALORANT Champions
-10,11,0,4,04-12-21,Icebox,VALORANT Champions
-11,12,0,3,04-12-21,Icebox,VALORANT Champions
-12,13,2,0,04-12-21,Icebox,VALORANT Champions
-13,14,0,3,04-12-21,Icebox,VALORANT Champions
-14,15,0,3,04-12-21,Icebox,VALORANT Champions
-15,16,2,0,04-12-21,Icebox,VALORANT Champions
-16,17,0,4,04-12-21,Icebox,VALORANT Champions
-17,18,1,0,04-12-21,Icebox,VALORANT Champions
-18,19,1,0,04-12-21,Icebox,VALORANT Champions
-19,20,2,0,04-12-21,Icebox,VALORANT Champions
-20,21,1,0,04-12-21,Icebox,VALORANT Champions
-21,22,2,0,04-12-21,Icebox,VALORANT Champions
-22,23,2,0,04-12-21,Icebox,VALORANT Champions
-23,24,2,0,04-12-21,Icebox,VALORANT Champions
-24,25,3,0,04-12-21,Icebox,VALORANT Champions
-25,26,1,0,04-12-21,Icebox,VALORANT Champions
+,round,winningTeamRound,losingTeamRound,date,map,event,winner,loser
+0,1,0,4,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+1,2,0,3,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+2,3,0,4,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+3,4,0,4,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+4,5,3,0,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+5,6,0,4,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+6,7,0,3,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+7,8,3,0,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+8,9,3,0,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+9,10,0,4,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+10,11,0,4,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+11,12,0,3,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+12,13,2,0,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+13,14,0,3,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+14,15,0,3,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+15,16,2,0,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+16,17,0,4,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+17,18,1,0,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+18,19,1,0,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+19,20,2,0,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+20,21,1,0,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+21,22,2,0,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+22,23,2,0,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+23,24,2,0,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+24,25,3,0,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings
+25,26,1,0,04-12-21,Icebox,VALORANT Champions,Gambit Esports,Team Vikings

@@ -1,18 +1,18 @@
-,round,F4Q,Sentinels,date,map,event
-0,1,0,3,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin
-1,2,0,3,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin
-2,3,1,0,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin
-3,4,2,0,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin
-4,5,1,0,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin
-5,6,0,3,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin
-6,7,1,0,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin
-7,8,0,4,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin
-8,9,0,3,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin
-9,10,0,3,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin
-10,11,0,4,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin
-11,12,0,3,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin
-12,13,0,3,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin
-13,14,0,3,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin
-14,15,0,3,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin
-15,16,0,4,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin
-16,17,0,3,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin
+,round,winningTeamRound,losingTeamRound,date,map,event,winner,loser
+0,1,0,3,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,Sentinels
+1,2,0,3,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,Sentinels
+2,3,1,0,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,Sentinels
+3,4,2,0,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,Sentinels
+4,5,1,0,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,Sentinels
+5,6,0,3,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,Sentinels
+6,7,1,0,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,Sentinels
+7,8,0,4,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,Sentinels
+8,9,0,3,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,Sentinels
+9,10,0,3,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,Sentinels
+10,11,0,4,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,Sentinels
+11,12,0,3,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,Sentinels
+12,13,0,3,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,Sentinels
+13,14,0,3,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,Sentinels
+14,15,0,3,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,Sentinels
+15,16,0,4,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,Sentinels
+16,17,0,3,13-09-21,Breeze,Valorant Champions Tour Stage 3: Masters Berlin,F4Q,Sentinels

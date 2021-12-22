@@ -1,23 +1,23 @@
-,round,Fnatic,X10 CRIT,date,map,event
-0,1,0,4,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-1,2,0,3,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-2,3,0,3,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-3,4,3,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-4,5,3,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-5,6,3,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-6,7,3,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-7,8,3,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-8,9,4,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-9,10,4,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-10,11,4,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-11,12,3,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-12,13,0,3,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-13,14,0,3,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-14,15,2,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-15,16,0,3,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-16,17,0,3,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-17,18,2,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-18,19,2,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-19,20,0,3,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-20,21,0,3,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
-21,22,2,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik
+,round,winningTeamRound,losingTeamRound,date,map,event,winner,loser
+0,1,0,4,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,X10 CRIT
+1,2,0,3,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,X10 CRIT
+2,3,0,3,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,X10 CRIT
+3,4,3,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,X10 CRIT
+4,5,3,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,X10 CRIT
+5,6,3,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,X10 CRIT
+6,7,3,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,X10 CRIT
+7,8,3,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,X10 CRIT
+8,9,4,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,X10 CRIT
+9,10,4,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,X10 CRIT
+10,11,4,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,X10 CRIT
+11,12,3,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,X10 CRIT
+12,13,0,3,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,X10 CRIT
+13,14,0,3,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,X10 CRIT
+14,15,2,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,X10 CRIT
+15,16,0,3,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,X10 CRIT
+16,17,0,3,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,X10 CRIT
+17,18,2,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,X10 CRIT
+18,19,2,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,X10 CRIT
+19,20,0,3,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,X10 CRIT
+20,21,0,3,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,X10 CRIT
+21,22,2,0,27-05-21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,X10 CRIT

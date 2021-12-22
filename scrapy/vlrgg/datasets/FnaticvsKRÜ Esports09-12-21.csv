@@ -1,22 +1,22 @@
-,round,Fnatic,KRÜ Esports,date,map,event
-0,1,0,3,09-12-21,Split,VALORANT Champions
-1,2,0,3,09-12-21,Split,VALORANT Champions
-2,3,3,0,09-12-21,Split,VALORANT Champions
-3,4,0,4,09-12-21,Split,VALORANT Champions
-4,5,0,3,09-12-21,Split,VALORANT Champions
-5,6,0,3,09-12-21,Split,VALORANT Champions
-6,7,4,0,09-12-21,Split,VALORANT Champions
-7,8,0,3,09-12-21,Split,VALORANT Champions
-8,9,3,0,09-12-21,Split,VALORANT Champions
-9,10,4,0,09-12-21,Split,VALORANT Champions
-10,11,0,3,09-12-21,Split,VALORANT Champions
-11,12,3,0,09-12-21,Split,VALORANT Champions
-12,13,0,3,09-12-21,Split,VALORANT Champions
-13,14,0,3,09-12-21,Split,VALORANT Champions
-14,15,0,4,09-12-21,Split,VALORANT Champions
-15,16,2,0,09-12-21,Split,VALORANT Champions
-16,17,0,3,09-12-21,Split,VALORANT Champions
-17,18,0,3,09-12-21,Split,VALORANT Champions
-18,19,2,0,09-12-21,Split,VALORANT Champions
-19,20,2,0,09-12-21,Split,VALORANT Champions
-20,21,0,3,09-12-21,Split,VALORANT Champions
+,round,winningTeamRound,losingTeamRound,date,map,event,winner,loser
+0,1,0,3,09-12-21,Split,VALORANT Champions,Fnatic,KRÜ Esports
+1,2,0,3,09-12-21,Split,VALORANT Champions,Fnatic,KRÜ Esports
+2,3,3,0,09-12-21,Split,VALORANT Champions,Fnatic,KRÜ Esports
+3,4,0,4,09-12-21,Split,VALORANT Champions,Fnatic,KRÜ Esports
+4,5,0,3,09-12-21,Split,VALORANT Champions,Fnatic,KRÜ Esports
+5,6,0,3,09-12-21,Split,VALORANT Champions,Fnatic,KRÜ Esports
+6,7,4,0,09-12-21,Split,VALORANT Champions,Fnatic,KRÜ Esports
+7,8,0,3,09-12-21,Split,VALORANT Champions,Fnatic,KRÜ Esports
+8,9,3,0,09-12-21,Split,VALORANT Champions,Fnatic,KRÜ Esports
+9,10,4,0,09-12-21,Split,VALORANT Champions,Fnatic,KRÜ Esports
+10,11,0,3,09-12-21,Split,VALORANT Champions,Fnatic,KRÜ Esports
+11,12,3,0,09-12-21,Split,VALORANT Champions,Fnatic,KRÜ Esports
+12,13,0,3,09-12-21,Split,VALORANT Champions,Fnatic,KRÜ Esports
+13,14,0,3,09-12-21,Split,VALORANT Champions,Fnatic,KRÜ Esports
+14,15,0,4,09-12-21,Split,VALORANT Champions,Fnatic,KRÜ Esports
+15,16,2,0,09-12-21,Split,VALORANT Champions,Fnatic,KRÜ Esports
+16,17,0,3,09-12-21,Split,VALORANT Champions,Fnatic,KRÜ Esports
+17,18,0,3,09-12-21,Split,VALORANT Champions,Fnatic,KRÜ Esports
+18,19,2,0,09-12-21,Split,VALORANT Champions,Fnatic,KRÜ Esports
+19,20,2,0,09-12-21,Split,VALORANT Champions,Fnatic,KRÜ Esports
+20,21,0,3,09-12-21,Split,VALORANT Champions,Fnatic,KRÜ Esports

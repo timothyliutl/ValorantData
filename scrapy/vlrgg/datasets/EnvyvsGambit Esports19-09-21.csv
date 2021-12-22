@@ -1,23 +1,23 @@
-,round,Envy,Gambit Esports,date,map,event
-0,1,0,3,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin
-1,2,0,4,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin
-2,3,1,0,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin
-3,4,2,0,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin
-4,5,1,0,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin
-5,6,0,3,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin
-6,7,1,0,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin
-7,8,1,0,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin
-8,9,0,3,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin
-9,10,2,0,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin
-10,11,0,3,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin
-11,12,0,3,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin
-12,13,0,4,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin
-13,14,0,3,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin
-14,15,3,0,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin
-15,16,4,0,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin
-16,17,0,3,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin
-17,18,0,3,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin
-18,19,0,3,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin
-19,20,4,0,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin
-20,21,0,3,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin
-21,22,0,3,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin
+,round,winningTeamRound,losingTeamRound,date,map,event,winner,loser
+0,1,0,3,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin,Envy,Gambit Esports
+1,2,0,4,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin,Envy,Gambit Esports
+2,3,1,0,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin,Envy,Gambit Esports
+3,4,2,0,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin,Envy,Gambit Esports
+4,5,1,0,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin,Envy,Gambit Esports
+5,6,0,3,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin,Envy,Gambit Esports
+6,7,1,0,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin,Envy,Gambit Esports
+7,8,1,0,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin,Envy,Gambit Esports
+8,9,0,3,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin,Envy,Gambit Esports
+9,10,2,0,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin,Envy,Gambit Esports
+10,11,0,3,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin,Envy,Gambit Esports
+11,12,0,3,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin,Envy,Gambit Esports
+12,13,0,4,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin,Envy,Gambit Esports
+13,14,0,3,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin,Envy,Gambit Esports
+14,15,3,0,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin,Envy,Gambit Esports
+15,16,4,0,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin,Envy,Gambit Esports
+16,17,0,3,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin,Envy,Gambit Esports
+17,18,0,3,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin,Envy,Gambit Esports
+18,19,0,3,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin,Envy,Gambit Esports
+19,20,4,0,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin,Envy,Gambit Esports
+20,21,0,3,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin,Envy,Gambit Esports
+21,22,0,3,19-09-21,Split,Valorant Champions Tour Stage 3: Masters Berlin,Envy,Gambit Esports

@@ -1,19 +1,19 @@
-,round,Keyd Stars,X10 CRIT,date,map,event
-0,1,0,3,06-12-21,Haven,VALORANT Champions
-1,2,0,3,06-12-21,Haven,VALORANT Champions
-2,3,1,0,06-12-21,Haven,VALORANT Champions
-3,4,0,3,06-12-21,Haven,VALORANT Champions
-4,5,0,4,06-12-21,Haven,VALORANT Champions
-5,6,0,4,06-12-21,Haven,VALORANT Champions
-6,7,0,3,06-12-21,Haven,VALORANT Champions
-7,8,0,4,06-12-21,Haven,VALORANT Champions
-8,9,0,3,06-12-21,Haven,VALORANT Champions
-9,10,1,0,06-12-21,Haven,VALORANT Champions
-10,11,1,0,06-12-21,Haven,VALORANT Champions
-11,12,0,3,06-12-21,Haven,VALORANT Champions
-12,13,0,3,06-12-21,Haven,VALORANT Champions
-13,14,0,3,06-12-21,Haven,VALORANT Champions
-14,15,3,0,06-12-21,Haven,VALORANT Champions
-15,16,0,3,06-12-21,Haven,VALORANT Champions
-16,17,4,0,06-12-21,Haven,VALORANT Champions
-17,18,0,3,06-12-21,Haven,VALORANT Champions
+,round,winningTeamRound,losingTeamRound,date,map,event,winner,loser
+0,1,0,3,06-12-21,Haven,VALORANT Champions,Keyd Stars,X10 CRIT
+1,2,0,3,06-12-21,Haven,VALORANT Champions,Keyd Stars,X10 CRIT
+2,3,1,0,06-12-21,Haven,VALORANT Champions,Keyd Stars,X10 CRIT
+3,4,0,3,06-12-21,Haven,VALORANT Champions,Keyd Stars,X10 CRIT
+4,5,0,4,06-12-21,Haven,VALORANT Champions,Keyd Stars,X10 CRIT
+5,6,0,4,06-12-21,Haven,VALORANT Champions,Keyd Stars,X10 CRIT
+6,7,0,3,06-12-21,Haven,VALORANT Champions,Keyd Stars,X10 CRIT
+7,8,0,4,06-12-21,Haven,VALORANT Champions,Keyd Stars,X10 CRIT
+8,9,0,3,06-12-21,Haven,VALORANT Champions,Keyd Stars,X10 CRIT
+9,10,1,0,06-12-21,Haven,VALORANT Champions,Keyd Stars,X10 CRIT
+10,11,1,0,06-12-21,Haven,VALORANT Champions,Keyd Stars,X10 CRIT
+11,12,0,3,06-12-21,Haven,VALORANT Champions,Keyd Stars,X10 CRIT
+12,13,0,3,06-12-21,Haven,VALORANT Champions,Keyd Stars,X10 CRIT
+13,14,0,3,06-12-21,Haven,VALORANT Champions,Keyd Stars,X10 CRIT
+14,15,3,0,06-12-21,Haven,VALORANT Champions,Keyd Stars,X10 CRIT
+15,16,0,3,06-12-21,Haven,VALORANT Champions,Keyd Stars,X10 CRIT
+16,17,4,0,06-12-21,Haven,VALORANT Champions,Keyd Stars,X10 CRIT
+17,18,0,3,06-12-21,Haven,VALORANT Champions,Keyd Stars,X10 CRIT
