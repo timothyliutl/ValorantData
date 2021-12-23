@@ -8,15 +8,19 @@ class VlrSpider(scrapy.Spider):
     name = 'valorant'
     start_urls = ['https://www.vlr.gg/event/matches/449/valorant-champions/?series_id=all', 
     'https://www.vlr.gg/event/matches/466/valorant-champions-tour-stage-3-masters-berlin/?series_id=all', 
-    'https://www.vlr.gg/event/matches/353/valorant-champions-tour-stage-2-masters-reykjavik/?series_id=all&group=all']
-
+    'https://www.vlr.gg/event/matches/353/valorant-champions-tour-stage-2-masters-reykjavik/?series_id=all&group=all',
+    'https://www.vlr.gg/event/matches/558/champions-tour-north-america-last-chance-qualifier/?series_id=all&group=all',
+    'https://www.vlr.gg/event/matches/285/champions-tour-latam-stage-1-challengers-1/?series_id=all&group=all',
+    'https://www.vlr.gg/event/matches/351/champions-tour-korea-stage-1-masters/?series_id=all&group=all',
+    'https://www.vlr.gg/event/matches/324/champions-tour-north-america-stage-1-challengers-3/?series_id=all&group=all']
+    #update this so we dont have to get these links ourselves
     def start_requests(self):
         for url in self.start_urls:
             yield scrapy.Request(url, self.parse)
     
     def parse(self, response):
         event = response.css('.wf-title::text')[0].extract().strip()
-        for match in response.css('.wf-module-item.match-item.mod-color.mod-left.mod-bg-after-striped_purple'):
+        for match in response.css('.wf-module-item.match-item.mod-color.mod-left'):
             link = match.attrib['href']
             yield scrapy.Request('https://www.vlr.gg' + link, callback=self.postparse, meta={'event': event})
 
