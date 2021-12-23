@@ -1,23 +1,23 @@
-,round,winningTeamRound,losingTeamRound,date,map,event,winner,loser
-0,1,3,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports
-1,2,3,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports
-2,3,0,4,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports
-3,4,0,4,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports
-4,5,0,4,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports
-5,6,0,3,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports
-6,7,0,4,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports
-7,8,4,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports
-8,9,0,4,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports
-9,10,0,3,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports
-10,11,3,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports
-11,12,3,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports
-12,13,0,4,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports
-13,14,0,3,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports
-14,15,2,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports
-15,16,1,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports
-16,17,1,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports
-17,18,2,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports
-18,19,1,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports
-19,20,2,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports
-20,21,1,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports
-21,22,2,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports
+,round,winningTeamRound,losingTeamRound,date,map,event,winner,loser,matchid
+0,1,3,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports,Team LiquidvsKRÜ Esports27-05-21
+1,2,3,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports,Team LiquidvsKRÜ Esports27-05-21
+2,3,0,4,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports,Team LiquidvsKRÜ Esports27-05-21
+3,4,0,4,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports,Team LiquidvsKRÜ Esports27-05-21
+4,5,0,4,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports,Team LiquidvsKRÜ Esports27-05-21
+5,6,0,3,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports,Team LiquidvsKRÜ Esports27-05-21
+6,7,0,4,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports,Team LiquidvsKRÜ Esports27-05-21
+7,8,4,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports,Team LiquidvsKRÜ Esports27-05-21
+8,9,0,4,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports,Team LiquidvsKRÜ Esports27-05-21
+9,10,0,3,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports,Team LiquidvsKRÜ Esports27-05-21
+10,11,3,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports,Team LiquidvsKRÜ Esports27-05-21
+11,12,3,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports,Team LiquidvsKRÜ Esports27-05-21
+12,13,0,4,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports,Team LiquidvsKRÜ Esports27-05-21
+13,14,0,3,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports,Team LiquidvsKRÜ Esports27-05-21
+14,15,2,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports,Team LiquidvsKRÜ Esports27-05-21
+15,16,1,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports,Team LiquidvsKRÜ Esports27-05-21
+16,17,1,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports,Team LiquidvsKRÜ Esports27-05-21
+17,18,2,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports,Team LiquidvsKRÜ Esports27-05-21
+18,19,1,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports,Team LiquidvsKRÜ Esports27-05-21
+19,20,2,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports,Team LiquidvsKRÜ Esports27-05-21
+20,21,1,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports,Team LiquidvsKRÜ Esports27-05-21
+21,22,2,0,27-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Team Liquid,KRÜ Esports,Team LiquidvsKRÜ Esports27-05-21

@@ -1,291 +1,616 @@
 winner,loser,numRounds,mapName,event,date
-Vision Strikers,FULL SENSE,18,Breeze,VALORANT Champions,2021-12-01 09:00:00
-Acend,Team Liquid,19,Split,VALORANT Champions,2021-12-11 12:00:00
-Gambit Esports,X10 CRIT,20,Breeze,VALORANT Champions,2021-12-09 12:00:00
-Vision Strikers,Cloud9,23,Breeze,VALORANT Champions,2021-12-07 09:00:00
-Team Liquid,Cloud9,23,Ascent,VALORANT Champions,2021-12-08 15:00:00
-Fnatic,KRÜ Esports,28,Split,VALORANT Champions,2021-12-09 15:40:00
-Gambit Esports,KRÜ Esports,21,Bind,VALORANT Champions,2021-12-11 15:00:00
-Acend,Team Secret,21,Breeze,VALORANT Champions,2021-12-08 12:00:00
-Team Vikings,Team Secret,19,Icebox,VALORANT Champions,2021-12-07 13:15:00
-Envy,X10 CRIT,23,Haven,VALORANT Champions,2021-12-07 16:00:00
-Acend,Gambit Esports,24,Split,VALORANT Champions,2021-12-12 12:30:00
-Sentinels,KRÜ Esports,20,Split,VALORANT Champions,2021-12-06 14:40:00
-9z Team,Furious Gaming,20,Ascent,Champions Tour LATAM Stage 1: Challengers 1,2021-01-31 16:00:00
-Keyd Stars,X10 CRIT,19,Haven,VALORANT Champions,2021-12-06 12:00:00
-Acend,Envy,21,Bind,VALORANT Champions,2021-12-06 09:00:00
+Oxygen Esports,SuperMassive Blaze,26,Haven,Champions Tour Turkey Stage 3: Challengers 1,2021-07-10 12:00:00
+Fire Flux Esports,SuperMassive Blaze,15,Icebox,Champions Tour Turkey Stage 3: Challengers 1,2021-07-08 14:00:00
+Eternity Esports,Error404,38,Haven,Strike Arabia Championship: Season 2,2021-07-02 15:00:00
+Futbolist,SuperMassive Blaze,17,Icebox,Champions Tour Turkey Stage 3: Challengers 1,2021-07-09 11:00:00
+Version1,Envy,23,Ascent,Champions Tour North America Stage 2: Challengers Finals,2021-05-01 18:45:00
 Team Vikings,X10 CRIT,26,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,2021-05-25 11:00:00
-LDM Esports,E-Xolos LAZER,28,Haven,Champions Tour LATAM Stage 1: Challengers 1,2021-01-31 18:10:00
-Envy,Gambit Esports,28,Split,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-19 12:00:00
-Luminosity,100 Thieves,20,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-03-06 19:50:00
-Gen.G,100 Thieves,32,Bind,Champions Tour North America Stage 1: Challengers 3,2021-03-06 16:55:00
-Luminosity,FaZe Clan,20,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-03-06 15:00:00
-NRG Esports,Gen.G,22,Haven,Champions Tour North America Stage 1: Challengers 3,2021-03-05 18:15:00
-TSM,100 Thieves,17,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-03-05 17:05:00
-FaZe Clan,100 Thieves,0,Bind,Champions Tour North America Stage 1: Challengers 3,2021-03-07 15:00:00
-NRG Esports,FaZe Clan,22,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-03-05 15:00:00
-Luminosity,TSM,22,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-03-05 15:00:00
-FaZe Clan,T1,21,Haven,Champions Tour North America Stage 1: Challengers 3,2021-03-04 17:00:00
-100 Thieves,T1,21,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-03-04 20:40:00
-Kooky Koalas,Gen.G,24,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-03-04 19:20:00
-Gen.G,TSM,21,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-03-04 15:00:00
-T1,Cloud9,23,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-28 18:00:00
-Luminosity,Kooky Koalas,20,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-03-04 15:00:00
-beastcoast,DaHoonkaBhanKoloos,18,Bind,Champions Tour North America Stage 1: Challengers 3,2021-02-28 20:10:00
-100 Thieves,NRG Esports,32,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-03-04 17:25:00
-Built By Gamers,DaHoonkaBhanKoloos,23,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-26 20:20:00
-Renegades,beastcoast,26,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-26 20:30:00
-TSM,Version1,19,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-27 18:00:00
-NRG Esports,On The Way,19,Bind,Champions Tour North America Stage 1: Challengers 3,2021-02-26 21:55:00
-TSM,Spot Up,17,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-26 20:30:00
-Demon Time,NRG Esports,28,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-27 20:05:00
-Cloud9,Ghost Gaming,19,Split,Champions Tour North America Stage 1: Challengers 3,2021-02-26 21:05:00
-Demon Time,Knights,19,Split,Champions Tour North America Stage 1: Challengers 3,2021-02-26 20:30:00
-Infinity Esports,Pro Hub Gaming,17,Icebox,Champions Tour LATAM Stage 1: Challengers 1,2021-01-31 16:00:00
+Gambit Esports,No Pressure,23,Split,Champions Tour CIS Stage 3: Challengers 1,2021-07-10 11:00:00
+Anubis Gaming,Team Majesty,20,Haven,Strike Arabia League: Season 1,2021-05-14 16:00:00
+FURIA,Ingaming,22,Ascent,Champions Tour Brazil Stage 2: Challengers Finals,2021-05-07 16:15:00
+E9Sports,Team Majesty,23,Haven,Strike Arabia Championship: Season 2,2021-07-12 12:30:00
+Crazy Raccoon,Storks Phalanx,16,Icebox,Champions Tour Japan Stage 3: Challengers 1,2021-07-11 09:20:00
+Wildcard Gaming,ORDER,22,Split,Oceania Tour: Stage 02,2021-06-06 01:30:00
+UwU,Paper Rex,21,Ascent,Champions Tour Malaysia & Singapore Stage 3: Challengers 1,2021-07-11 00:30:00
 Wygers Argentina,KRÜ Esports,22,Bind,Champions Tour LATAM Stage 1: Challengers 1,2021-01-31 16:00:00
-T1,Frick Ya Bag,14,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-26 20:15:00
-Version1,Rise,24,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-02-26 20:00:00
-E-Xolos LAZER,Pro Hub Gaming,16,Bind,Champions Tour LATAM Stage 1: Challengers 1,2021-01-30 18:30:00
-Infinity Esports,LDM Esports,30,Bind,Champions Tour LATAM Stage 1: Challengers 1,2021-01-30 16:00:00
 KRÜ Esports,Furious Gaming,18,Ascent,Champions Tour LATAM Stage 1: Challengers 1,2021-01-29 15:00:00
+9z Team,Furious Gaming,20,Ascent,Champions Tour LATAM Stage 1: Challengers 1,2021-01-31 16:00:00
+ex-SV Empire,Bren Esports,22,Bind,Champions Tour Philippines Stage 1: Challengers 1,2021-02-07 03:45:00
+Bren Esports,DreamFyre,17,Bind,Champions Tour Philippines Stage 1: Challengers 1,2021-02-06 06:30:00
+ex-SV Empire,Chimaera,22,Bind,Champions Tour Philippines Stage 1: Challengers 1,2021-02-06 04:00:00
+Affinity Esports,DreamFyre,28,Icebox,Champions Tour Philippines Stage 1: Challengers 1,2021-02-06 01:00:00
+6045Pirates,Chimaera,23,Ascent,Champions Tour Philippines Stage 1: Challengers 1,2021-02-05 03:30:00
+Reality Rift,Team SMG,23,Split,Champions Tour Malaysia & Singapore Stage 1: Challengers 1,2021-02-07 00:20:00
+Bren Esports,SE ATLAS,15,Ascent,Champions Tour Philippines Stage 1: Challengers 1,2021-02-05 05:30:00
+ArkAngel,ex-SV Empire,23,Bind,Champions Tour Philippines Stage 1: Challengers 1,2021-02-05 01:00:00
+Team SMG,Kingsmen,24,Split,Champions Tour Malaysia & Singapore Stage 1: Challengers 1,2021-02-06 21:00:00
+Kingsmen,XIAO,14,Bind,Champions Tour Malaysia & Singapore Stage 1: Challengers 1,2021-02-06 06:30:00
+Reality Rift,Team SMG,22,Split,Champions Tour Malaysia & Singapore Stage 1: Challengers 1,2021-02-06 03:15:00
+XIAO,Looking For Org,21,Ascent,Champions Tour Malaysia & Singapore Stage 1: Challengers 1,2021-02-06 02:30:00
+Kingsmen,Todak,23,Ascent,Champions Tour Malaysia & Singapore Stage 1: Challengers 1,2021-02-06 01:10:00
+Looking For Org,Team SMG,14,Icebox,Champions Tour Malaysia & Singapore Stage 1: Challengers 1,2021-02-05 23:10:00
+Todak,Reality Rift,22,Split,Champions Tour Malaysia & Singapore Stage 1: Challengers 1,2021-02-05 21:00:00
+Kingsmen,Louvre,22,Haven,Champions Tour Malaysia & Singapore Stage 1: Challengers 1,2021-02-05 08:10:00
+ex-Timing Monster Gaming,XIAO,19,Ascent,Champions Tour Malaysia & Singapore Stage 1: Challengers 1,2021-02-05 07:10:00
+Team SMG,Louvre,20,Icebox,Champions Tour Malaysia & Singapore Stage 1: Challengers 1,2021-02-05 05:00:00
+Looking For Org,Kingsmen,19,Split,Champions Tour Malaysia & Singapore Stage 1: Challengers 1,2021-02-05 02:10:00
+XIAO,Reality Rift,21,Ascent,Champions Tour Malaysia & Singapore Stage 1: Challengers 1,2021-02-05 00:00:00
+OhMyGirl,X10 CRIT,20,Icebox,Champions Tour Thailand Stage 1: Challengers 1,2021-02-07 03:15:00
+Foxy Araikordai,X10 CRIT,18,Bind,Champions Tour Thailand Stage 1: Challengers 1,2021-02-07 05:35:00
+Todak,ex-Timing Monster Gaming,20,Split,Champions Tour Malaysia & Singapore Stage 1: Challengers 1,2021-02-04 21:00:00
+Foxy Araikordai,NG.Black,26,Bind,Champions Tour Thailand Stage 1: Challengers 1,2021-02-07 00:00:00
+X10 CRIT,Aricat Esport,23,Split,Champions Tour Thailand Stage 1: Challengers 1,2021-02-06 04:00:00
+Galaxy Racer,Zeal Esports,19,Icebox,Champions Tour Philippines Stage 3: Challengers 1,2021-07-10 07:25:00
+SV Empire,Zeal Esports,24,Split,Champions Tour Philippines Stage 3: Challengers 1,2021-07-11 01:00:00
+Sharper Esport,NG.Black,22,Split,Champions Tour Thailand Stage 1: Challengers 1,2021-02-06 00:00:00
+Foxy Araikordai,Terminate Esports,15,Haven,Champions Tour Thailand Stage 1: Challengers 1,2021-02-05 08:10:00
+Bren Esports,Galaxy Racer,21,Breeze,Champions Tour Philippines Stage 3: Challengers 1,2021-07-11 03:00:00
+Bren Esports,SV Empire,24,Ascent,Champions Tour Philippines Stage 3: Challengers 1,2021-07-10 04:20:00
+Zeal Esports,SE ATLAS,26,Split,Champions Tour Philippines Stage 3: Challengers 1,2021-07-10 01:00:00
+AboveCloud,OhMyGirl,17,Bind,Champions Tour Thailand Stage 1: Challengers 1,2021-02-06 02:00:00
+SR KADILIMAN,Galaxy Racer,23,Haven,Champions Tour Philippines Stage 3: Challengers 1,2021-07-09 06:30:00
+SV Empire,South Built Esports,14,Ascent,Champions Tour Philippines Stage 3: Challengers 1,2021-07-09 04:00:00
+Bren Esports,DR Esports,30,Breeze,Champions Tour Philippines Stage 3: Challengers 1,2021-07-09 01:00:00
 Wygers Argentina,9z Team,18,Ascent,Champions Tour LATAM Stage 1: Challengers 1,2021-01-29 13:00:00
-LDM Esports,Ryze Gaming,19,Ascent,Champions Tour LATAM Stage 1: Challengers 1,2021-01-27 22:00:00
-Pro Hub Gaming,Janus Esports,23,Bind,Champions Tour LATAM Stage 1: Challengers 1,2021-01-27 21:15:00
 KRÜ Esports,Australs,20,Split,Champions Tour LATAM Stage 1: Challengers 1,2021-01-27 19:00:00
-Infinity Esports,LDM Esports,23,Bind,Champions Tour LATAM Stage 1: Challengers 1,2021-01-27 19:00:00
-E-Xolos LAZER,Pro Hub Gaming,18,Ascent,Champions Tour LATAM Stage 1: Challengers 1,2021-01-27 19:00:00
 9z Team,Kaos Latin Gamers,14,Bind,Champions Tour LATAM Stage 1: Challengers 1,2021-01-27 16:00:00
 KRÜ Esports,Furious Gaming,24,Bind,Champions Tour LATAM Stage 1: Challengers 1,2021-01-27 16:00:00
 Wygers Argentina,9z Team,16,Bind,Champions Tour LATAM Stage 1: Challengers 1,2021-01-27 13:00:00
-E-Xolos LAZER,Janus Esports,26,Ascent,Champions Tour LATAM Stage 1: Challengers 1,2021-01-26 18:59:00
-Janus Esports,Akave Esports,20,Bind,Champions Tour LATAM Stage 1: Challengers 1,2021-01-26 22:00:00
-Akave Esports,Pro Hub Gaming,20,Haven,Champions Tour LATAM Stage 1: Challengers 1,2021-01-26 21:00:00
-Ryze Gaming,Kaizen Esports,28,Haven,Champions Tour LATAM Stage 1: Challengers 1,2021-01-26 19:00:00
 Typhoon,Australs,19,Haven,Champions Tour LATAM Stage 1: Challengers 1,2021-01-26 19:00:00
-LDM Esports,Kaizen Esports,17,Ascent,Champions Tour LATAM Stage 1: Challengers 1,2021-01-26 18:00:00
 KRÜ Esports,Typhoon,22,Haven,Champions Tour LATAM Stage 1: Challengers 1,2021-01-26 16:00:00
 Furious Gaming,Australs,23,Bind,Champions Tour LATAM Stage 1: Challengers 1,2021-01-26 15:00:00
-Infinity Esports,Ryze Gaming,17,Ascent,Champions Tour LATAM Stage 1: Challengers 1,2021-01-26 15:59:00
 9z Team,Kaos Latin Gamers,21,Ascent,Champions Tour LATAM Stage 1: Challengers 1,2021-01-26 14:00:00
-E-Xolos LAZER,Infinity Esports,26,Icebox,Champions Tour LATAM Stage 1: Challengers 1,2021-01-24 21:15:00
-Akave Esports,Infinity Esports,26,Haven,Champions Tour LATAM Stage 1: Challengers 1,2021-01-24 20:00:00
-E-Xolos LAZER,LDM Esports,19,Ascent,Champions Tour LATAM Stage 1: Challengers 1,2021-01-24 20:00:00
-Wygers Argentina,KRÜ Esports,24,Haven,Champions Tour LATAM Stage 1: Challengers 1,2021-01-24 18:00:00
-9z Team,Wygers Argentina,21,Bind,Champions Tour LATAM Stage 1: Challengers 1,2021-01-24 17:00:00
-Ryze Gaming,Akave Esports,16,Ascent,Champions Tour LATAM Stage 1: Challengers 1,2021-01-23 20:00:00
-Kaizen Esports,LDM Esports,22,Haven,Champions Tour LATAM Stage 1: Challengers 1,2021-01-23 20:00:00
-E-Xolos LAZER,Janus Esports,16,Icebox,Champions Tour LATAM Stage 1: Challengers 1,2021-01-23 20:00:00
-Furious Gaming,KRÜ Esports,18,Bind,Champions Tour LATAM Stage 1: Challengers 1,2021-01-23 17:00:00
-Pro Hub Gaming,Infinity Esports,30,Ascent,Champions Tour LATAM Stage 1: Challengers 1,2021-01-23 20:00:00
-Furious Gaming,Typhoon,17,Ascent,Champions Tour LATAM Stage 1: Challengers 1,2021-01-23 17:00:00
-9z Team,Kaos Latin Gamers,24,Ascent,Champions Tour LATAM Stage 1: Challengers 1,2021-01-23 17:00:00
-Wygers Argentina,Australs,24,Bind,Champions Tour LATAM Stage 1: Challengers 1,2021-01-23 17:00:00
-Skull Cracker,Infinity Esports,17,Bind,Champions Tour LATAM Stage 1: Challengers 1,2021-01-22 23:25:00
-Janus Esports,Phinance G,24,Ascent,Champions Tour LATAM Stage 1: Challengers 1,2021-01-22 23:00:00
-Pro Hub Gaming,Arctic Gaming Mexico,24,Bind,Champions Tour LATAM Stage 1: Challengers 1,2021-01-22 21:30:00
-Akave Esports,Wolves of Hell,21,Ascent,Champions Tour LATAM Stage 1: Challengers 1,2021-01-22 21:00:00
-Ryze Gaming,Atletica Pro Gaming 9,23,Bind,Champions Tour LATAM Stage 1: Challengers 1,2021-01-22 19:00:00
-E-Xolos LAZER,Pichon Bellaco,17,Bind,Champions Tour LATAM Stage 1: Challengers 1,2021-01-22 19:00:00
-LDM Esports,Buscando Org,18,Ascent,Champions Tour LATAM Stage 1: Challengers 1,2021-01-22 17:00:00
-Kaizen Esports,Zwan Gaming,19,Haven,Champions Tour LATAM Stage 1: Challengers 1,2021-01-22 17:00:00
-Team Samurai,Australs,14,Ascent,Champions Tour LATAM Stage 1: Challengers 1,2021-01-21 21:00:00
-Wygers Argentina,Movistar Optix,22,Haven,Champions Tour LATAM Stage 1: Challengers 1,2021-01-21 21:00:00
-Meta Gaming,Stampede Gaming,24,Bind,Champions Tour LATAM Stage 1: Challengers 1,2021-01-21 19:00:00
-Kaos Latin Gamers,NoBordeR,16,Haven,Champions Tour LATAM Stage 1: Challengers 1,2021-01-21 21:00:00
-9z Team,Infamous Gaming,24,Ascent,Champions Tour LATAM Stage 1: Challengers 1,2021-01-21 18:30:00
-Bencheados Academy,Typhoon,21,Bind,Champions Tour LATAM Stage 1: Challengers 1,2021-01-21 17:00:00
-Spacestation Gaming,DaHoonkaBhanKoloos,21,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-02-26 18:00:00
-Procyon Team,KRÜ Esports,14,Split,Champions Tour LATAM Stage 1: Challengers 1,2021-01-21 16:00:00
-Built By Gamers,Elysium,15,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-26 18:00:00
-Akella,beastcoast,22,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-26 18:00:00
-Ghost Gaming,Spotlight,24,Bind,Champions Tour North America Stage 1: Challengers 3,2021-02-26 18:00:00
-Renegades,Evil Geniuses,14,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-26 18:00:00
-Cloud9,Last Round Save,20,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-02-26 18:00:00
-Frick Ya Bag,Grapefruit Techniques,20,Bind,Champions Tour North America Stage 1: Challengers 3,2021-02-26 18:00:00
-T1,Archons,22,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-26 18:00:00
-NRG Esports,Time In,24,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-26 18:00:00
-Knights,On Top Soon,18,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-26 18:00:00
-Equinox Esports,On The Way,18,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-02-26 18:00:00
-Andbox,Demon Time,17,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-02-26 18:00:00
-Rise,seeker,20,Bind,Champions Tour North America Stage 1: Challengers 3,2021-02-26 18:00:00
-Version1,NSIC,23,Split,Champions Tour North America Stage 1: Challengers 3,2021-02-26 18:00:00
-Spot Up,Complexity,24,Split,Champions Tour North America Stage 1: Challengers 3,2021-02-26 18:00:00
-Time In,Able Esports,14,Bind,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:45:00
-TSM,Penguin Sledding,20,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-26 18:00:00
-Elysium,BLAHAJ,21,Bind,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:45:00
-On The Way,Interstate 95,19,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:45:00
-TSM,TradeLikePros,14,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:45:00
-DaHoonkaBhanKoloos,,19,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:30:00
-T1,PUGSTARS,19,Split,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:40:00
-Spacestation Gaming,s2xx,20,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:30:00
-beastcoast,Bounty Esports,22,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:30:00
-Built By Gamers,NBKS CENTURIONS,15,Bind,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:30:00
-Sedated,Akella,23,Bind,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:30:00
-Evil Geniuses,Project,26,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:30:00
-Ghost Gaming,Radiant Roombas,19,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:30:00
-Renegades,THE FIVE EMPERORS,21,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:30:00
-ex-FUNSNATCHERS,Spotlight,21,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:30:00
-Last Round Save,Brimstone Gaming,23,Split,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:30:00
-Cloud9,OW Refugees,17,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:30:00
-Reformed,Archons,24,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:30:00
-Equinox Esports,YFP Gaming,24,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:30:00
-Carpe Noctem,Grapefruit Techniques,18,Split,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:30:00
-Knights,RIFLE CRUTCHERS,14,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:30:00
-Hollywood Hooliganz,On Top Soon,23,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:30:00
-Cloud9 White,Demon Time,16,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:30:00
-Andbox,Pirate Nation,20,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:30:00
-Spot Up,Nautic,16,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:30:00
-Headshot Percentage,seeker,24,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:30:00
-Rise,Dialed In,19,Split,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:30:00
-NSIC,Take Flyte,19,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:30:00
-Penguin Sledding,303 Esports,15,Split,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:30:00
-NRG Esports,VZN,24,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:00:00
-Version1,Entourage,19,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:00:00
-Complexity,Lycus Empire,19,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 20:00:00
-VIRTUOSO,Kissy Boys,17,Split,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-eUnited,Frick Ya Bag,20,Bind,Champions Tour North America Stage 1: Challengers 3,2021-02-25 19:45:00
-DaHoonkaBhanKoloos,,18,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-VT Valorant,s2xx,24,Split,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-BLAHAJ,YMCMB,40,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Spacestation Gaming,Lunch Club,18,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Leviatán,Furious Gaming,20,Bind,Champions Tour LATAM Stage 1: Challengers 1,2021-01-21 15:30:00
-Elysium,MNR,20,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-NBKS CENTURIONS,Neebs and Weebs,30,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Built By Gamers,ExPandable,13,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Sakura Storm,Bounty Esports,19,Split,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-beastcoast,GCU Esports,16,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Sedated,EthanK Fan Club,26,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Akella,Exzit,14,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Project,LoV,16,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Evil Geniuses,Aqua,19,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-THE FIVE EMPERORS,PremierGG,18,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-ex-FUNSNATCHERS,Team Reinvented Gaming,21,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Renegades,"Stay Small, Stay Second",21,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Ghost Gaming,ALL GAS NO BRAKES,15,Bind,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Brimstone Gaming,Akuma Esports,21,Split,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Last Round Save,Caught in 4k,20,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Carpe Noctem,IQ Purple,19,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-OW Refugees,the bros,24,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Cloud9,ThiccWRECK,14,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Grapefruit Techniques,Hyperspace Dark,20,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-eUnited,Enigma,17,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Frick Ya Bag,anygurls,19,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Archons,Synthetic,23,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Reformed,Arlington E.C.,26,Split,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-T1,In The Lab,18,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-PUGSTARS,Dallas Vendetta,17,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Onslaught Gaming,Interstate 95,20,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-On The Way,Pulsar,15,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-YFP Gaming,Team Atlas,18,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Equinox Esports,sadHours,14,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Able Esports,Windstorm,19,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Time In,Logan Paulers,20,Bind,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-VZN,Divine,20,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Hollywood Hooliganz,Triangle Offense,23,Bind,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-NRG Esports,Sac State Hornets,17,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Knights,Pure,15,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-RIFLE CRUTCHERS,Big Swampy Society,23,Bind,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Demon Time,Hotcakes,16,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Cloud9 White,Shoguns,19,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Headshot Percentage,Java PR,18,Bind,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Swagoi,Pirate Nation,26,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Andbox,IQ White,15,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-seeker,Zelo,22,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Dialed In,ATK Mode,17,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Rise,TAMU Maroon,22,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Take Flyte,VisionX,22,Bind,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-NSIC,Vault Guardians,19,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Version1,NC State Esports,17,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-D2E Black,Entourage,26,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Lycus Empire,Cereal Before Milk,18,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Complexity,Jumba,17,Bind,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Spot Up,Delta eSports,15,Split,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Fluid Gaming,Nautic,19,Split,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-303 Esports,Valkyrie,20,Haven,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Penguin Sledding,Scrub Garden,20,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-TradeLikePros,Zero MarksMen,21,Bind,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
+FULL SENSE,X10 CRIT,28,Haven,Champions Tour Thailand Stage 3: Challengers 1,2021-07-11 06:45:00
+Foxy Araikordai,X10 CRIT,23,Haven,Champions Tour Thailand Stage 3: Challengers 1,2021-07-11 04:00:00
+Need Sponsor,X10 CRIT,23,Haven,Champions Tour Thailand Stage 3: Challengers 1,2021-07-10 08:00:00
+Foxy Araikordai,FULL SENSE,23,Ascent,Champions Tour Thailand Stage 3: Challengers 1,2021-07-10 05:15:00
+X10 CRIT,Sharper Esport,18,Ascent,Champions Tour Thailand Stage 3: Challengers 1,2021-07-10 04:15:00
+Renatus Black,Need Sponsor,17,Breeze,Champions Tour Thailand Stage 3: Challengers 1,2021-07-10 03:00:00
+47 Gaming,Sharper Esport,26,Haven,Champions Tour Thailand Stage 3: Challengers 1,2021-07-10 02:00:00
+Need Sponsor,LYNX TH,19,Ascent,Champions Tour Thailand Stage 3: Challengers 1,2021-07-10 01:00:00
+Renatus Black,FULL SENSE,26,Ascent,Champions Tour Thailand Stage 3: Challengers 1,2021-07-09 12:00:00
+Sharper Esport,FULL SENSE,21,Split,Champions Tour Thailand Stage 3: Challengers 1,2021-07-09 09:00:00
+Renatus Black,47 Gaming,23,Bind,Champions Tour Thailand Stage 3: Challengers 1,2021-07-09 06:00:00
+X10 CRIT,Foxy Araikordai,21,Bind,Champions Tour Thailand Stage 3: Challengers 1,2021-07-08 11:00:00
+LYNX TH,Foxy Araikordai,15,Ascent,Champions Tour Thailand Stage 3: Challengers 1,2021-07-08 09:00:00
+X10 CRIT,Need Sponsor,18,Breeze,Champions Tour Thailand Stage 3: Challengers 1,2021-07-08 06:00:00
+CBT Gaming,Griffin E-Sports,20,Ascent,Champions Tour Hong Kong & Taiwan Stage 3: Challengers 1,2021-07-15 05:00:00
+Five Ace e-Sports,Griffin E-Sports,23,Breeze,Champions Tour Hong Kong & Taiwan Stage 3: Challengers 1,2021-07-10 07:00:00
+CBT Gaming,TYPHOONS,15,Haven,Champions Tour Hong Kong & Taiwan Stage 3: Challengers 1,2021-07-10 05:00:00
+Five Ace e-Sports,TGPA,18,Breeze,Champions Tour Hong Kong & Taiwan Stage 3: Challengers 1,2021-07-09 07:00:00
+TYPHOONS,Water,23,Breeze,Champions Tour Hong Kong & Taiwan Stage 3: Challengers 1,2021-07-09 04:00:00
+Griffin E-Sports,Horse Victory,15,Breeze,Champions Tour Hong Kong & Taiwan Stage 3: Challengers 1,2021-07-09 08:00:00
+CBT Gaming,Team GMM,23,Haven,Champions Tour Hong Kong & Taiwan Stage 3: Challengers 1,2021-07-09 02:00:00
+Paper Rex,Todak,20,Breeze,Champions Tour Malaysia & Singapore Stage 3: Challengers 1,2021-07-10 22:00:00
+Todak,UndeRank,22,Icebox,Champions Tour Malaysia & Singapore Stage 3: Challengers 1,2021-07-10 08:15:00
+Paper Rex,UwU,14,Split,Champions Tour Malaysia & Singapore Stage 3: Challengers 1,2021-07-10 05:00:00
+Kingsmen,UndeRank,24,Breeze,Champions Tour Malaysia & Singapore Stage 3: Challengers 1,2021-07-10 02:50:00
+Todak,Team SMG,19,Icebox,Champions Tour Malaysia & Singapore Stage 3: Challengers 1,2021-07-10 04:15:00
+Todak,UwU,19,Ascent,Champions Tour Malaysia & Singapore Stage 3: Challengers 1,2021-07-10 00:25:00
+Paper Rex,Kingsmen,21,Bind,Champions Tour Malaysia & Singapore Stage 3: Challengers 1,2021-07-09 22:00:00
+UndeRank,Zero Synergy,14,Breeze,Champions Tour Malaysia & Singapore Stage 3: Challengers 1,2021-07-09 09:10:00
+Saints,Team SMG,23,Icebox,Champions Tour Malaysia & Singapore Stage 3: Challengers 1,2021-07-09 08:15:00
+UwU,Zero Synergy,17,Split,Champions Tour Malaysia & Singapore Stage 3: Challengers 1,2021-07-09 05:50:00
+Todak,UndeRank,32,Ascent,Champions Tour Malaysia & Singapore Stage 3: Challengers 1,2021-07-09 03:25:00
+Paper Rex,Saints,22,Split,Champions Tour Malaysia & Singapore Stage 3: Challengers 1,2021-07-08 22:30:00
+Team SMG,Kingsmen,23,Haven,Champions Tour Malaysia & Singapore Stage 3: Challengers 1,2021-07-09 01:10:00
+ORDER,McBTSMac,23,Split,Oceania Tour: Stage 02,2021-06-05 04:30:00
+Nebula,McBTSMac,18,Haven,Oceania Tour: Stage 02,2021-06-05 01:30:00
+ORDER,Wildcard Gaming,24,Ascent,Oceania Tour: Stage 02,2021-06-05 01:30:00
+Mindfreak,McBTSMac,19,Haven,Oceania Tour: Stage 02,2021-06-04 07:00:00
+Team Bliss,Nebula,24,Haven,Oceania Tour: Stage 02,2021-06-04 04:30:00
+Dire Wolves,McBTSMac,16,Ascent,Oceania Tour: Stage 02,2021-06-03 07:20:00
+Team Bliss,Wildcard Gaming,23,Bind,Oceania Tour: Stage 02,2021-06-03 06:40:00
+Nebula,Straight Outta The Zoo,20,Split,Oceania Tour: Stage 02,2021-06-03 04:30:00
+Alter Ego,BOOM Esports,23,Split,Champions Tour Indonesia Stage 1: Challengers 1,2021-02-07 04:00:00
+Seniman Grooming,BOOM Esports,22,Haven,Champions Tour Indonesia Stage 1: Challengers 1,2021-02-06 06:00:00
+NXL LIGAGAME,BOOM Esports,22,Bind,Champions Tour Indonesia Stage 1: Challengers 1,2021-02-06 01:30:00
+Seniman Grooming,ex-Reckless Lads,20,Icebox,Champions Tour Indonesia Stage 1: Challengers 1,2021-02-05 08:40:00
+Alter Ego,Noir,24,Icebox,Champions Tour Indonesia Stage 1: Challengers 1,2021-02-05 05:30:00
+Surabaya Esports,ex-Morph Team,15,Haven,Champions Tour Indonesia Stage 1: Challengers 1,2021-02-05 03:30:00
+ORDER,Mindfreak,19,Icebox,Oceania Tour: Stage 02,2021-06-03 04:30:00
+Wildcard Gaming,McBTSMac,21,Haven,Oceania Tour: Stage 02,2021-06-02 06:50:00
+Straight Outta The Zoo,Mindfreak,16,Bind,Oceania Tour: Stage 02,2021-06-02 06:30:00
+Team Bliss,Dire Wolves,22,Ascent,Oceania Tour: Stage 02,2021-06-02 04:30:00
+ORDER,Nebula,15,Icebox,Oceania Tour: Stage 02,2021-06-02 04:30:00
+BlackBird Ignis,Gaming Team SELECTOR,28,Haven,Champions Tour Japan Stage 3: Challengers 1,2021-07-11 06:40:00
+Crazy Raccoon,Gaming Team SELECTOR,17,Ascent,Champions Tour Japan Stage 3: Challengers 1,2021-07-11 04:25:00
+BlackBird Ignis,Storks Phalanx,28,Haven,Champions Tour Japan Stage 3: Challengers 1,2021-07-11 02:05:00
+Storks Phalanx,Gaming Team SELECTOR,18,Breeze,Champions Tour Japan Stage 3: Challengers 1,2021-07-10 23:55:00
+BlackBird Ignis,Crazy Raccoon,26,Breeze,Champions Tour Japan Stage 3: Challengers 1,2021-07-10 21:55:00
+ZETA DIVISION,NORTHEPTION,21,Haven,Champions Tour Japan Stage 3: Challengers 1,2021-07-10 08:00:00
+Icicle Conflict,SETOUCHI ENLIFE,18,Haven,Champions Tour Japan Stage 3: Challengers 1,2021-07-10 06:00:00
+ZETA DIVISION,SETOUCHI ENLIFE,15,Ascent,Champions Tour Japan Stage 3: Challengers 1,2021-07-10 03:55:00
+Icicle Conflict,NORTHEPTION,16,Ascent,Champions Tour Japan Stage 3: Challengers 1,2021-07-10 02:00:00
+NORTHEPTION,SETOUCHI ENLIFE,16,Icebox,Champions Tour Japan Stage 3: Challengers 1,2021-07-09 23:55:00
+Icicle Conflict,ZETA DIVISION,17,Bind,Champions Tour Japan Stage 3: Challengers 1,2021-07-09 21:55:00
+Mustang Gaming,Team Majesty,22,Split,Strike Arabia Championship: Season 2,2021-07-08 16:15:00
+E9Sports,Mustang Gaming,18,Bind,Strike Arabia Championship: Season 2,2021-07-07 15:00:00
+SPL Gaming,Team Majesty,16,Breeze,Strike Arabia Championship: Season 2,2021-07-06 15:00:00
+Eternity Esports,Team Majesty,21,Icebox,Strike Arabia Championship: Season 2,2021-07-05 15:00:00
+The Academy,SPL Gaming,22,Bind,Strike Arabia Championship: Season 2,2021-07-05 15:00:00
+Team Majesty,FORFUN,20,Icebox,Strike Arabia Championship: Season 2,2021-07-05 15:00:00
+Error404,SPL Gaming,28,Ascent,Strike Arabia Championship: Season 2,2021-07-04 15:00:00
+The Academy,Mustang Gaming,21,Split,Strike Arabia Championship: Season 2,2021-07-03 15:00:00
+Mustang Gaming,FORFUN,23,Icebox,Strike Arabia Championship: Season 2,2021-07-02 15:00:00
+Team WaVii,The Academy,22,Ascent,Strike Arabia Championship: Season 2,2021-07-02 15:00:00
+E9Sports,SPL Gaming,19,Ascent,Strike Arabia Championship: Season 2,2021-07-02 15:00:00
+Eternity Esports,E9Sports,22,Ascent,Strike Arabia Championship: Season 2,2021-07-03 15:00:00
+Team RA'AD,Anubis Gaming,18,Haven,Strike Arabia League: Season 1,2021-05-23 16:00:00
+POISON CLAN,Anubis Gaming,17,Split,Strike Arabia League: Season 1,2021-05-23 13:00:00
+E9Sports,Anubis Gaming,19,Icebox,Strike Arabia League: Season 1,2021-05-22 16:00:00
+Team RA'AD,Team Gravity,14,Bind,Strike Arabia League: Season 1,2021-05-22 16:00:00
+POISON CLAN,ONE SHOT Esports,23,Split,Strike Arabia League: Season 1,2021-05-22 16:00:00
+ONE SHOT Esports,Anubis Gaming,18,TBD,Strike Arabia League: Season 1,2021-05-22 13:00:00
+La7zag Esports,POISON CLAN,20,Haven,Strike Arabia League: Season 1,2021-05-22 13:00:00
+Team Gravity,Team Majesty,23,Ascent,Strike Arabia League: Season 1,2021-05-22 13:00:00
+E9Sports,Team RA'AD,26,Bind,Strike Arabia League: Season 1,2021-05-22 13:00:00
+Team Majesty,Anubis Gaming,24,Bind,Strike Arabia League: Season 1,2021-05-21 16:00:00
+ONE SHOT Esports,E9Sports,21,Icebox,Strike Arabia League: Season 1,2021-05-21 16:00:00
+La7zag Esports,Team Gravity,23,Haven,Strike Arabia League: Season 1,2021-05-21 16:00:00
+La7zag Esports,Anubis Gaming,16,Bind,Strike Arabia League: Season 1,2021-05-21 13:00:00
+Team Gravity,ONE SHOT Esports,24,Split,Strike Arabia League: Season 1,2021-05-21 13:00:00
+La7zag Esports,ONE SHOT Esports,23,Icebox,Strike Arabia League: Season 1,2021-05-20 16:00:00
+Team Gravity,POISON CLAN,14,Ascent,Strike Arabia League: Season 1,2021-05-20 16:00:00
+E9Sports,Team Majesty,24,Bind,Strike Arabia League: Season 1,2021-05-20 16:00:00
+Anubis Gaming,Team RA'AD,21,Bind,Strike Arabia League: Season 1,2021-05-20 16:00:00
+POISON CLAN,Team Majesty,16,Ascent,Strike Arabia League: Season 1,2021-05-20 13:00:00
+ONE SHOT Esports,Team RA'AD,18,Bind,Strike Arabia League: Season 1,2021-05-20 13:00:00
+La7zag Esports,E9Sports,21,Haven,Strike Arabia League: Season 1,2021-05-20 13:00:00
+Anubis Gaming,Team Gravity,15,Bind,Strike Arabia League: Season 1,2021-05-20 13:00:00
+Team Majesty,Team RA'AD,19,Bind,Strike Arabia League: Season 1,2021-05-19 16:00:00
+POISON CLAN,E9Sports,23,Bind,Strike Arabia League: Season 1,2021-05-19 16:00:00
+Anubis Gaming,La7zag Esports,16,Bind,Strike Arabia League: Season 1,2021-05-19 16:00:00
+Team RA'AD,E9Sports,23,Icebox,Strike Arabia League: Season 1,2021-05-18 16:00:00
+Team Majesty,Team Gravity,16,Bind,Strike Arabia League: Season 1,2021-05-18 16:00:00
+POISON CLAN,La7zag Esports,23,Ascent,Strike Arabia League: Season 1,2021-05-18 16:00:00
+Anubis Gaming,ONE SHOT Esports,13,Split,Strike Arabia League: Season 1,2021-05-18 16:00:00
+E9Sports,Team Gravity,16,Haven,Strike Arabia League: Season 1,2021-05-17 16:00:00
+Team Majesty,ONE SHOT Esports,18,Bind,Strike Arabia League: Season 1,2021-05-17 16:00:00
+Anubis Gaming,POISON CLAN,16,Bind,Strike Arabia League: Season 1,2021-05-17 16:00:00
+Team Gravity,Anubis Gaming,21,Split,Strike Arabia League: Season 1,2021-05-16 16:00:00
+E9Sports,La7zag Esports,22,Haven,Strike Arabia League: Season 1,2021-05-16 16:00:00
+Team RA'AD,ONE SHOT Esports,17,Bind,Strike Arabia League: Season 1,2021-05-16 16:00:00
+Team Majesty,POISON CLAN,16,Ascent,Strike Arabia League: Season 1,2021-05-16 16:00:00
+ONE SHOT Esports,POISON CLAN,22,Ascent,Strike Arabia League: Season 1,2021-05-15 16:00:00
+La7zag Esports,Team Majesty,21,Icebox,Strike Arabia League: Season 1,2021-05-15 16:00:00
+Team Gravity,Team RA'AD,16,Bind,Strike Arabia League: Season 1,2021-05-15 16:00:00
+Anubis Gaming,E9Sports,20,Icebox,Strike Arabia League: Season 1,2021-05-15 16:00:00
+Team Gravity,La7zag Esports,22,Haven,Strike Arabia League: Season 1,2021-05-14 16:00:00
+E9Sports,ONE SHOT Esports,13,Split,Strike Arabia League: Season 1,2021-05-14 16:00:00
+Team RA'AD,POISON CLAN,20,Ascent,Strike Arabia League: Season 1,2021-05-14 16:00:00
 NUTURN,Fnatic,21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,2021-05-29 15:30:00
-TSM,LGI,22,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-02-25 18:00:00
-Sentinels,NUTURN,18,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,2021-05-28 15:30:00
 Fnatic,Team Liquid,23,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,2021-05-29 13:00:00
-Team Vikings,Team Liquid,21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,2021-05-28 13:25:00
 Sentinels,Fnatic,26,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,2021-05-30 13:00:00
+Team Vikings,Team Liquid,21,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,2021-05-28 13:25:00
+Sentinels,NUTURN,18,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,2021-05-28 15:30:00
 Version1,Fnatic,26,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,2021-05-28 11:00:00
-Version1,NUTURN,16,Split,Valorant Champions Tour Stage 2: Masters Reykjavik,2021-05-27 11:00:00
 Team Liquid,KRÜ Esports,15,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,2021-05-27 16:45:00
 Fnatic,X10 CRIT,17,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,2021-05-27 14:40:00
+Version1,NUTURN,16,Split,Valorant Champions Tour Stage 2: Masters Reykjavik,2021-05-27 11:00:00
 Sentinels,Team Vikings,20,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,2021-05-26 15:30:00
-Sharks Esports,KRÜ Esports,18,Bind,Valorant Champions Tour Stage 2: Masters Reykjavik,2021-05-26 13:20:00
 X10 CRIT,Crazy Raccoon,22,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,2021-05-26 11:00:00
-Version1,Crazy Raccoon,24,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,2021-05-24 13:25:00
+Sharks Esports,KRÜ Esports,18,Bind,Valorant Champions Tour Stage 2: Masters Reykjavik,2021-05-26 13:20:00
 Sharks Esports,NUTURN,18,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,2021-05-24 16:45:00
+Version1,Crazy Raccoon,24,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,2021-05-24 13:25:00
 Sentinels,Fnatic,24,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,2021-05-25 18:05:00
 Team Liquid,Version1,30,Haven,Valorant Champions Tour Stage 2: Masters Reykjavik,2021-05-25 14:05:00
-MUYAHO,NUTURN,20,Split,Champions Tour Korea Stage 1: Masters,2021-03-17 06:30:00
-Vision Strikers,NUTURN,24,Ascent,Champions Tour Korea Stage 1: Masters,2021-03-21 04:15:00
-Vision Strikers,DAMWON Gaming,14,Split,Champions Tour Korea Stage 1: Masters,2021-03-17 04:00:00
+KRÜ Esports,Infinity Esports,22,Split,Champions Tour LATAM Stage 2: Challengers Finals,2021-05-12 17:00:00
+Six Karma,Infinity Esports,20,Haven,Champions Tour LATAM Stage 2: Challengers Finals,2021-05-02 14:00:00
+E-Xolos LAZER,Infinity Esports,19,Bind,Champions Tour LATAM Stage 2: Challengers Finals,2021-05-01 16:00:00
 Fnatic,KRÜ Esports,18,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,2021-05-24 11:00:00
+Six Karma,E-Xolos LAZER,23,Bind,Champions Tour LATAM Stage 2: Challengers Finals,2021-05-01 14:00:00
+Infinity Esports,Border Monsters,24,Ascent,Champions Tour LATAM Stage 2: Challengers Finals,2021-04-30 19:00:00
+E-Xolos LAZER,Border Monsters,17,Bind,Champions Tour LATAM Stage 2: Challengers Finals,2021-04-30 17:10:00
+Infinity Esports,Six Karma,20,Ascent,Champions Tour LATAM Stage 2: Challengers Finals,2021-04-30 14:00:00
+Cloud9,Version1,18,Split,Champions Tour North America Stage 2: Challengers Finals,2021-05-01 22:00:00
+KRÜ Esports,9z Team,22,Split,Champions Tour LATAM Stage 2: Challengers Finals,2021-04-29 14:00:00
+Sentinels,Version1,21,Icebox,Champions Tour North America Stage 2: Challengers Finals,2021-05-02 16:00:00
+Meta Gaming,ATROPELADOS,19,Ascent,Champions Tour LATAM Stage 2: Challengers Finals,2021-04-27 19:05:00
+100 Thieves,Envy,24,Haven,Champions Tour North America Stage 2: Challengers Finals,2021-04-30 18:55:00
+9z Team,ATROPELADOS,17,Split,Champions Tour LATAM Stage 2: Challengers Finals,2021-04-27 15:45:00
+KRÜ Esports,Meta Gaming,18,Ascent,Champions Tour LATAM Stage 2: Challengers Finals,2021-04-27 14:00:00
+9z Team,ATROPELADOS,24,Haven,Champions Tour LATAM Stage 2: Challengers Finals,2021-04-28 15:50:00
+KRÜ Esports,9z Team,21,Ascent,Champions Tour LATAM Stage 2: Challengers Finals,2021-04-28 14:00:00
+Sentinels,Cloud9,24,Icebox,Champions Tour North America Stage 2: Challengers Finals,2021-05-01 16:00:00
+NRG Esports,Version1,22,Ascent,Champions Tour North America Stage 2: Challengers Finals,2021-04-30 18:10:00
+Cloud9,NRG Esports,19,Ascent,Champions Tour North America Stage 2: Challengers Finals,2021-04-30 16:00:00
+100 Thieves,Sentinels,24,Bind,Champions Tour North America Stage 2: Challengers Finals,2021-04-30 16:00:00
+Envy,XSET,24,Split,Champions Tour North America Stage 2: Challengers Finals,2021-04-29 20:40:00
+Andbox,Version1,17,Split,Champions Tour North America Stage 2: Challengers Finals,2021-04-29 20:10:00
+100 Thieves,Andbox,22,Icebox,Champions Tour North America Stage 2: Challengers Finals,2021-04-29 16:00:00
+XSET,NRG Esports,28,Bind,Champions Tour North America Stage 2: Challengers Finals,2021-04-29 18:40:00
+Envy,Cloud9,20,Ascent,Champions Tour North America Stage 2: Challengers Finals,2021-04-29 18:10:00
+Version1,Sentinels,17,Split,Champions Tour North America Stage 2: Challengers Finals,2021-04-29 16:00:00
+Team Liquid,Fnatic,16,Split,Champions Tour Stage 2: EMEA Challengers Playoffs,2021-05-02 11:00:00
+Fnatic,Gambit Esports,19,Bind,Champions Tour Stage 2: EMEA Challengers Playoffs,2021-05-01 12:40:00
+Team Liquid,Oxygen Esports,13,Ascent,Champions Tour Stage 2: EMEA Challengers Playoffs,2021-05-01 11:00:00
+FunPlus Phoenix,Gambit Esports,23,Split,Champions Tour Stage 2: EMEA Challengers Playoffs,2021-04-30 14:00:00
+Guild Esports,Oxygen Esports,22,Haven,Champions Tour Stage 2: EMEA Challengers Playoffs,2021-04-30 11:00:00
+Fnatic,Guild Esports,23,Bind,Champions Tour Stage 2: EMEA Challengers Playoffs,2021-04-29 13:15:00
+FunPlus Phoenix,Team Liquid,20,Bind,Champions Tour Stage 2: EMEA Challengers Playoffs,2021-04-29 11:00:00
+Oxygen Esports,Futbolist,21,Haven,Champions Tour Stage 2: EMEA Challengers Playoffs,2021-04-25 13:20:00
+Gambit Esports,BBL Esports,16,Icebox,Champions Tour Stage 2: EMEA Challengers Playoffs,2021-04-25 11:00:00
+Futbolist,Guild Esports,19,Ascent,Champions Tour Stage 2: EMEA Challengers Playoffs,2021-04-24 13:05:00
+Fnatic,Oxygen Esports,20,Icebox,Champions Tour Stage 2: EMEA Challengers Playoffs,2021-04-24 11:00:00
+Sharks Esports,FURIA,18,Icebox,Champions Tour Brazil Stage 2: Challengers Finals,2021-05-08 18:00:00
+Team Vikings,Sharks Esports,23,Icebox,Champions Tour Brazil Stage 2: Challengers Finals,2021-05-09 16:00:00
+FunPlus Phoenix,Gambit Esports,24,Split,Champions Tour Stage 2: EMEA Challengers Playoffs,2021-04-23 11:00:00
+Liberty,FURIA,20,Ascent,Champions Tour Brazil Stage 2: Challengers Finals,2021-05-08 16:00:00
+BBL Esports,Team Liquid,19,Bind,Champions Tour Stage 2: EMEA Challengers Playoffs,2021-04-23 13:25:00
+Gamelanders Blue,Liberty,22,Haven,Champions Tour Brazil Stage 2: Challengers Finals,2021-05-07 14:15:00
+Sharks Esports,Team Vikings,17,Bind,Champions Tour Brazil Stage 2: Challengers Finals,2021-05-07 12:00:00
+FURIA,Team Vikings,20,Ascent,Champions Tour Brazil Stage 2: Challengers Finals,2021-05-06 15:00:00
+FURIA,paiN Gaming,17,Bind,Champions Tour Brazil Stage 2: Challengers Finals,2021-05-01 12:00:00
+Liberty,SLICK,23,Haven,Champions Tour Brazil Stage 2: Challengers Finals,2021-05-02 12:00:00
+paiN Gaming,Ingaming,26,Bind,Champions Tour Brazil Stage 2: Challengers Finals,2021-05-02 14:15:00
+Gamelanders Blue,Sharks Esports,19,Ascent,Champions Tour Brazil Stage 2: Challengers Finals,2021-05-06 12:00:00
+Team Vikings,Ingaming,22,Ascent,Champions Tour Brazil Stage 2: Challengers Finals,2021-05-01 14:05:00
+Sharks Esports,SLICK,16,Haven,Champions Tour Brazil Stage 2: Challengers Finals,2021-04-30 14:30:00
+Gamelanders Blue,Liberty,22,Haven,Champions Tour Brazil Stage 2: Challengers Finals,2021-04-30 12:00:00
+No Pressure,forZe,20,Split,Champions Tour CIS Stage 3: Challengers 1,2021-07-09 11:00:00
+One Breath Gaming,forZe,24,Split,Champions Tour CIS Stage 3: Challengers 1,2021-07-08 13:15:56
+No Pressure,Gambit Esports,23,Ascent,Champions Tour CIS Stage 3: Challengers 1,2021-07-08 11:00:00
+forZe,Team Singularity,24,Bind,Champions Tour CIS Stage 3: Challengers 1,2021-07-07 14:00:56
+Axsor,One Breath Gaming,24,Split,Champions Tour CIS Stage 3: Challengers 1,2021-07-07 12:50:56
+Gambit Esports,Axsor,15,Ascent,Champions Tour CIS Stage 3: Challengers 1,2021-07-07 11:00:56
+No Pressure,forZe,14,Split,Champions Tour CIS Stage 3: Challengers 1,2021-07-07 11:00:56
+Team Singularity,GMT Esports,20,Split,Champions Tour CIS Stage 3: Challengers 1,2021-07-06 15:40:56
+One Breath Gaming,Aim.Attack,21,Split,Champions Tour CIS Stage 3: Challengers 1,2021-07-06 13:15:56
+GMT Esports,Axsor,17,Split,Champions Tour CIS Stage 3: Challengers 1,2021-07-06 12:20:56
+Gambit Esports,Team Singularity,18,Ascent,Champions Tour CIS Stage 3: Challengers 1,2021-07-06 11:00:56
+forZe,Aim.Attack,22,Bind,Champions Tour CIS Stage 3: Challengers 1,2021-07-06 09:00:56
+One Breath Gaming,No Pressure,19,Icebox,Champions Tour CIS Stage 3: Challengers 1,2021-07-06 09:00:56
+Oxygen Esports,Futbolist,36,Ascent,Champions Tour Turkey Stage 3: Challengers 1,2021-07-08 11:00:00
+BBL Esports,Fire Flux Esports,23,Split,Champions Tour Turkey Stage 3: Challengers 1,2021-07-07 14:30:00
+SuperMassive Blaze,OtherSide,20,Bind,Champions Tour Turkey Stage 3: Challengers 1,2021-07-07 13:10:02
+BBL Esports,Futbolist,22,Split,Champions Tour Turkey Stage 3: Challengers 1,2021-07-07 11:00:02
+Oxygen Esports,SuperMassive Blaze,15,Ascent,Champions Tour Turkey Stage 3: Challengers 1,2021-07-07 11:00:02
+BBL Esports,OtherSide,19,Split,Champions Tour Turkey Stage 3: Challengers 1,2021-07-06 10:30:00
+Fire Flux Esports,Zero Zone,34,Split,Champions Tour Turkey Stage 3: Challengers 1,2021-07-06 12:40:02
+OtherSide,Team Aurora,20,Ascent,Champions Tour Turkey Stage 3: Challengers 1,2021-07-06 14:00:02
+Futbolist,Team Aurora,19,Split,Champions Tour Turkey Stage 3: Challengers 1,2021-07-06 10:20:00
+Zero Zone,SuperMassive Blaze,17,Ascent,Champions Tour Turkey Stage 3: Challengers 1,2021-07-06 08:00:02
+Oxygen Esports,Fire Flux Esports,24,Ascent,Champions Tour Turkey Stage 3: Challengers 1,2021-07-06 08:00:02
+Gambit Esports,KRÜ Esports,21,Bind,VALORANT Champions,2021-12-11 15:00:00
+Gambit Esports,X10 CRIT,20,Breeze,VALORANT Champions,2021-12-09 12:00:00
+Fnatic,KRÜ Esports,28,Split,VALORANT Champions,2021-12-09 15:40:00
+Acend,Team Liquid,19,Split,VALORANT Champions,2021-12-11 12:00:00
+Team Liquid,Cloud9,23,Ascent,VALORANT Champions,2021-12-08 15:00:00
+Acend,Gambit Esports,24,Split,VALORANT Champions,2021-12-12 12:30:00
+Acend,Team Secret,21,Breeze,VALORANT Champions,2021-12-08 12:00:00
+CISFAITH,One Breath Gaming,14,Ascent,Champions Tour CIS Stage 1: Challengers 1,2021-02-14 11:00:00
+GMT Esports,Gambit Esports,19,Bind,Champions Tour CIS Stage 1: Challengers 1,2021-02-14 09:00:00
+Mangal,CrowСrowd,23,Ascent,Champions Tour CIS Stage 1: Challengers 1,2021-02-13 12:00:00
+Vision Strikers,BearClaw Gaming,20,Split,Champions Tour Korea Stage 1: Challengers 1,2021-02-07 07:00:00
+Immortals,Sentinels,0,Icebox,Champions Tour North America Stage 1: Challengers 1,2021-02-07 15:00:00
+Team Singularity,Divinity,24,Bind,Champions Tour CIS Stage 1: Challengers 2,2021-02-28 12:20:00
+Squad5,Imperial Esports,28,Bind,Champions Tour Brazil Stage 1: Challengers 1,2021-02-07 21:00:00
+Futbolist,İstanbul Wildcats,19,Ascent,Champions Tour Turkey Stage 1: Challengers 1,2021-02-14 11:00:00
+World Game Star,ZFGaming,18,Split,Champions Tour Korea Stage 1: Challengers 1,2021-02-07 05:00:00
+DELIRAWOW,SLICK,24,Ascent,Champions Tour Brazil Stage 1: Challengers 3,2021-03-07 19:10:00
+Rise Gaming,paiN Gaming,24,Ascent,Champions Tour Brazil Stage 1: Challengers 3,2021-03-07 17:00:00
+FaZe Clan,100 Thieves,0,Bind,Champions Tour North America Stage 1: Challengers 3,2021-03-07 15:00:00
+ArkAngel,The First Order,18,Haven,Champions Tour Philippines Stage 1: Challengers 3,2021-03-07 03:30:00
+Timing Monster Gaming,Team SMG,26,Bind,Champions Tour Malaysia & Singapore Stage 1: Challengers 3,2021-03-14 01:00:00
+Hamtories,DAMWON Gaming,21,Split,Champions Tour Korea Stage 1: Challengers 3,2021-03-07 07:10:00
+BOOM Esports,NXL LIGAGAME,19,Haven,Champions Tour Indonesia Stage 1: Challengers 2,2021-02-28 05:00:00
+Oxygen Esports,İstanbul Wildcats,20,Bind,Champions Tour Turkey Stage 1: Challengers 2,2021-02-28 13:00:00
+Futbolist,OtherSide,30,Haven,Champions Tour Turkey Stage 1: Challengers 2,2021-02-28 09:00:00
+BBL Esports,RARE Esports,24,Ascent,Champions Tour Turkey Stage 1: Challengers 2,2021-02-27 12:30:00
+Cyber Skull Esports,No Org Found,20,Bind,Champions Tour Turkey Stage 1: Challengers 2,2021-02-27 09:00:00
+OG,Raise Your Edge,16,Bind,Champions Tour Europe Stage 1: Challengers 3,2021-03-07 13:00:00
+G2 Esports,DfuseTeam,16,Bind,Champions Tour Europe Stage 1: Challengers 3,2021-03-06 12:50:00
+Orgless,Team SMG,24,Haven,Champions Tour Malaysia & Singapore Stage 1: Challengers 3,2021-03-13 21:00:00
+Fnatic,Ballista,21,Bind,Champions Tour Europe Stage 1: Challengers 3,2021-03-07 11:00:00
+Wave Esports,Guild Esports,18,Haven,Champions Tour Europe Stage 1: Challengers 3,2021-03-06 11:00:00
+Team SMG,Paper Rex,13,Bind,Champions Tour Malaysia & Singapore Stage 1: Challengers 3,2021-03-13 06:05:00
+Timing Monster Gaming,Orgless,20,Haven,Champions Tour Malaysia & Singapore Stage 1: Challengers 3,2021-03-13 04:40:00
+Kingsmen,Team SMG,23,Ascent,Champions Tour Malaysia & Singapore Stage 1: Challengers 3,2021-03-13 02:45:00
+Team 600,Paper Rex,17,Bind,Champions Tour Malaysia & Singapore Stage 1: Challengers 3,2021-03-13 02:00:00
+Orgless,Kingsmen,26,Bind,Champions Tour Malaysia & Singapore Stage 1: Challengers 3,2021-03-13 00:00:00
+Timing Monster Gaming,Paper Rex,16,Bind,Champions Tour Malaysia & Singapore Stage 1: Challengers 3,2021-03-12 21:00:00
+Tengkorak,Team 600,32,Ascent,Champions Tour Malaysia & Singapore Stage 1: Challengers 3,2021-03-12 08:10:00
+Team SMG,Louvre,19,Ascent,Champions Tour Malaysia & Singapore Stage 1: Challengers 3,2021-03-12 07:15:00
+BOOM Esports,Alter Ego,23,Bind,Champions Tour Indonesia Stage 1: Challengers 3,2021-03-14 06:30:00
+ONIC G,Bigetron Astro,26,Haven,Champions Tour Indonesia Stage 1: Challengers 3,2021-03-14 01:30:00
+Bigetron Astro,Alter Ego,20,Haven,Champions Tour Indonesia Stage 1: Challengers 3,2021-03-13 06:30:00
+BOOM Esports,ONIC G,19,Bind,Champions Tour Indonesia Stage 1: Challengers 3,2021-03-13 04:30:00
+Alter Ego,ex-AING MAUNG Esports,22,Split,Champions Tour Indonesia Stage 1: Challengers 3,2021-03-13 01:30:00
+XcN Gaming,Bigetron Astro,22,Ascent,Champions Tour Indonesia Stage 1: Challengers 3,2021-03-12 06:50:00
+BOOM Esports,ANARCHY,17,Split,Champions Tour Indonesia Stage 1: Challengers 3,2021-03-12 04:30:00
+Seniman Grooming,ONIC G,19,Split,Champions Tour Indonesia Stage 1: Challengers 3,2021-03-12 01:30:00
+Kingsmen,Team 600,23,Haven,Champions Tour Malaysia & Singapore Stage 1: Challengers 3,2021-03-12 04:50:00
+Orgless,Tengkorak,18,Ascent,Champions Tour Malaysia & Singapore Stage 1: Challengers 3,2021-03-12 02:25:00
+Paper Rex,Louvre,24,Icebox,Champions Tour Malaysia & Singapore Stage 1: Challengers 3,2021-03-12 00:00:00
+Timing Monster Gaming,Team SMG,21,Haven,Champions Tour Malaysia & Singapore Stage 1: Challengers 3,2021-03-11 21:00:00
+İstanbul Wildcats,Zero Zone,23,Icebox,Champions Tour Turkey Stage 1: Challengers 3,2021-03-07 13:00:00
+Futbolist,Anatolia Esports,24,Icebox,Champions Tour Turkey Stage 1: Challengers 3,2021-03-07 10:00:00
+RARE Esports,Kafalar eSports,21,Bind,Champions Tour Turkey Stage 1: Challengers 3,2021-03-06 12:00:00
+Cyber Skull Esports,Besiktas Esports,22,Ascent,Champions Tour Turkey Stage 1: Challengers 3,2021-03-06 10:00:00
+ZFGaming,F4Q,26,Bind,Champions Tour Korea Stage 1: Challengers 3,2021-03-07 04:30:00
+TUBEPLE Gaming,World Game Star,19,Bind,Champions Tour Korea Stage 1: Challengers 3,2021-03-07 02:30:00
+TNL Esports,APEX PEOPLE,26,Ascent,Champions Tour Korea Stage 1: Challengers 3,2021-03-06 07:00:00
+F4Q,Hamtories,19,Ascent,Champions Tour Korea Stage 1: Challengers 3,2021-03-06 04:30:00
+ZFGaming,DAMWON Gaming,23,Split,Champions Tour Korea Stage 1: Challengers 3,2021-03-06 02:30:00
+APEX PEOPLE,TUBEPLE Gaming,22,Ascent,Champions Tour Korea Stage 1: Challengers 3,2021-03-05 07:00:00
+TNL Esports,World Game Star,18,Haven,Champions Tour Korea Stage 1: Challengers 3,2021-03-05 05:00:00
+DAMWON Gaming,F4Q,19,Ascent,Champions Tour Korea Stage 1: Challengers 3,2021-03-05 02:45:00
+ZFGaming,Hamtories,17,Split,Champions Tour Korea Stage 1: Challengers 3,2021-03-04 07:15:00
+World Game Star,APEX PEOPLE,26,Ascent,Champions Tour Korea Stage 1: Challengers 3,2021-03-04 05:00:00
+TNL Esports,TUBEPLE Gaming,19,Bind,Champions Tour Korea Stage 1: Challengers 3,2021-03-04 02:30:00
+ArkAngel,DR Esports,21,Split,Champions Tour Philippines Stage 1: Challengers 3,2021-03-06 06:15:00
+The First Order,Oasis Gaming,18,Haven,Champions Tour Philippines Stage 1: Challengers 3,2021-03-06 03:00:00
+DR Esports,Hashira,22,Haven,Champions Tour Philippines Stage 1: Challengers 3,2021-03-06 01:00:00
+DreamFyre,ArkAngel,23,Bind,Champions Tour Philippines Stage 1: Challengers 3,2021-03-05 07:00:00
+ex-SV Empire,Oasis Gaming,18,Bind,Champions Tour Philippines Stage 1: Challengers 3,2021-03-05 04:00:00
+SE ATLAS,The First Order,26,Ascent,Champions Tour Philippines Stage 1: Challengers 3,2021-03-05 01:00:00
+Luminosity,100 Thieves,20,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-03-06 19:50:00
+Gen.G,100 Thieves,32,Bind,Champions Tour North America Stage 1: Challengers 3,2021-03-06 16:55:00
+Luminosity,FaZe Clan,20,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-03-06 15:00:00
+NRG Esports,FaZe Clan,22,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-03-05 15:00:00
+TSM,100 Thieves,17,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-03-05 17:05:00
+NRG Esports,Gen.G,22,Haven,Champions Tour North America Stage 1: Challengers 3,2021-03-05 18:15:00
+Luminosity,TSM,22,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-03-05 15:00:00
+100 Thieves,T1,21,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-03-04 20:40:00
+Kooky Koalas,Gen.G,24,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-03-04 19:20:00
+100 Thieves,NRG Esports,32,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-03-04 17:25:00
+FaZe Clan,T1,21,Haven,Champions Tour North America Stage 1: Challengers 3,2021-03-04 17:00:00
+DELIRAWOW,Sharks Esports,19,Haven,Champions Tour Brazil Stage 1: Challengers 3,2021-03-06 19:15:00
+Luminosity,Kooky Koalas,20,Icebox,Champions Tour North America Stage 1: Challengers 3,2021-03-04 15:00:00
+Gen.G,TSM,21,Ascent,Champions Tour North America Stage 1: Challengers 3,2021-03-04 15:00:00
+Imperial Esports,Rise Gaming,21,Ascent,Champions Tour Brazil Stage 1: Challengers 3,2021-03-06 17:00:00
+SLICK,B4 eSports,21,Ascent,Champions Tour Brazil Stage 1: Challengers 3,2021-02-28 19:30:00
+FREEAGENTS,paiN Gaming,22,Split,Champions Tour Brazil Stage 1: Challengers 3,2021-02-28 17:00:00
+B4 eSports,Sharks Esports,21,Haven,Champions Tour Brazil Stage 1: Challengers 3,2021-02-27 20:00:00
+SLICK,DELIRAWOW,21,Split,Champions Tour Brazil Stage 1: Challengers 3,2021-02-27 19:00:00
+Rise Gaming,paiN Gaming,18,Ascent,Champions Tour Brazil Stage 1: Challengers 3,2021-02-27 18:00:00
+Imperial Esports,FREEAGENTS,21,Haven,Champions Tour Brazil Stage 1: Challengers 3,2021-02-27 17:00:00
+Hexad,CNCI BLUE BEES,23,Split,Champions Tour Japan Stage 1: Challengers 3,2021-03-07 07:25:00
+Hexad,FENNEL,23,Ascent,Champions Tour Japan Stage 1: Challengers 3,2021-03-07 05:20:00
+CNCI BLUE BEES,Sengoku Gaming,18,Split,Champions Tour Japan Stage 1: Challengers 3,2021-03-07 03:35:00
+Sengoku Gaming,FENNEL,22,Bind,Champions Tour Japan Stage 1: Challengers 3,2021-03-07 01:40:00
+CNCI BLUE BEES,FENNEL,22,Split,Champions Tour Japan Stage 1: Challengers 3,2021-03-06 23:00:00
+Hexad,Sengoku Gaming,18,Haven,Champions Tour Japan Stage 1: Challengers 3,2021-03-06 21:00:00
+Novagis Gaming,SCARZ,23,Ascent,Champions Tour Japan Stage 1: Challengers 3,2021-03-06 03:00:00
+REJECT,LAG Gaming,26,Haven,Champions Tour Japan Stage 1: Challengers 3,2021-03-06 05:00:00
+REJECT,Novagis Gaming,20,Icebox,Champions Tour Japan Stage 1: Challengers 3,2021-03-06 07:45:00
+SCARZ,LAG Gaming,20,Split,Champions Tour Japan Stage 1: Challengers 3,2021-03-06 01:00:00
+Novagis Gaming,LAG Gaming,19,Bind,Champions Tour Japan Stage 1: Challengers 3,2021-03-05 23:00:00
+REJECT,SCARZ,15,Icebox,Champions Tour Japan Stage 1: Challengers 3,2021-03-05 21:00:00
+Alter Ego,XcN Gaming,20,Bind,Champions Tour Indonesia Stage 1: Challengers 2,2021-02-28 02:00:00
+XcN Gaming,NXL LIGAGAME,19,Bind,Champions Tour Indonesia Stage 1: Challengers 2,2021-02-27 08:15:00
+ex-Reckless Lads,XcN Gaming,15,Ascent,Champions Tour Indonesia Stage 1: Challengers 2,2021-02-26 07:00:00
+Bigetron Astro,NXL LIGAGAME,17,Ascent,Champions Tour Indonesia Stage 1: Challengers 2,2021-02-27 02:00:00
+Alter Ego,BOOM Esports,23,Ascent,Champions Tour Indonesia Stage 1: Challengers 2,2021-02-27 04:30:00
+BOOM Esports,WOLFPACK,17,Ascent,Champions Tour Indonesia Stage 1: Challengers 2,2021-02-26 04:30:00
+Seniman Grooming,Alter Ego,19,Icebox,Champions Tour Indonesia Stage 1: Challengers 2,2021-02-26 01:30:00
+CrowСrowd,forZe,22,Bind,Champions Tour CIS Stage 1: Challengers 2,2021-02-28 09:00:00
+Gambit Esports,GMT Esports,18,Icebox,Champions Tour CIS Stage 1: Challengers 2,2021-02-27 11:00:00
+One Breath Gaming,tyeasy,21,Icebox,Champions Tour CIS Stage 1: Challengers 2,2021-02-27 09:00:00
+JustLose,Reality Rift,23,Icebox,Champions Tour Malaysia & Singapore Stage 1: Challengers 2,2021-02-28 00:15:00
+Kingsmen,Reality Rift,16,Ascent,Champions Tour Malaysia & Singapore Stage 1: Challengers 2,2021-02-27 21:00:00
+Reality Rift,Paper Rex,23,Bind,Champions Tour Malaysia & Singapore Stage 1: Challengers 2,2021-02-27 06:05:00
+JustLose,Kingsmen,26,Ascent,Champions Tour Malaysia & Singapore Stage 1: Challengers 2,2021-02-27 03:40:00
+Paper Rex,Team SMG,24,Bind,Champions Tour Malaysia & Singapore Stage 1: Challengers 2,2021-02-27 02:45:00
+Looking For Org,Reality Rift,13,Ascent,Champions Tour Malaysia & Singapore Stage 1: Challengers 2,2021-02-27 01:50:00
+Team SMG,Kingsmen,23,Ascent,Champions Tour Malaysia & Singapore Stage 1: Challengers 2,2021-02-26 23:25:00
+Reality Rift,JustLose,20,Bind,Champions Tour Malaysia & Singapore Stage 1: Challengers 2,2021-02-26 21:00:00
+Looking For Org,Louvre,24,Bind,Champions Tour Malaysia & Singapore Stage 1: Challengers 2,2021-02-26 08:50:00
+Paper Rex,XIAO,24,Bind,Champions Tour Malaysia & Singapore Stage 1: Challengers 2,2021-02-26 07:15:00
+Kingsmen,Louvre,21,Ascent,Champions Tour Malaysia & Singapore Stage 1: Challengers 2,2021-02-26 04:50:00
+Team SMG,Looking For Org,22,Bind,Champions Tour Malaysia & Singapore Stage 1: Challengers 2,2021-02-26 02:25:00
+XIAO,JustLose,17,Ascent,Champions Tour Malaysia & Singapore Stage 1: Challengers 2,2021-02-26 00:00:00
+Reality Rift,Paper Rex,18,Bind,Champions Tour Malaysia & Singapore Stage 1: Challengers 2,2021-02-25 21:00:00
+DAMWON Gaming,TNL Esports,20,Haven,Champions Tour Korea Stage 1: Challengers 1,2021-02-07 03:00:00
+GOMA,BearClaw Gaming,21,Haven,Champions Tour Korea Stage 1: Challengers 1,2021-02-06 07:00:00
+GOMA,Vision Strikers,17,Bind,Champions Tour Korea Stage 1: Challengers 1,2021-02-05 07:00:00
+Hamtori ZunDeZinx,Vision Strikers,19,Bind,Champions Tour Korea Stage 1: Challengers 1,2021-02-06 05:00:00
+Hamtori ZunDeZinx,BearClaw Gaming,20,Bind,Champions Tour Korea Stage 1: Challengers 1,2021-02-05 05:00:00
+DAMWON Gaming,ZFGaming,24,Bind,Champions Tour Korea Stage 1: Challengers 1,2021-02-06 03:00:00
+World Game Star,TNL Esports,20,Bind,Champions Tour Korea Stage 1: Challengers 1,2021-02-05 03:00:00
+Hamtori ZunDeZinx,GOMA,19,Bind,Champions Tour Korea Stage 1: Challengers 1,2021-02-04 07:00:00
+TNL Esports,ZFGaming,19,Bind,Champions Tour Korea Stage 1: Challengers 1,2021-02-04 05:00:00
+DAMWON Gaming,World Game Star,18,Bind,Champions Tour Korea Stage 1: Challengers 1,2021-02-04 03:00:00
+Galakticos,BBL Esports,20,Haven,Champions Tour Turkey Stage 1: Challengers 1,2021-02-13 12:00:00
+Looking For Sponsor,Only One Word,28,Ascent,Champions Tour Hong Kong & Taiwan Stage 1: Challengers 1,2021-02-07 03:00:00
+No Org Found,Oxygen Esports,17,Ascent,Champions Tour Turkey Stage 1: Challengers 1,2021-02-14 09:00:00
+1907 Fenerbahçe Esports,Cyber Skull Esports,24,Icebox,Champions Tour Turkey Stage 1: Challengers 1,2021-02-13 09:00:00
+CBT Gaming,ex-Five Ace e-Sports,22,Ascent,Champions Tour Hong Kong & Taiwan Stage 1: Challengers 1,2021-02-06 08:30:00
+Only One Word,ex-Five Ace e-Sports,19,Bind,Champions Tour Hong Kong & Taiwan Stage 1: Challengers 1,2021-02-06 06:00:00
+CBT Gaming,Looking For Sponsor,26,Split,Champions Tour Hong Kong & Taiwan Stage 1: Challengers 1,2021-02-06 03:00:00
+ex-Five Ace e-Sports,TRAITORS,30,Ascent,Champions Tour Hong Kong & Taiwan Stage 1: Challengers 1,2021-02-05 07:00:00
+LJG,Only One Word,19,Ascent,Champions Tour Hong Kong & Taiwan Stage 1: Challengers 1,2021-02-05 05:00:00
+Looking For Sponsor,Griffin E-Sports,19,Split,Champions Tour Hong Kong & Taiwan Stage 1: Challengers 1,2021-02-05 03:00:00
+CBT Gaming,色狗幫,19,Icebox,Champions Tour Hong Kong & Taiwan Stage 1: Challengers 1,2021-02-05 01:00:00
+SLICK,Vorax,24,Split,Champions Tour Brazil Stage 1: Challengers 1,2021-02-07 17:00:00
+Squad5,Team Vikings,18,Bind,Champions Tour Brazil Stage 1: Challengers 1,2021-02-06 19:20:00
+SLICK,FURIA,21,Haven,Champions Tour Brazil Stage 1: Challengers 1,2021-02-06 17:00:00
+DELIRAWOW,Imperial Esports,18,Ascent,Champions Tour Brazil Stage 1: Challengers 1,2021-02-01 19:30:00
+Vorax,Galaxy Carrots,23,Haven,Champions Tour Brazil Stage 1: Challengers 1,2021-01-31 17:00:00
+Galaxy Carrots,FURIA,19,Ascent,Champions Tour Brazil Stage 1: Challengers 1,2021-01-30 18:10:00
+DELIRAWOW,Squad5,20,Ascent,Champions Tour Brazil Stage 1: Challengers 1,2021-01-30 19:00:00
+Imperial Esports,Team Vikings,19,Ascent,Champions Tour Brazil Stage 1: Challengers 1,2021-01-30 20:00:00
+Vorax,SLICK,24,Bind,Champions Tour Brazil Stage 1: Challengers 1,2021-01-30 17:00:00
+Luminosity,Sentinels,23,Icebox,Champions Tour North America Stage 1: Challengers 1,2021-02-06 19:50:00
+Immortals,Luminosity,16,Icebox,Champions Tour North America Stage 1: Challengers 1,2021-02-06 15:00:00
+Immortals,Gen.G,16,Ascent,Champions Tour North America Stage 1: Challengers 1,2021-02-05 15:00:00
+Envy,Luminosity,23,Bind,Champions Tour North America Stage 1: Challengers 1,2021-02-05 15:00:00
+XSET,Envy,26,Ascent,Champions Tour North America Stage 1: Challengers 1,2021-02-05 17:10:00
+Sentinels,Andbox,23,Haven,Champions Tour North America Stage 1: Challengers 1,2021-02-04 20:25:00
+XSET,Sentinels,23,Split,Champions Tour North America Stage 1: Challengers 1,2021-02-06 17:40:00
+Sentinels,Gen.G,22,Ascent,Champions Tour North America Stage 1: Challengers 1,2021-02-05 17:30:00
+XSET,NRG Esports,24,Bind,Champions Tour North America Stage 1: Challengers 1,2021-02-04 19:20:00
+Envy,Andbox,22,Bind,Champions Tour North America Stage 1: Challengers 1,2021-02-04 18:15:00
+Sentinels,Luminosity,26,Split,Champions Tour North America Stage 1: Challengers 1,2021-02-04 17:20:00
+NRG Esports,Gen.G,23,Haven,Champions Tour North America Stage 1: Challengers 1,2021-02-04 15:00:00
+Immortals,XSET,28,Bind,Champions Tour North America Stage 1: Challengers 1,2021-02-04 15:00:00
+Team Liquid,FunPlus Phoenix,28,Split,Champions Tour Europe Stage 1: Challengers 1,2021-02-07 14:00:00
+Wave Esports,Fnatic,19,Split,Champions Tour Europe Stage 1: Challengers 1,2021-02-07 11:00:00
+Monkey Business,Guild Esports,17,Icebox,Champions Tour Europe Stage 1: Challengers 1,2021-02-06 14:00:00
+G2 Esports,Ninjas in Pyjamas,20,Split,Champions Tour Europe Stage 1: Challengers 1,2021-02-06 11:00:00
+Team Singularity,tyeasy,26,Bind,Champions Tour CIS Stage 1: Challengers 1,2021-02-13 09:00:00
+FAV gaming,REJECT,21,Ascent,Champions Tour Japan Stage 1: Challengers 2,2021-02-28 07:25:00
+FAV gaming,CNCI BLUE BEES,24,Ascent,Champions Tour Japan Stage 1: Challengers 2,2021-02-28 03:15:00
+Crazy Raccoon,FAV gaming,26,Ascent,Champions Tour Japan Stage 1: Challengers 2,2021-02-27 23:00:00
+Funkboings,Akave Esports,22,Bind,Champions Tour LATAM Stage 1: Challengers 3,2021-02-27 19:00:00
+REJECT,CNCI BLUE BEES,26,Ascent,Champions Tour Japan Stage 1: Challengers 2,2021-02-27 21:00:00
+Kaizen Esports,Akave Esports,22,Bind,Champions Tour LATAM Stage 1: Challengers 3,2021-02-28 18:15:00
+REJECT,Crazy Raccoon,22,Ascent,Champions Tour Japan Stage 1: Challengers 2,2021-02-28 05:20:00
+Bren Esports,ArkAngel,23,Bind,Champions Tour Philippines Stage 1: Challengers 2,2021-02-21 03:30:00
+CNCI BLUE BEES,Crazy Raccoon,21,Ascent,Champions Tour Japan Stage 1: Challengers 2,2021-02-28 01:30:00
+ArkAngel,Hashira,22,Haven,Champions Tour Philippines Stage 1: Challengers 2,2021-02-20 07:00:00
+Envy,Sentinels,0,Bind,Champions Tour North America Stage 1: Challengers 2,2021-02-23 15:00:00
+XSET,Sentinels,17,Split,Champions Tour North America Stage 1: Challengers 2,2021-02-22 17:40:00
+ex-SV Empire,Hashira,19,Bind,Champions Tour Philippines Stage 1: Challengers 2,2021-02-20 01:00:00
+Immortals,Sentinels,20,Ascent,Champions Tour North America Stage 1: Challengers 2,2021-02-22 19:25:00
+Bren Esports,Oasis Gaming,17,Icebox,Champions Tour Philippines Stage 1: Challengers 2,2021-02-20 04:45:00
+DreamFyre,ArkAngel,18,Haven,Champions Tour Philippines Stage 1: Challengers 2,2021-02-19 07:30:00
+Oasis Gaming,The First Order,24,Split,Champions Tour Philippines Stage 1: Challengers 2,2021-02-19 04:30:00
+Bren Esports,Org Not Found,21,Icebox,Champions Tour Philippines Stage 1: Challengers 2,2021-02-19 01:30:00
+OG,Team Heretics,19,Bind,Champions Tour Europe Stage 1: Challengers 2,2021-02-21 14:00:00
+FunPlus Phoenix,Fnatic,19,Haven,Champions Tour Europe Stage 1: Challengers 2,2021-02-21 11:00:00
+Ninjas in Pyjamas,G2 Esports,22,Haven,Champions Tour Europe Stage 1: Challengers 2,2021-02-20 13:20:00
+Wave Esports,Alliance,22,Haven,Champions Tour Europe Stage 1: Challengers 2,2021-02-20 11:00:00
+GoNGo Prince,MUYAHO,24,Bind,Champions Tour Korea Stage 1: Challengers 2,2021-02-21 07:15:00
+DAMWON Gaming,TNL Esports,24,Bind,Champions Tour Korea Stage 1: Challengers 2,2021-02-21 05:00:00
+ZFGaming,World Game Star,24,Haven,Champions Tour Korea Stage 1: Challengers 2,2021-02-21 02:30:00
+Vision Strikers,NUTURN,20,Ascent,Champions Tour Korea Stage 1: Challengers 2,2021-02-20 06:50:00
+TNL Esports,GoNGo Prince,22,Ascent,Champions Tour Korea Stage 1: Challengers 2,2021-02-20 05:00:00
+Vision Strikers,World Game Star,19,Bind,Champions Tour Korea Stage 1: Challengers 2,2021-02-19 05:15:00
+NUTURN,ZFGaming,18,Bind,Champions Tour Korea Stage 1: Challengers 2,2021-02-19 06:30:00
+DAMWON Gaming,MUYAHO,19,Ascent,Champions Tour Korea Stage 1: Challengers 2,2021-02-20 02:30:00
+MUYAHO,TNL Esports,24,Ascent,Champions Tour Korea Stage 1: Challengers 2,2021-02-19 03:00:00
+Vision Strikers,NUTURN,24,Ascent,Champions Tour Korea Stage 1: Masters,2021-03-21 04:15:00
+MUYAHO,NUTURN,20,Split,Champions Tour Korea Stage 1: Masters,2021-03-17 06:30:00
+Vision Strikers,DAMWON Gaming,14,Split,Champions Tour Korea Stage 1: Masters,2021-03-17 04:00:00
 TNL Esports,NUTURN,24,Ascent,Champions Tour Korea Stage 1: Masters,2021-03-16 07:00:00
+NUTURN,APEX PEOPLE,18,Ascent,Champions Tour Korea Stage 1: Masters,2021-03-15 04:00:00
+GoNGo Prince,F4Q,28,Bind,Champions Tour Korea Stage 1: Masters,2021-03-15 06:05:00
 DAMWON Gaming,GoNGo Prince,21,Ascent,Champions Tour Korea Stage 1: Masters,2021-03-16 04:00:00
 MUYAHO,DAMWON Gaming,26,Icebox,Champions Tour Korea Stage 1: Masters,2021-03-14 06:50:00
-APEX PEOPLE,TNL Esports,20,Bind,Champions Tour Korea Stage 1: Masters,2021-03-12 06:30:00
-Vision Strikers,NUTURN,23,Ascent,Champions Tour Korea Stage 1: Masters,2021-03-12 02:30:00
+One Breath Gaming,Gambit Esports,21,Split,Champions Tour CIS Stage 2: Challengers 2,2021-04-18 11:00:00
+CrowСrowd,Aim.Attack,22,Ascent,Champions Tour CIS Stage 2: Challengers 2,2021-04-16 11:00:00
+Team Singularity,One Breath Gaming,24,Split,Champions Tour CIS Stage 2: Challengers 2,2021-04-15 14:00:00
+forZe,1280x960,20,Bind,Champions Tour CIS Stage 2: Challengers 2,2021-04-15 11:00:00
+ORDER,Mindfreak,21,Ascent,Oceania Tour: Stage 01,2021-03-21 01:15:00
+CrowСrowd,Gambit Esports,24,Bind,Champions Tour CIS Stage 2: Challengers 2,2021-04-17 13:00:00
+forZe,One Breath Gaming,21,Bind,Champions Tour CIS Stage 2: Challengers 2,2021-04-17 11:00:00
+GMT Esports,Gambit Esports,26,Bind,Champions Tour CIS Stage 2: Challengers 2,2021-04-16 13:05:00
+Funcrew,Straight Outta The Zoo,21,Ascent,Oceania Tour: Stage 01,2021-03-20 22:00:00
+Funcrew,Kanga Esports,22,Haven,Oceania Tour: Stage 01,2021-03-18 06:30:00
+ORDER,OverPalaStrike,26,Icebox,Oceania Tour: Stage 01,2021-03-18 04:00:00
+Dire Wolves,Mindfreak,15,Ascent,Oceania Tour: Stage 01,2021-03-19 07:00:00
+Team Heretics,Acend,20,Ascent,Champions Tour Europe Stage 1: Masters,2021-03-21 12:00:00
+ORDER,Funcrew,23,Haven,Oceania Tour: Stage 01,2021-03-19 22:00:00
+Straight Outta The Zoo,Mindfreak,23,Haven,Oceania Tour: Stage 01,2021-03-20 00:40:00
+Wildcard Gaming,Straight Outta The Zoo,20,Icebox,Oceania Tour: Stage 01,2021-03-19 04:00:00
+FunPlus Phoenix,Acend,20,Icebox,Champions Tour Europe Stage 1: Masters,2021-03-20 14:15:00
+Team Heretics,Guild Esports,23,Ascent,Champions Tour Europe Stage 1: Masters,2021-03-20 12:00:00
+Team BDS,Guild Esports,24,Haven,Champions Tour Europe Stage 1: Masters,2021-03-19 14:05:00
+FunPlus Phoenix,Team BDS,24,Ascent,Champions Tour Europe Stage 1: Masters,2021-03-18 15:00:00
+Guild Esports,Alliance,32,Ascent,Champions Tour Europe Stage 1: Masters,2021-03-14 13:35:00
+Team Heretics,Ninjas in Pyjamas,18,Ascent,Champions Tour Europe Stage 1: Masters,2021-03-18 12:00:00
+Ninjas in Pyjamas,Acend,22,Icebox,Champions Tour Europe Stage 1: Masters,2021-03-19 12:00:00
+Ballista,Acend,14,Bind,Champions Tour Europe Stage 1: Masters,2021-03-14 12:00:00
+Alliance,DfuseTeam,24,Split,Champions Tour Europe Stage 1: Masters,2021-03-13 14:00:00
+Guild Esports,FunPlus Phoenix,23,Icebox,Champions Tour Europe Stage 1: Masters,2021-03-13 11:00:00
+Acend,Ninjas in Pyjamas,24,Haven,Champions Tour Europe Stage 1: Masters,2021-03-12 13:15:00
+Ballista,Team Heretics,23,Haven,Champions Tour Europe Stage 1: Masters,2021-03-12 11:00:00
+BBL Esports,Futbolist,30,Ascent,Champions Tour Turkey Stage 1: Masters,2021-03-21 11:00:00
+Futbolist,RARE Esports,20,Ascent,Champions Tour Turkey Stage 1: Masters,2021-03-20 13:20:00
+Oxygen Esports,BBL Esports,19,Icebox,Champions Tour Turkey Stage 1: Masters,2021-03-20 11:00:00
+BBL Esports,Cyber Skull Esports,24,Bind,Champions Tour Turkey Stage 1: Masters,2021-03-19 14:00:00
+İstanbul Wildcats,RARE Esports,17,Split,Champions Tour Turkey Stage 1: Masters,2021-03-19 11:00:00
+Futbolist,BBL Esports,24,Haven,Champions Tour Turkey Stage 1: Masters,2021-03-18 13:20:00
+İstanbul Wildcats,Oxygen Esports,22,Icebox,Champions Tour Turkey Stage 1: Masters,2021-03-18 11:00:00
+OtherSide,Cyber Skull Esports,24,Icebox,Champions Tour Turkey Stage 1: Masters,2021-03-14 14:00:00
+Zero Zone,RARE Esports,15,Split,Champions Tour Turkey Stage 1: Masters,2021-03-14 11:00:00
+BBL Esports,Cyber Skull Esports,21,Ascent,Champions Tour Turkey Stage 1: Masters,2021-03-13 13:30:00
+Futbolist,OtherSide,34,Haven,Champions Tour Turkey Stage 1: Masters,2021-03-13 10:00:00
+Oxygen Esports,RARE Esports,21,Split,Champions Tour Turkey Stage 1: Masters,2021-03-12 12:30:00
+İstanbul Wildcats,Zero Zone,23,Ascent,Champions Tour Turkey Stage 1: Masters,2021-03-12 10:00:00
 Vision Strikers,TNL Esports,19,Haven,Champions Tour Korea Stage 1: Masters,2021-03-14 04:00:00
 DAMWON Gaming,F4Q,21,Ascent,Champions Tour Korea Stage 1: Masters,2021-03-13 05:15:00
-GoNGo Prince,F4Q,28,Bind,Champions Tour Korea Stage 1: Masters,2021-03-15 06:05:00
-NUTURN,APEX PEOPLE,18,Ascent,Champions Tour Korea Stage 1: Masters,2021-03-15 04:00:00
 MUYAHO,GoNGo Prince,24,Ascent,Champions Tour Korea Stage 1: Masters,2021-03-13 03:00:00
-100 Thieves,Acend,22,Breeze,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-17 13:15:00
-Gambit Esports,G2 Esports,23,Icebox,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-18 12:00:00
-100 Thieves,Envy,18,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-18 14:35:00
-G2 Esports,KRÜ Esports,20,Icebox,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-17 10:35:00
-Vision Strikers,Gambit Esports,15,Icebox,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-17 07:00:00
-Sentinels,F4Q,16,Haven,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-16 16:05:00
-Gambit Esports,Crazy Raccoon,26,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-16 13:15:00
-Envy,Sentinels,28,Split,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-17 16:55:00
-F4Q,Sentinels,22,Breeze,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-13 14:00:00
-Crazy Raccoon,Liberty,22,Split,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-14 14:15:00
-Acend,SuperMassive Blaze,19,Split,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-16 09:00:00
-KRÜ Esports,Keyd Stars,24,Haven,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-15 15:50:00
-Paper Rex,SuperMassive Blaze,26,Split,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-15 09:00:00
-Keyd Stars,ZETA DIVISION,16,Split,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-14 11:50:00
-F4Q,G2 Esports,16,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-14 09:00:00
-G2 Esports,Sentinels,16,Split,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-15 13:00:00
-Sentinels,G2 Esports,19,Haven,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-12 12:50:00
-Vision Strikers,Acend,20,Icebox,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-13 11:20:00
-Envy,KRÜ Esports,22,Ascent,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-13 09:00:00
-KRÜ Esports,ZETA DIVISION,21,Bind,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-12 09:00:00
-Keyd Stars,Envy,28,Bind,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-11 14:15:00
-Gambit Esports,Crazy Raccoon,14,Icebox,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-11 12:00:00
-Gambit Esports,100 Thieves,18,Split,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-12 16:35:00
-Vision Strikers,Paper Rex,22,Icebox,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-11 09:00:00
-100 Thieves,Liberty,16,Icebox,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-10 15:50:00
-G2 Esports,F4Q,18,Haven,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-10 12:10:00
-SuperMassive Blaze,Acend,22,Bind,Valorant Champions Tour Stage 3: Masters Berlin,2021-09-10 09:00:00
-FaZe Clan,Version1,23,Breeze,Champions Tour North America: Last Chance Qualifier,2021-10-28 20:05:00
-100 Thieves,Rise,24,Haven,Champions Tour North America: Last Chance Qualifier,2021-10-29 21:30:00
-Cloud9,Gen.G,14,Breeze,Champions Tour North America: Last Chance Qualifier,2021-10-29 15:10:00
-Rise,Cloud9,21,Bind,Champions Tour North America: Last Chance Qualifier,2021-10-31 15:00:00
-XSET,Version1,20,Icebox,Champions Tour North America: Last Chance Qualifier,2021-10-29 19:15:00
-100 Thieves,Cloud9,26,Haven,Champions Tour North America: Last Chance Qualifier,2021-10-30 19:00:00
-Cloud9,XSET,20,Ascent,Champions Tour North America: Last Chance Qualifier,2021-10-30 16:15:00
-Rise,Cloud9,26,Breeze,Champions Tour North America: Last Chance Qualifier,2021-10-28 15:25:00
-Version1,Cloud9,18,Icebox,Champions Tour North America: Last Chance Qualifier,2021-10-27 18:55:00
-Gen.G,Luminosity,22,Split,Champions Tour North America: Last Chance Qualifier,2021-10-28 17:40:00
-FaZe Clan,Rise,21,Bind,Champions Tour North America: Last Chance Qualifier,2021-10-27 15:15:00
-100 Thieves,XSET,22,Ascent,Champions Tour North America: Last Chance Qualifier,2021-10-12 22:20:00
-XSET,Luminosity,15,Split,Champions Tour North America: Last Chance Qualifier,2021-10-12 19:05:00
-100 Thieves,Gen.G,23,Icebox,Champions Tour North America: Last Chance Qualifier,2021-10-12 15:30:00
-FULL SENSE,Cloud9,20,Breeze,VALORANT Champions,2021-12-05 16:30:00
-Team Liquid,Sentinels,26,Split,VALORANT Champions,2021-12-04 14:00:00
-Envy,X10 CRIT,21,Ascent,VALORANT Champions,2021-12-03 16:35:00
-KRÜ Esports,FURIA,24,Haven,VALORANT Champions,2021-12-05 12:35:00
-Team Secret,Crazy Raccoon,18,Haven,VALORANT Champions,2021-12-05 10:00:00
-Gambit Esports,Team Vikings,19,Icebox,VALORANT Champions,2021-12-04 10:00:00
-Vision Strikers,Fnatic,23,Fracture,VALORANT Champions,2021-12-03 12:55:00
-KRÜ Esports,Team Liquid,18,Ascent,VALORANT Champions,2021-12-02 16:45:00
-Acend,Keyd Stars,22,Breeze,VALORANT Champions,2021-12-05 08:30:00
-Sentinels,FURIA,22,Haven,VALORANT Champions,2021-12-02 12:30:00
-Fnatic,Cloud9,24,Fracture,VALORANT Champions,2021-12-01 14:45:00
-Team Vikings,Crazy Raccoon,22,Haven,VALORANT Champions,2021-12-01 12:00:00
-Gambit Esports,Team Secret,19,Bind,VALORANT Champions,2021-12-02 09:00:00
+Gambit Esports,forZe,20,Split,Champions Tour CIS Stage 1: Masters,2021-03-21 10:00:00
+Vision Strikers,NUTURN,23,Ascent,Champions Tour Korea Stage 1: Masters,2021-03-12 02:30:00
+APEX PEOPLE,TNL Esports,20,Bind,Champions Tour Korea Stage 1: Masters,2021-03-12 06:30:00
+forZe,CrowСrowd,21,Bind,Champions Tour CIS Stage 1: Masters,2021-03-20 12:00:00
+Gambit Esports,GMT Esports,23,Icebox,Champions Tour CIS Stage 1: Masters,2021-03-20 10:00:00
+GMT Esports,One Breath Gaming,19,Split,Champions Tour CIS Stage 1: Masters,2021-03-19 14:00:00
+Team Singularity,CrowСrowd,23,Haven,Champions Tour CIS Stage 1: Masters,2021-03-19 11:00:00
+forZe,GMT Esports,18,Icebox,Champions Tour CIS Stage 1: Masters,2021-03-18 12:45:00
+tyeasy,CrowСrowd,15,Haven,Champions Tour CIS Stage 1: Masters,2021-03-14 10:00:00
+Divinity,One Breath Gaming,18,Haven,Champions Tour CIS Stage 1: Masters,2021-03-14 12:00:00
+Gambit Esports,Team Singularity,19,Split,Champions Tour CIS Stage 1: Masters,2021-03-18 11:00:00
+GMT Esports,One Breath Gaming,24,Icebox,Champions Tour CIS Stage 1: Masters,2021-03-13 11:10:00
+Divinity,forZe,26,Bind,Champions Tour CIS Stage 1: Masters,2021-03-13 09:00:00
+Team Singularity,CrowСrowd,22,Ascent,Champions Tour CIS Stage 1: Masters,2021-03-12 12:10:00
+tyeasy,Gambit Esports,24,Icebox,Champions Tour CIS Stage 1: Masters,2021-03-12 10:00:00
+Absolute JUPITER,Crazy Raccoon,24,Haven,Champions Tour Japan Stage 1: Masters,2021-03-21 04:30:00
+Crazy Raccoon,REJECT,21,Icebox,Champions Tour Japan Stage 1: Masters,2021-03-21 01:30:00
+REJECT,FAV gaming,24,Bind,Champions Tour Japan Stage 1: Masters,2021-03-20 08:00:00
+Crazy Raccoon,Absolute JUPITER,21,Haven,Champions Tour Japan Stage 1: Masters,2021-03-20 05:30:00
+FIRST Gaming,FAV gaming,28,Icebox,Champions Tour Japan Stage 1: Masters,2021-03-20 02:05:00
+REJECT,LAG Gaming,17,Ascent,Champions Tour Japan Stage 1: Masters,2021-03-19 23:30:00
+REJECT,Absolute JUPITER,22,Ascent,Champions Tour Japan Stage 1: Masters,2021-03-14 07:10:00
+Crazy Raccoon,FIRST Gaming,18,Ascent,Champions Tour Japan Stage 1: Masters,2021-03-14 05:05:00
+FAV gaming,CNCI BLUE BEES,20,Split,Champions Tour Japan Stage 1: Masters,2021-03-14 01:50:00
+FAV gaming,REJECT,24,Icebox,Champions Tour Japan Stage 1: Masters,2021-03-13 04:00:00
+CNCI BLUE BEES,Absolute JUPITER,19,Bind,Champions Tour Japan Stage 1: Masters,2021-03-13 07:00:00
+LAG Gaming,FENNEL,21,Haven,Champions Tour Japan Stage 1: Masters,2021-03-13 22:30:00
+FENNEL,FIRST Gaming,26,Haven,Champions Tour Japan Stage 1: Masters,2021-03-13 01:05:00
+Crazy Raccoon,LAG Gaming,19,Haven,Champions Tour Japan Stage 1: Masters,2021-03-12 22:30:00
+X10 CRIT,Team SMG,23,Haven,Champions Tour SEA Stage 1: Masters,2021-03-21 05:00:00
+BOOM Esports,Team SMG,19,Haven,Champions Tour SEA Stage 1: Masters,2021-03-20 07:00:00
+X10 CRIT,KPC Computer Studio,18,Bind,Champions Tour SEA Stage 1: Masters,2021-03-20 06:00:00
+KPC Computer Studio,ArkAngel,20,Split,Champions Tour SEA Stage 1: Masters,2021-03-19 03:00:00
+Bren Esports,BOOM Esports,22,Bind,Champions Tour SEA Stage 1: Masters,2021-03-19 05:00:00
+NG.Black,Team SMG,30,Haven,Champions Tour SEA Stage 1: Masters,2021-03-19 07:50:00
+NXL LIGAGAME,X10 CRIT,19,Bind,Champions Tour SEA Stage 1: Masters,2021-03-19 01:00:00
+ex-Five Ace e-Sports,Looking For Sponsor,20,Ascent,Champions Tour Hong Kong and Taiwan Stage 1: Challengers 3,2021-03-14 06:30:00
+ex-Five Ace e-Sports,Looking For Sponsor,24,Split,Champions Tour Hong Kong and Taiwan Stage 1: Challengers 3,2021-03-13 07:45:00
+Looking For Sponsor,CBT Gaming,24,Bind,Champions Tour Hong Kong and Taiwan Stage 1: Challengers 3,2021-03-13 05:15:00
+Anti Eco Eco Club,ex-Five Ace e-Sports,22,Ascent,Champions Tour Hong Kong and Taiwan Stage 1: Challengers 3,2021-03-13 03:00:00
+Looking For Sponsor,Griffin E-Sports,18,Split,Champions Tour Hong Kong and Taiwan Stage 1: Challengers 3,2021-03-12 07:00:00
+ex-Five Ace e-Sports,LP33,21,Haven,Champions Tour Hong Kong and Taiwan Stage 1: Challengers 3,2021-03-12 05:00:00
+CBT Gaming,TRAITORS,18,Ascent,Champions Tour Hong Kong and Taiwan Stage 1: Challengers 3,2021-03-12 03:00:00
+Anti Eco Eco Club,All Born to Clutch,24,Ascent,Champions Tour Hong Kong and Taiwan Stage 1: Challengers 3,2021-03-12 01:00:00
+Made in Thailand,X10 CRIT,16,Haven,Champions Tour Thailand Stage 1: Challengers 3,2021-03-14 08:00:00
+ex-FULL SENSE,X10 CRIT,19,Ascent,Champions Tour Thailand Stage 1: Challengers 3,2021-03-14 06:00:00
+Made in Thailand,Sharper Esport,21,Ascent,Champions Tour Thailand Stage 1: Challengers 3,2021-03-14 00:00:00
+Overtime Esports,X10 CRIT,21,Ascent,Champions Tour Thailand Stage 1: Challengers 3,2021-03-13 04:45:00
+ex-FULL SENSE,LYNX TH,30,Bind,Champions Tour Thailand Stage 1: Challengers 3,2021-03-13 02:15:00
+Sharper Esport,Foxy Araikordai,24,Haven,Champions Tour Thailand Stage 1: Challengers 3,2021-03-13 00:00:00
+Made in Thailand,Not Ready,24,Bind,Champions Tour Thailand Stage 1: Challengers 3,2021-03-12 08:00:00
+DAMWON Gaming,GoNGo Prince,28,Ascent,Champions Tour Korea Stage 1: Challengers 2,2021-02-18 07:30:00
+World Game Star,NUTURN,19,Haven,Champions Tour Korea Stage 1: Challengers 2,2021-02-18 05:20:00
+Absolute JUPITER,DetonatioN Gaming White,20,Ascent,Champions Tour Japan Stage 1: Challengers 1,2021-02-21 08:30:00
+DetonatioN Gaming White,LAG Gaming,20,Ascent,Champions Tour Japan Stage 1: Challengers 1,2021-02-21 06:15:00
+Absolute JUPITER,FAV gaming,22,Ascent,Champions Tour Japan Stage 1: Challengers 1,2021-02-21 04:00:00
+Absolute JUPITER,LAG Gaming,23,Bind,Champions Tour Japan Stage 1: Challengers 1,2021-02-21 00:00:00
+BlackBird Ignis,REJECT,23,Ascent,Champions Tour Japan Stage 1: Challengers 1,2021-02-20 08:40:00
+Vision Strikers,ZFGaming,21,Haven,Champions Tour Korea Stage 1: Challengers 2,2021-02-18 02:50:00
+REJECT,FIRST Gaming,20,Haven,Champions Tour Japan Stage 1: Challengers 1,2021-02-20 06:35:00
+BlackBird Ignis,SCARZ,18,Bind,Champions Tour Japan Stage 1: Challengers 1,2021-02-20 04:20:00
+SCARZ,FIRST Gaming,20,Split,Champions Tour Japan Stage 1: Challengers 1,2021-02-20 02:00:00
+FAV gaming,LAG Gaming,18,Ascent,Champions Tour Japan Stage 1: Challengers 1,2021-02-21 02:15:00
+BlackBird Ignis,FIRST Gaming,22,Haven,Champions Tour Japan Stage 1: Challengers 1,2021-02-20 00:00:00
+DetonatioN Gaming White,FAV gaming,22,Haven,Champions Tour Japan Stage 1: Challengers 1,2021-02-20 22:00:00
+REJECT,SCARZ,19,Bind,Champions Tour Japan Stage 1: Challengers 1,2021-02-19 22:00:00
+Envy,Immortals,21,Icebox,Champions Tour North America Stage 1: Challengers 2,2021-02-22 15:00:00
+Luminosity,XSET,19,Ascent,Champions Tour North America Stage 1: Challengers 2,2021-02-21 18:25:00
+Sentinels,100 Thieves,19,Haven,Champions Tour North America Stage 1: Challengers 2,2021-02-21 18:10:00
+Immortals,Luminosity,30,Bind,Champions Tour North America Stage 1: Challengers 2,2021-02-21 15:00:00
+Sentinels,Envy,23,Split,Champions Tour North America Stage 1: Challengers 2,2021-02-21 15:00:00
+Gen.G,100 Thieves,28,Icebox,Champions Tour North America Stage 1: Challengers 2,2021-02-20 20:00:00
+FaZe Clan,XSET,23,Bind,Champions Tour North America Stage 1: Challengers 2,2021-02-20 18:45:00
+Luminosity,100 Thieves,19,Bind,Champions Tour North America Stage 1: Challengers 2,2021-02-20 17:00:00
+Immortals,Gen.G,19,Ascent,Champions Tour North America Stage 1: Challengers 2,2021-02-20 16:45:00
+XSET,Envy,14,Bind,Champions Tour North America Stage 1: Challengers 2,2021-02-20 15:00:00
+Sentinels,FaZe Clan,20,Split,Champions Tour North America Stage 1: Challengers 2,2021-02-20 15:00:00
+Infinity Esports,Buscando Org,20,Split,Champions Tour LATAM Stage 1: Challengers 2,2021-02-14 19:00:00
+E-Xolos LAZER,LDM Esports,21,Haven,Champions Tour LATAM Stage 1: Challengers 2,2021-02-14 19:00:00
+Buscando Org,LDM Esports,17,Haven,Champions Tour LATAM Stage 1: Challengers 2,2021-02-13 18:00:00
+Infinity Esports,E-Xolos LAZER,21,Split,Champions Tour LATAM Stage 1: Challengers 2,2021-02-13 16:00:00

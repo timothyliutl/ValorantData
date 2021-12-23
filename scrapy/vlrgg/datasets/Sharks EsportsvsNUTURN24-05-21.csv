@@ -1,19 +1,19 @@
-,round,winningTeamRound,losingTeamRound,date,map,event,winner,loser
-0,1,0,3,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN
-1,2,0,3,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN
-2,3,0,3,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN
-3,4,0,3,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN
-4,5,0,4,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN
-5,6,0,3,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN
-6,7,0,4,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN
-7,8,0,3,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN
-8,9,0,3,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN
-9,10,4,0,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN
-10,11,3,0,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN
-11,12,0,3,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN
-12,13,2,0,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN
-13,14,2,0,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN
-14,15,1,0,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN
-15,16,0,3,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN
-16,17,0,3,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN
-17,18,0,3,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN
+,round,winningTeamRound,losingTeamRound,date,map,event,winner,loser,matchid
+0,1,0,3,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN,Sharks EsportsvsNUTURN24-05-21
+1,2,0,3,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN,Sharks EsportsvsNUTURN24-05-21
+2,3,0,3,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN,Sharks EsportsvsNUTURN24-05-21
+3,4,0,3,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN,Sharks EsportsvsNUTURN24-05-21
+4,5,0,4,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN,Sharks EsportsvsNUTURN24-05-21
+5,6,0,3,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN,Sharks EsportsvsNUTURN24-05-21
+6,7,0,4,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN,Sharks EsportsvsNUTURN24-05-21
+7,8,0,3,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN,Sharks EsportsvsNUTURN24-05-21
+8,9,0,3,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN,Sharks EsportsvsNUTURN24-05-21
+9,10,4,0,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN,Sharks EsportsvsNUTURN24-05-21
+10,11,3,0,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN,Sharks EsportsvsNUTURN24-05-21
+11,12,0,3,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN,Sharks EsportsvsNUTURN24-05-21
+12,13,2,0,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN,Sharks EsportsvsNUTURN24-05-21
+13,14,2,0,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN,Sharks EsportsvsNUTURN24-05-21
+14,15,1,0,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN,Sharks EsportsvsNUTURN24-05-21
+15,16,0,3,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN,Sharks EsportsvsNUTURN24-05-21
+16,17,0,3,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN,Sharks EsportsvsNUTURN24-05-21
+17,18,0,3,24-05-21,Ascent,Valorant Champions Tour Stage 2: Masters Reykjavik,Sharks Esports,NUTURN,Sharks EsportsvsNUTURN24-05-21

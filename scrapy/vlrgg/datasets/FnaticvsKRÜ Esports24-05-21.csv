@@ -1,18 +1,18 @@
-,round,winningTeamRound,losingTeamRound,date,map,event,winner,loser
-0,1,0,4,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports
-1,2,0,4,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports
-2,3,4,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports
-3,4,3,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports
-4,5,3,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports
-5,6,4,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports
-6,7,3,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports
-7,8,3,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports
-8,9,4,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports
-9,10,3,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports
-10,11,3,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports
-11,12,3,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports
-12,13,0,3,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports
-13,14,0,3,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports
-14,15,1,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports
-15,16,2,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports
-16,17,1,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports
+,round,winningTeamRound,losingTeamRound,date,map,event,winner,loser,matchid
+0,1,0,4,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports,FnaticvsKRÜ Esports24-05-21
+1,2,0,4,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports,FnaticvsKRÜ Esports24-05-21
+2,3,4,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports,FnaticvsKRÜ Esports24-05-21
+3,4,3,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports,FnaticvsKRÜ Esports24-05-21
+4,5,3,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports,FnaticvsKRÜ Esports24-05-21
+5,6,4,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports,FnaticvsKRÜ Esports24-05-21
+6,7,3,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports,FnaticvsKRÜ Esports24-05-21
+7,8,3,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports,FnaticvsKRÜ Esports24-05-21
+8,9,4,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports,FnaticvsKRÜ Esports24-05-21
+9,10,3,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports,FnaticvsKRÜ Esports24-05-21
+10,11,3,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports,FnaticvsKRÜ Esports24-05-21
+11,12,3,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports,FnaticvsKRÜ Esports24-05-21
+12,13,0,3,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports,FnaticvsKRÜ Esports24-05-21
+13,14,0,3,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports,FnaticvsKRÜ Esports24-05-21
+14,15,1,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports,FnaticvsKRÜ Esports24-05-21
+15,16,2,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports,FnaticvsKRÜ Esports24-05-21
+16,17,1,0,24-05-21,Icebox,Valorant Champions Tour Stage 2: Masters Reykjavik,Fnatic,KRÜ Esports,FnaticvsKRÜ Esports24-05-21
