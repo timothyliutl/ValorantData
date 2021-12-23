@@ -6,17 +6,21 @@ from datetime import datetime
 
 class VlrSpider(scrapy.Spider):
     name = 'valorant'
-    start_urls = ['https://www.vlr.gg/event/matches/449/valorant-champions/?series_id=all', 
-    'https://www.vlr.gg/event/matches/466/valorant-champions-tour-stage-3-masters-berlin/?series_id=all', 
-    'https://www.vlr.gg/event/matches/353/valorant-champions-tour-stage-2-masters-reykjavik/?series_id=all&group=all',
-    'https://www.vlr.gg/event/matches/558/champions-tour-north-america-last-chance-qualifier/?series_id=all&group=all',
-    'https://www.vlr.gg/event/matches/285/champions-tour-latam-stage-1-challengers-1/?series_id=all&group=all',
-    'https://www.vlr.gg/event/matches/351/champions-tour-korea-stage-1-masters/?series_id=all&group=all',
-    'https://www.vlr.gg/event/matches/324/champions-tour-north-america-stage-1-challengers-3/?series_id=all&group=all']
+    start_urls = ['https://www.vlr.gg/vct-2021']
     #update this so we dont have to get these links ourselves
     def start_requests(self):
-        for url in self.start_urls:
-            yield scrapy.Request(url, self.parse)
+        yield scrapy.Request(self.start_urls[0], callback=self.pre_parse)
+
+    def pre_parse(self, response):
+        url_list = response.css('.event-item')
+        for url in url_list:
+            yield scrapy.Request('https://www.vlr.gg'+url.attrib['href'], callback=self.parse_event_links)
+
+    def parse_event_links(self,response):
+            match_urls = response.css('.wf-nav-item')[1]
+            yield scrapy.Request(('https://www.vlr.gg'+match_urls.attrib['href']), callback=self.parse)
+       
+    
     
     def parse(self, response):
         event = response.css('.wf-title::text')[0].extract().strip()
