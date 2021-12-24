@@ -70,9 +70,10 @@ class VlrSpider(scrapy.Spider):
                                     continue
                                 if not col.css('.rnd-sq')[1].css('img')[0].attrib['src'] =='/img/vlr/game/round/elim.webp':
                                     tempnum = tempnum + 1
-                                mapdf = mapdf.append({'round': counter, 'winningTeamRound': 0, 'losingTeamRound': tempnum, 'date': date.strftime('%d-%m-%y'), 'map': mapName, 'event': response.meta['event'], 'winner':winner, 'loser':loser, 'matchid': winner + "vs" + loser + date.strftime('%d-%m-%y')}, ignore_index= True)
+                                mapdf = mapdf.append({'round': counter, 'winningTeamRound': 0, 'losingTeamRound': tempnum, 'date': date.strftime('%d-%m-%y'), 'map': mapName, 'event': response.meta['event'], 'winner':winner, 'loser':loser, 
+                                'matchid': winner + "vs" + loser + date.strftime('%d-%m-%y')}, ignore_index= True)
                         counter = counter +1
-                    mapdf.to_csv(winner + "vs" + loser + date.strftime('%d-%m-%y') + '.csv')
+                    mapdf.to_csv(winner + "vs" + loser + date.strftime('%d-%m-%y') + mapName+ '.csv')
         yield {
             'winner':winner,
             'loser':loser,
