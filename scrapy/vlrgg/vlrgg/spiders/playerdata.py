@@ -47,7 +47,7 @@ class PlayerDataSpider(scrapy.Spider):
                         playerFirstBlood = player.css('.mod-stat.mod-fb span::text')[0].extract().strip()
                         playerFirstDeath = player.css('.mod-stat.mod-fd span::text')[0].extract().strip()
                         matchID = winner + "vs" + loser + date.strftime('%d-%m-%y')
-                        opponent = loser if winner!=playerTeam else winner
+                        opponent = loser if winner==playerTeam else winner
                         result = 'Win' if winner==playerTeam else 'Lose'
                         playerAgent = player.css('.stats-sq.mod-agent img')[0].attrib['title']
                         yield{
