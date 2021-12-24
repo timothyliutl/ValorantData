@@ -30,7 +30,7 @@ class PlayerDataSpider(scrapy.Spider):
             mapdata = response.css('.vm-stats-game') #make sure to get rid of overall in list
 
             for map in mapdata:
-                
+                #could add event for future use
                 if not map.attrib['data-game-id']=='all':
                     mapName = map.css('.map div span::text')[0].extract().strip()
 
@@ -67,6 +67,7 @@ class PlayerDataSpider(scrapy.Spider):
                             'opponent': opponent,
                             'result': result,
                             'winningTeam': winner,
-                            'date': date.strftime('%d-%m-%y')
+                            'date': date.strftime('%d-%m-%y'),
+                            'event': response.meta['event']
                         }
 
