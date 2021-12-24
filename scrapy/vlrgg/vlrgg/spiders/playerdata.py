@@ -49,10 +49,12 @@ class PlayerDataSpider(scrapy.Spider):
                         matchID = winner + "vs" + loser + date.strftime('%d-%m-%y')
                         opponent = loser if winner!=playerTeam else winner
                         result = 'Win' if winner==playerTeam else 'Lose'
+                        playerAgent = player.css('.stats-sq.mod-agent img')[0].attrib['title']
                         yield{
                             'playerName': playerName,
                             'playerTeam': playerTeam,
                             'map': mapName,
+                            'playerAgent': playerAgent,
                             'playerKills': playerKills,
                             'playerDeaths': playerDeaths,
                             'playerAssists':playerAssists,
