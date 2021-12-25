@@ -72,8 +72,8 @@ class PlayerDataSpider(scrapy.Spider):
                             'matchID':matchID,
                             'opponent': opponent,
                             'result': result,
-                            'winnerRoundsWon':team1Result,
-                            'loserRoundsWon':team2Result,
+                            'winnerRoundsWon':team1Result if team1Result>team2Result else team2Result,
+                            'loserRoundsWon':team2Result if team1Result>team2Result else team1Result,
                             'winningTeam': winner,
                             'date': date.strftime('%d-%m-%y'),
                             'event': response.meta['event']
