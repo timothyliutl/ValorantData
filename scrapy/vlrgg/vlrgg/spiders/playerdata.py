@@ -24,8 +24,8 @@ class PlayerDataSpider(scrapy.Spider):
             yield scrapy.Request('https://www.vlr.gg' + link, callback=self.postparse, meta={'event': event})
     def postparse(self, response):
             date = datetime.strptime(response.css('.moment-tz-convert')[0].attrib['data-utc-ts'],"%Y-%m-%d %H:%M:%S")
-            winner = response.css('.vlr-rounds-row-col')[0].css('.team::text')[1].extract().strip()
-            loser = response.css('.vlr-rounds-row-col')[0].css('.team::text')[3].extract().strip()
+            team1 = response.css('.vlr-rounds-row-col')[0].css('.team::text')[1].extract().strip()
+            team2 = response.css('.vlr-rounds-row-col')[0].css('.team::text')[3].extract().strip()
             mappicks = response.css('.match-header-note')
             mapdata = response.css('.vm-stats-game') #make sure to get rid of overall in list
 
@@ -33,7 +33,13 @@ class PlayerDataSpider(scrapy.Spider):
                 #could add event for future use
                 if not map.attrib['data-game-id']=='all':
                     mapName = map.css('.map div span::text')[0].extract().strip()
-
+                    winnerCTWins = int(map.css('.mod-ct::text')[0].extract().strip())
+                    loserCTWins = int(map.css('.mod-ct::text')[1].extract().strip())
+                    winnerTWins = int(map.css('.mod-t::text')[0].extract().strip())
+                    loserTWins = int(map.css('.mod-t::text')[1].extract().strip())
+                    team1Result = int(map.css('.score::text')[0].extract().strip())
+                    team2Result = int(map.css('.score::text')[1].extract().strip())
+                    winner = team1 if team1Result>team2Result else team2
                     playerData = map.css('tbody tr')
                     for player in playerData:
                         playerName = player.css('.mod-player a div::text')[0].extract().strip()
@@ -46,9 +52,9 @@ class PlayerDataSpider(scrapy.Spider):
                         playerHS = player.css('.stats-sq::text')[8].extract().strip()
                         playerFirstBlood = player.css('.mod-stat.mod-fb span::text')[0].extract().strip()
                         playerFirstDeath = player.css('.mod-stat.mod-fd span::text')[0].extract().strip()
-                        matchID = winner + "vs" + loser + date.strftime('%d-%m-%y')
-                        opponent = loser if winner==playerTeam else winner
-                        result = 'Win' if winner==playerTeam else 'Lose'
+                        matchID = team1 + "vs" + team2 + date.strftime('%d-%m-%y')
+                        opponent = team2 if team1==playerTeam else team1
+                        result = 'Win' if playerTeam==winner else 'Lose'
                         playerAgent = player.css('.stats-sq.mod-agent img')[0].attrib['title']
                         yield{
                             'playerName': playerName,
@@ -66,6 +72,8 @@ class PlayerDataSpider(scrapy.Spider):
                             'matchID':matchID,
                             'opponent': opponent,
                             'result': result,
+                            'winnerRoundsWon':team1Result,
+                            'loserRoundsWon':team2Result,
                             'winningTeam': winner,
                             'date': date.strftime('%d-%m-%y'),
                             'event': response.meta['event']
