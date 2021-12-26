@@ -3,6 +3,9 @@ import logging
 import pandas as pd
 from collections import defaultdict
 from datetime import datetime
+#use playerdata for more correct data
+#first iteration of scraper
+#will update this once vlr adds game logs to site
 
 class VlrSpider(scrapy.Spider):
     name = 'valorant'
@@ -18,7 +21,8 @@ class VlrSpider(scrapy.Spider):
 
     def parse_event_links(self,response):
             match_urls = response.css('.wf-nav-item')[1]
-            yield scrapy.Request(('https://www.vlr.gg'+match_urls.attrib['href']), callback=self.parse)
+            all_url = 'https://www.vlr.gg'+match_urls.attrib['href']
+            yield scrapy.Request(all_url.split('=')[0]+'=all&group=all', callback=self.parse)
        
     
     
@@ -73,7 +77,7 @@ class VlrSpider(scrapy.Spider):
                                 mapdf = mapdf.append({'round': counter, 'winningTeamRound': 0, 'losingTeamRound': tempnum, 'date': date.strftime('%d-%m-%y'), 'map': mapName, 'event': response.meta['event'], 'winner':winner, 'loser':loser, 
                                 'matchid': winner + "vs" + loser + date.strftime('%d-%m-%y')}, ignore_index= True)
                         counter = counter +1
-                    mapdf.to_csv(winner + "vs" + loser + date.strftime('%d-%m-%y') + mapName+ '.csv')
+        mapdf.to_csv('rounds.csv')
         yield {
             'winner':winner,
             'loser':loser,
