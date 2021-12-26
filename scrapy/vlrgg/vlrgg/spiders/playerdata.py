@@ -15,7 +15,8 @@ class PlayerDataSpider(scrapy.Spider):
 
     def parse_event_links(self,response):
             match_urls = response.css('.wf-nav-item')[1]
-            yield scrapy.Request(('https://www.vlr.gg'+match_urls.attrib['href']), callback=self.parse)
+            all_url = 'https://www.vlr.gg'+match_urls.attrib['href']
+            yield scrapy.Request(all_url.split('=')[0]+'=all&group=all', callback=self.parse)
        
     def parse(self, response):
         event = response.css('.wf-title::text')[0].extract().strip()
