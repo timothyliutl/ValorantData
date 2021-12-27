@@ -50,7 +50,7 @@ class PlayerDataSpider(scrapy.Spider):
                         playerAssists = player.css('.mod-vlr-assists span::text')[0].extract().strip()
                         playerADR = player.css('.stats-sq.mod-combat::text')[0].extract().strip()
                         playerACS = player.css('.stats-sq::text')[0].extract().strip()
-                        playerHS = player.css('.stats-sq::text')[8].extract().strip()
+                        playerHS = player.css('.stats-sq::text')[6].extract().strip()
                         playerFirstBlood = player.css('.mod-stat.mod-fb span::text')[0].extract().strip()
                         playerFirstDeath = player.css('.mod-stat.mod-fd span::text')[0].extract().strip()
                         matchID = team1 + "vs" + team2 + date.strftime('%d-%m-%y')

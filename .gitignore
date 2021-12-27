@@ -1,3 +1,4 @@
 *.csv
 *.ds_store
 !refined.csv
+!movingAverage.csv
