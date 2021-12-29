@@ -25,8 +25,8 @@ class PlayerDataSpider(scrapy.Spider):
             yield scrapy.Request('https://www.vlr.gg' + link, callback=self.postparse, meta={'event': event})
     def postparse(self, response):
             date = datetime.strptime(response.css('.moment-tz-convert')[0].attrib['data-utc-ts'],"%Y-%m-%d %H:%M:%S")
-            team1 = response.css('.vlr-rounds-row-col')[0].css('.team::text')[1].extract().strip()
-            team2 = response.css('.vlr-rounds-row-col')[0].css('.team::text')[3].extract().strip()
+            team1 = response.css('.vlr-rounds-row-col')[0].css('.team::text')[1].extract().strip().upper()
+            team2 = response.css('.vlr-rounds-row-col')[0].css('.team::text')[3].extract().strip().upper()
             mappicks = response.css('.match-header-note')
             mapdata = response.css('.vm-stats-game') #make sure to get rid of overall in list
 
@@ -44,7 +44,7 @@ class PlayerDataSpider(scrapy.Spider):
                     playerData = map.css('tbody tr')
                     for player in playerData:
                         playerName = player.css('.mod-player a div::text')[0].extract().strip()
-                        playerTeam = player.css('.mod-player a div::text')[1].extract().strip()
+                        playerTeam = player.css('.mod-player a div::text')[1].extract().strip().upper()
                         playerKills = player.css('.mod-vlr-kills span::text')[0].extract().strip()
                         playerDeaths = player.css('.mod-vlr-deaths span span::text')[1].extract().strip()
                         playerAssists = player.css('.mod-vlr-assists span::text')[0].extract().strip()
@@ -54,8 +54,8 @@ class PlayerDataSpider(scrapy.Spider):
                         playerFirstBlood = player.css('.mod-stat.mod-fb span::text')[0].extract().strip()
                         playerFirstDeath = player.css('.mod-stat.mod-fd span::text')[0].extract().strip()
                         matchID = team1 + "vs" + team2 + date.strftime('%d-%m-%y')
-                        opponent = team2 if team1==playerTeam else team1
-                        result = 'Win' if playerTeam==winner else 'Lose'
+                        opponent = team2 if team1.upper()==playerTeam.upper() else team1
+                        result = 'Win' if playerTeam.upper()==winner.upper() else 'Lose'
                         playerAgent = player.css('.stats-sq.mod-agent img')[0].attrib['title']
                         yield{
                             'playerName': playerName,
