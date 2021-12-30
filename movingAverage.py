@@ -1,6 +1,20 @@
 from datetime import datetime
 import pandas as pd
-data = pd.read_csv('scrapy/vlrgg/playerData/vlr.csv')
+imported_data = pd.read_csv('scrapy/vlrgg/playerData/vlr.csv').dropna()
+data = pd.DataFrame()
+for match in imported_data['matchID'].unique():
+    map_names = imported_data[imported_data['matchID']==match]['map'].unique()
+    for map_name in map_names:
+        match_data = imported_data[(imported_data['matchID']==match)&(imported_data['map']==map_name)]
+        if len(match_data.index)!=10:
+            print('Error: skipping incomplete matches')
+            continue
+        else:
+            data = data.append(match_data)
+#checking for incomplete data
+data.to_csv('cleanedData.csv')
+
+
 data['date'] = data['date'].apply(lambda x: datetime.strptime(x, '%d-%m-%y'))
 data['playerHS'] = data['playerHS'].apply(lambda x: float(str(x).replace('%', '')))
 sorted_data = data.sort_values(by=['playerName','date'])
