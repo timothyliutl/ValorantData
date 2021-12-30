@@ -2,3 +2,4 @@
 *.ds_store
 !refined.csv
 !movingAverage.csv
+!cleanedData.csv
