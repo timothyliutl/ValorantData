@@ -1,5 +1,2 @@
-*.csv
-*.ds_store
-!refined.csv
-!movingAverage.csv
-!cleanedData.csv
+
+*.DS_Store
