@@ -8,7 +8,6 @@ There are a lot of similarities between esports and traditional sports. One bein
 
 In order to achieve this I have a set of mini goals to achieve this:
 * train a model with 70% accuracy
-* train a model with 80% accuracy
 * train a model that beats audiance concensus 
 * train a model that beats twitter sentiments
 
