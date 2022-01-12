@@ -1,0 +1,1198 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20214.21.1217.2252                               -->
+<workbook original-version='18.1' source-build='2021.4.2 (20214.21.1217.2252)' source-platform='mac' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='teamMovingAvg' inline='true' name='federated.06y4jg7157vrqf1bgbsk41ufoj3s' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='teamMovingAvg' name='textscan.07p4ul20752ccy18pn2g00se2q1u'>
+            <connection class='textscan' directory='/Users/timothyliu/Documents/Web Development/Valorant' filename='teamMovingAvg.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.07p4ul20752ccy18pn2g00se2q1u' name='teamMovingAvg.csv' table='[teamMovingAvg#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_CA' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='string' name='map' ordinal='1' />
+            <column datatype='real' name='o_playerACS' ordinal='2' />
+            <column datatype='real' name='o_playerADR' ordinal='3' />
+            <column datatype='real' name='o_playerAssists' ordinal='4' />
+            <column datatype='real' name='o_playerDeaths' ordinal='5' />
+            <column datatype='real' name='o_playerFirstBlood' ordinal='6' />
+            <column datatype='real' name='o_playerFirstDeath' ordinal='7' />
+            <column datatype='real' name='o_playerHS' ordinal='8' />
+            <column datatype='real' name='o_playerKills' ordinal='9' />
+            <column datatype='string' name='o_playerTeam' ordinal='10' />
+            <column datatype='real' name='playerACS' ordinal='11' />
+            <column datatype='real' name='playerADR' ordinal='12' />
+            <column datatype='real' name='playerAssists' ordinal='13' />
+            <column datatype='real' name='playerDeaths' ordinal='14' />
+            <column datatype='real' name='playerFirstBlood' ordinal='15' />
+            <column datatype='real' name='playerFirstDeath' ordinal='16' />
+            <column datatype='real' name='playerHS' ordinal='17' />
+            <column datatype='real' name='playerKills' ordinal='18' />
+            <column datatype='string' name='playerTeam' ordinal='19' />
+            <column datatype='string' name='result' ordinal='20' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.07p4ul20752ccy18pn2g00se2q1u' name='teamMovingAvg.csv' table='[teamMovingAvg#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_CA' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='string' name='map' ordinal='1' />
+            <column datatype='real' name='o_playerACS' ordinal='2' />
+            <column datatype='real' name='o_playerADR' ordinal='3' />
+            <column datatype='real' name='o_playerAssists' ordinal='4' />
+            <column datatype='real' name='o_playerDeaths' ordinal='5' />
+            <column datatype='real' name='o_playerFirstBlood' ordinal='6' />
+            <column datatype='real' name='o_playerFirstDeath' ordinal='7' />
+            <column datatype='real' name='o_playerHS' ordinal='8' />
+            <column datatype='real' name='o_playerKills' ordinal='9' />
+            <column datatype='string' name='o_playerTeam' ordinal='10' />
+            <column datatype='real' name='playerACS' ordinal='11' />
+            <column datatype='real' name='playerADR' ordinal='12' />
+            <column datatype='real' name='playerAssists' ordinal='13' />
+            <column datatype='real' name='playerDeaths' ordinal='14' />
+            <column datatype='real' name='playerFirstBlood' ordinal='15' />
+            <column datatype='real' name='playerFirstDeath' ordinal='16' />
+            <column datatype='real' name='playerHS' ordinal='17' />
+            <column datatype='real' name='playerKills' ordinal='18' />
+            <column datatype='string' name='playerTeam' ordinal='19' />
+            <column datatype='string' name='result' ordinal='20' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[teamMovingAvg.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_CA&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[F1]</local-name>
+            <parent-name>[teamMovingAvg.csv]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[teamMovingAvg.csv_BD099011FAD04379B2292ECF246B772B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>map</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[map]</local-name>
+            <parent-name>[teamMovingAvg.csv]</parent-name>
+            <remote-alias>map</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[teamMovingAvg.csv_BD099011FAD04379B2292ECF246B772B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>o_playerACS</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[o_playerACS]</local-name>
+            <parent-name>[teamMovingAvg.csv]</parent-name>
+            <remote-alias>o_playerACS</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[teamMovingAvg.csv_BD099011FAD04379B2292ECF246B772B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>o_playerADR</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[o_playerADR]</local-name>
+            <parent-name>[teamMovingAvg.csv]</parent-name>
+            <remote-alias>o_playerADR</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[teamMovingAvg.csv_BD099011FAD04379B2292ECF246B772B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>o_playerAssists</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[o_playerAssists]</local-name>
+            <parent-name>[teamMovingAvg.csv]</parent-name>
+            <remote-alias>o_playerAssists</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[teamMovingAvg.csv_BD099011FAD04379B2292ECF246B772B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>o_playerDeaths</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[o_playerDeaths]</local-name>
+            <parent-name>[teamMovingAvg.csv]</parent-name>
+            <remote-alias>o_playerDeaths</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[teamMovingAvg.csv_BD099011FAD04379B2292ECF246B772B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>o_playerFirstBlood</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[o_playerFirstBlood]</local-name>
+            <parent-name>[teamMovingAvg.csv]</parent-name>
+            <remote-alias>o_playerFirstBlood</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[teamMovingAvg.csv_BD099011FAD04379B2292ECF246B772B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>o_playerFirstDeath</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[o_playerFirstDeath]</local-name>
+            <parent-name>[teamMovingAvg.csv]</parent-name>
+            <remote-alias>o_playerFirstDeath</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[teamMovingAvg.csv_BD099011FAD04379B2292ECF246B772B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>o_playerHS</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[o_playerHS]</local-name>
+            <parent-name>[teamMovingAvg.csv]</parent-name>
+            <remote-alias>o_playerHS</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[teamMovingAvg.csv_BD099011FAD04379B2292ECF246B772B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>o_playerKills</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[o_playerKills]</local-name>
+            <parent-name>[teamMovingAvg.csv]</parent-name>
+            <remote-alias>o_playerKills</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[teamMovingAvg.csv_BD099011FAD04379B2292ECF246B772B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>o_playerTeam</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[o_playerTeam]</local-name>
+            <parent-name>[teamMovingAvg.csv]</parent-name>
+            <remote-alias>o_playerTeam</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[teamMovingAvg.csv_BD099011FAD04379B2292ECF246B772B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>playerACS</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[playerACS]</local-name>
+            <parent-name>[teamMovingAvg.csv]</parent-name>
+            <remote-alias>playerACS</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[teamMovingAvg.csv_BD099011FAD04379B2292ECF246B772B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>playerADR</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[playerADR]</local-name>
+            <parent-name>[teamMovingAvg.csv]</parent-name>
+            <remote-alias>playerADR</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[teamMovingAvg.csv_BD099011FAD04379B2292ECF246B772B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>playerAssists</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[playerAssists]</local-name>
+            <parent-name>[teamMovingAvg.csv]</parent-name>
+            <remote-alias>playerAssists</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[teamMovingAvg.csv_BD099011FAD04379B2292ECF246B772B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>playerDeaths</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[playerDeaths]</local-name>
+            <parent-name>[teamMovingAvg.csv]</parent-name>
+            <remote-alias>playerDeaths</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[teamMovingAvg.csv_BD099011FAD04379B2292ECF246B772B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>playerFirstBlood</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[playerFirstBlood]</local-name>
+            <parent-name>[teamMovingAvg.csv]</parent-name>
+            <remote-alias>playerFirstBlood</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[teamMovingAvg.csv_BD099011FAD04379B2292ECF246B772B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>playerFirstDeath</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[playerFirstDeath]</local-name>
+            <parent-name>[teamMovingAvg.csv]</parent-name>
+            <remote-alias>playerFirstDeath</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[teamMovingAvg.csv_BD099011FAD04379B2292ECF246B772B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>playerHS</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[playerHS]</local-name>
+            <parent-name>[teamMovingAvg.csv]</parent-name>
+            <remote-alias>playerHS</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[teamMovingAvg.csv_BD099011FAD04379B2292ECF246B772B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>playerKills</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[playerKills]</local-name>
+            <parent-name>[teamMovingAvg.csv]</parent-name>
+            <remote-alias>playerKills</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[teamMovingAvg.csv_BD099011FAD04379B2292ECF246B772B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>playerTeam</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[playerTeam]</local-name>
+            <parent-name>[teamMovingAvg.csv]</parent-name>
+            <remote-alias>playerTeam</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[teamMovingAvg.csv_BD099011FAD04379B2292ECF246B772B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>result</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[result]</local-name>
+            <parent-name>[teamMovingAvg.csv]</parent-name>
+            <remote-alias>result</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[teamMovingAvg.csv_BD099011FAD04379B2292ECF246B772B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <_.fcp.ObjectModelTableType.true...column caption='teamMovingAvg.csv' datatype='table' name='[__tableau_internal_object_id__].[teamMovingAvg.csv_BD099011FAD04379B2292ECF246B772B]' role='measure' type='quantitative' />
+      <column caption='Map' datatype='string' name='[map]' role='dimension' type='nominal' />
+      <column caption='o playerACS' datatype='real' name='[o_playerACS]' role='measure' type='quantitative' />
+      <column caption='o playerADR' datatype='real' name='[o_playerADR]' role='measure' type='quantitative' />
+      <column caption='o playerAssists' datatype='real' name='[o_playerAssists]' role='measure' type='quantitative' />
+      <column caption='o playerDeaths' datatype='real' name='[o_playerDeaths]' role='measure' type='quantitative' />
+      <column caption='o playerFirstBlood' datatype='real' name='[o_playerFirstBlood]' role='measure' type='quantitative' />
+      <column caption='o playerFirstDeath' datatype='real' name='[o_playerFirstDeath]' role='measure' type='quantitative' />
+      <column caption='o playerHS' datatype='real' name='[o_playerHS]' role='measure' type='quantitative' />
+      <column caption='o playerKills' datatype='real' name='[o_playerKills]' role='measure' type='quantitative' />
+      <column caption='o playerTeam' datatype='string' name='[o_playerTeam]' role='dimension' type='nominal' />
+      <column caption='Player ACS' datatype='real' name='[playerACS]' role='measure' type='quantitative' />
+      <column caption='Player ADR' datatype='real' name='[playerADR]' role='measure' type='quantitative' />
+      <column caption='Player Assists' datatype='real' name='[playerAssists]' role='measure' type='quantitative' />
+      <column caption='Player Deaths' datatype='real' name='[playerDeaths]' role='measure' type='quantitative' />
+      <column caption='Player First Blood' datatype='real' name='[playerFirstBlood]' role='measure' type='quantitative' />
+      <column caption='Player First Death' datatype='real' name='[playerFirstDeath]' role='measure' type='quantitative' />
+      <column caption='Player HS' datatype='real' name='[playerHS]' role='measure' type='quantitative' />
+      <column caption='Player Kills' datatype='real' name='[playerKills]' role='measure' type='quantitative' />
+      <column caption='Player Team' datatype='string' name='[playerTeam]' role='dimension' type='nominal' />
+      <column caption='Result' datatype='string' name='[result]' role='dimension' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Canada&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='teamMovingAvg.csv' id='teamMovingAvg.csv_BD099011FAD04379B2292ECF246B772B'>
+            <properties context=''>
+              <relation connection='textscan.07p4ul20752ccy18pn2g00se2q1u' name='teamMovingAvg.csv' table='[teamMovingAvg#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_CA' separator=','>
+                  <column datatype='integer' name='F1' ordinal='0' />
+                  <column datatype='string' name='map' ordinal='1' />
+                  <column datatype='real' name='o_playerACS' ordinal='2' />
+                  <column datatype='real' name='o_playerADR' ordinal='3' />
+                  <column datatype='real' name='o_playerAssists' ordinal='4' />
+                  <column datatype='real' name='o_playerDeaths' ordinal='5' />
+                  <column datatype='real' name='o_playerFirstBlood' ordinal='6' />
+                  <column datatype='real' name='o_playerFirstDeath' ordinal='7' />
+                  <column datatype='real' name='o_playerHS' ordinal='8' />
+                  <column datatype='real' name='o_playerKills' ordinal='9' />
+                  <column datatype='string' name='o_playerTeam' ordinal='10' />
+                  <column datatype='real' name='playerACS' ordinal='11' />
+                  <column datatype='real' name='playerADR' ordinal='12' />
+                  <column datatype='real' name='playerAssists' ordinal='13' />
+                  <column datatype='real' name='playerDeaths' ordinal='14' />
+                  <column datatype='real' name='playerFirstBlood' ordinal='15' />
+                  <column datatype='real' name='playerFirstDeath' ordinal='16' />
+                  <column datatype='real' name='playerHS' ordinal='17' />
+                  <column datatype='real' name='playerKills' ordinal='18' />
+                  <column datatype='string' name='playerTeam' ordinal='19' />
+                  <column datatype='string' name='result' ordinal='20' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+    <datasource caption='vlr' inline='true' name='federated.0zyn1ov1bagqbz1740bov1vleft7' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='vlr' name='textscan.11pun351h8h9ma11d9umf134x7xz'>
+            <connection class='textscan' directory='/Users/timothyliu/Documents/Web Development/Valorant/scrapy/vlrgg/playerData' filename='vlr.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.11pun351h8h9ma11d9umf134x7xz' name='vlr.csv' table='[vlr#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_CA' separator=','>
+            <column datatype='string' name='playerName' ordinal='0' />
+            <column datatype='string' name='playerTeam' ordinal='1' />
+            <column datatype='string' name='map' ordinal='2' />
+            <column datatype='string' name='playerAgent' ordinal='3' />
+            <column datatype='integer' name='playerKills' ordinal='4' />
+            <column datatype='integer' name='playerDeaths' ordinal='5' />
+            <column datatype='integer' name='playerAssists' ordinal='6' />
+            <column datatype='integer' name='playerACS' ordinal='7' />
+            <column datatype='integer' name='playerADR' ordinal='8' />
+            <column datatype='real' name='playerHS' ordinal='9' />
+            <column datatype='integer' name='playerFirstBlood' ordinal='10' />
+            <column datatype='integer' name='playerFirstDeath' ordinal='11' />
+            <column datatype='string' name='matchID' ordinal='12' />
+            <column datatype='string' name='gameID' ordinal='13' />
+            <column datatype='string' name='opponent' ordinal='14' />
+            <column datatype='string' name='result' ordinal='15' />
+            <column datatype='integer' name='winnerRoundsWon' ordinal='16' />
+            <column datatype='integer' name='loserRoundsWon' ordinal='17' />
+            <column datatype='string' name='winningTeam' ordinal='18' />
+            <column datatype='string' name='date' ordinal='19' />
+            <column datatype='string' name='event' ordinal='20' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.11pun351h8h9ma11d9umf134x7xz' name='vlr.csv' table='[vlr#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_CA' separator=','>
+            <column datatype='string' name='playerName' ordinal='0' />
+            <column datatype='string' name='playerTeam' ordinal='1' />
+            <column datatype='string' name='map' ordinal='2' />
+            <column datatype='string' name='playerAgent' ordinal='3' />
+            <column datatype='integer' name='playerKills' ordinal='4' />
+            <column datatype='integer' name='playerDeaths' ordinal='5' />
+            <column datatype='integer' name='playerAssists' ordinal='6' />
+            <column datatype='integer' name='playerACS' ordinal='7' />
+            <column datatype='integer' name='playerADR' ordinal='8' />
+            <column datatype='real' name='playerHS' ordinal='9' />
+            <column datatype='integer' name='playerFirstBlood' ordinal='10' />
+            <column datatype='integer' name='playerFirstDeath' ordinal='11' />
+            <column datatype='string' name='matchID' ordinal='12' />
+            <column datatype='string' name='gameID' ordinal='13' />
+            <column datatype='string' name='opponent' ordinal='14' />
+            <column datatype='string' name='result' ordinal='15' />
+            <column datatype='integer' name='winnerRoundsWon' ordinal='16' />
+            <column datatype='integer' name='loserRoundsWon' ordinal='17' />
+            <column datatype='string' name='winningTeam' ordinal='18' />
+            <column datatype='string' name='date' ordinal='19' />
+            <column datatype='string' name='event' ordinal='20' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[vlr.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_CA&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>playerName</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[playerName]</local-name>
+            <parent-name>[vlr.csv]</parent-name>
+            <remote-alias>playerName</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>playerTeam</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[playerTeam]</local-name>
+            <parent-name>[vlr.csv]</parent-name>
+            <remote-alias>playerTeam</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>map</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[map]</local-name>
+            <parent-name>[vlr.csv]</parent-name>
+            <remote-alias>map</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>playerAgent</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[playerAgent]</local-name>
+            <parent-name>[vlr.csv]</parent-name>
+            <remote-alias>playerAgent</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>playerKills</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[playerKills]</local-name>
+            <parent-name>[vlr.csv]</parent-name>
+            <remote-alias>playerKills</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>playerDeaths</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[playerDeaths]</local-name>
+            <parent-name>[vlr.csv]</parent-name>
+            <remote-alias>playerDeaths</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>playerAssists</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[playerAssists]</local-name>
+            <parent-name>[vlr.csv]</parent-name>
+            <remote-alias>playerAssists</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>playerACS</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[playerACS]</local-name>
+            <parent-name>[vlr.csv]</parent-name>
+            <remote-alias>playerACS</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>playerADR</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[playerADR]</local-name>
+            <parent-name>[vlr.csv]</parent-name>
+            <remote-alias>playerADR</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>playerHS</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[playerHS]</local-name>
+            <parent-name>[vlr.csv]</parent-name>
+            <remote-alias>playerHS</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>playerFirstBlood</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[playerFirstBlood]</local-name>
+            <parent-name>[vlr.csv]</parent-name>
+            <remote-alias>playerFirstBlood</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>playerFirstDeath</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[playerFirstDeath]</local-name>
+            <parent-name>[vlr.csv]</parent-name>
+            <remote-alias>playerFirstDeath</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>matchID</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[matchID]</local-name>
+            <parent-name>[vlr.csv]</parent-name>
+            <remote-alias>matchID</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gameID</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[gameID]</local-name>
+            <parent-name>[vlr.csv]</parent-name>
+            <remote-alias>gameID</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>opponent</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[opponent]</local-name>
+            <parent-name>[vlr.csv]</parent-name>
+            <remote-alias>opponent</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>result</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[result]</local-name>
+            <parent-name>[vlr.csv]</parent-name>
+            <remote-alias>result</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>winnerRoundsWon</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[winnerRoundsWon]</local-name>
+            <parent-name>[vlr.csv]</parent-name>
+            <remote-alias>winnerRoundsWon</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>loserRoundsWon</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[loserRoundsWon]</local-name>
+            <parent-name>[vlr.csv]</parent-name>
+            <remote-alias>loserRoundsWon</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>winningTeam</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[winningTeam]</local-name>
+            <parent-name>[vlr.csv]</parent-name>
+            <remote-alias>winningTeam</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>date</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[date]</local-name>
+            <parent-name>[vlr.csv]</parent-name>
+            <remote-alias>date</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>event</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[event]</local-name>
+            <parent-name>[vlr.csv]</parent-name>
+            <remote-alias>event</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='GameDate' datatype='datetime' name='[Calculation_2541437624093675524]' role='dimension' type='ordinal'>
+        <calculation class='tableau' formula='DATEPARSE(&apos;dd-MM-yy&apos;, STR([date]))' />
+      </column>
+      <_.fcp.ObjectModelTableType.true...column caption='vlr.csv' datatype='table' name='[__tableau_internal_object_id__].[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]' role='measure' type='quantitative' />
+      <column caption='Date' datatype='string' name='[date]' role='dimension' type='nominal' />
+      <column caption='Event' datatype='string' name='[event]' role='dimension' type='nominal' />
+      <column caption='Game ID' datatype='string' name='[gameID]' role='dimension' type='nominal' />
+      <column caption='Loser Rounds Won' datatype='integer' name='[loserRoundsWon]' role='measure' type='quantitative' />
+      <column caption='Map' datatype='string' name='[map]' role='dimension' type='nominal' />
+      <column caption='Match ID' datatype='string' name='[matchID]' role='dimension' type='nominal' />
+      <column caption='Opponent' datatype='string' name='[opponent]' role='dimension' type='nominal' />
+      <column caption='Player ACS' datatype='integer' name='[playerACS]' role='measure' type='quantitative' />
+      <column caption='Player ADR' datatype='integer' name='[playerADR]' role='measure' type='quantitative' />
+      <column caption='Player Agent' datatype='string' name='[playerAgent]' role='dimension' type='nominal' />
+      <column caption='Player Assists' datatype='integer' name='[playerAssists]' role='measure' type='quantitative' />
+      <column caption='Player Deaths' datatype='integer' name='[playerDeaths]' role='measure' type='quantitative' />
+      <column caption='Player First Blood' datatype='integer' name='[playerFirstBlood]' role='measure' type='quantitative' />
+      <column caption='Player First Death' datatype='integer' name='[playerFirstDeath]' role='measure' type='quantitative' />
+      <column caption='Player HS' datatype='real' name='[playerHS]' role='measure' type='quantitative' />
+      <column caption='Player Kills' datatype='integer' name='[playerKills]' role='measure' type='quantitative' />
+      <column caption='Player Name' datatype='string' name='[playerName]' role='dimension' type='nominal' />
+      <column caption='Player Team' datatype='string' name='[playerTeam]' role='dimension' type='nominal' />
+      <column caption='Result' datatype='string' name='[result]' role='dimension' type='nominal' />
+      <column caption='Winner Rounds Won' datatype='integer' name='[winnerRoundsWon]' role='measure' type='quantitative' />
+      <column caption='Winning Team' datatype='string' name='[winningTeam]' role='dimension' type='nominal' />
+      <column-instance column='[result]' derivation='None' name='[none:result:nk]' pivot='key' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:result:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;Lose&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Win&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Canada&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='vlr.csv' id='vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E'>
+            <properties context=''>
+              <relation connection='textscan.11pun351h8h9ma11d9umf134x7xz' name='vlr.csv' table='[vlr#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_CA' separator=','>
+                  <column datatype='string' name='playerName' ordinal='0' />
+                  <column datatype='string' name='playerTeam' ordinal='1' />
+                  <column datatype='string' name='map' ordinal='2' />
+                  <column datatype='string' name='playerAgent' ordinal='3' />
+                  <column datatype='integer' name='playerKills' ordinal='4' />
+                  <column datatype='integer' name='playerDeaths' ordinal='5' />
+                  <column datatype='integer' name='playerAssists' ordinal='6' />
+                  <column datatype='integer' name='playerACS' ordinal='7' />
+                  <column datatype='integer' name='playerADR' ordinal='8' />
+                  <column datatype='real' name='playerHS' ordinal='9' />
+                  <column datatype='integer' name='playerFirstBlood' ordinal='10' />
+                  <column datatype='integer' name='playerFirstDeath' ordinal='11' />
+                  <column datatype='string' name='matchID' ordinal='12' />
+                  <column datatype='string' name='gameID' ordinal='13' />
+                  <column datatype='string' name='opponent' ordinal='14' />
+                  <column datatype='string' name='result' ordinal='15' />
+                  <column datatype='integer' name='winnerRoundsWon' ordinal='16' />
+                  <column datatype='integer' name='loserRoundsWon' ordinal='17' />
+                  <column datatype='string' name='winningTeam' ordinal='18' />
+                  <column datatype='string' name='date' ordinal='19' />
+                  <column datatype='string' name='event' ordinal='20' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='AgentWinRate'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Win Rates By Agents</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='vlr' name='federated.0zyn1ov1bagqbz1740bov1vleft7' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0zyn1ov1bagqbz1740bov1vleft7'>
+            <column-instance column='[result]' derivation='Count' name='[cnt:result:qk]' pivot='key' type='quantitative' />
+            <column caption='Map' datatype='string' name='[map]' role='dimension' type='nominal' />
+            <column-instance column='[map]' derivation='None' name='[none:map:nk]' pivot='key' type='nominal' />
+            <column-instance column='[playerAgent]' derivation='None' name='[none:playerAgent:nk]' pivot='key' type='nominal' />
+            <column-instance column='[result]' derivation='None' name='[none:result:nk]' pivot='key' type='nominal' />
+            <column-instance column='[playerAgent]' derivation='Count' name='[pcto:cnt:playerAgent:qk:2]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='Columns' type='PctTotal' />
+            </column-instance>
+            <column caption='Player Agent' datatype='string' name='[playerAgent]' role='dimension' type='nominal' />
+            <column caption='Result' datatype='string' name='[result]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <filter class='quantitative' column='[federated.0zyn1ov1bagqbz1740bov1vleft7].[cnt:result:qk]' included-values='in-range' />
+          <filter class='categorical' column='[federated.0zyn1ov1bagqbz1740bov1vleft7].[none:map:nk]'>
+            <groupfilter function='level-members' level='[none:map:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.0zyn1ov1bagqbz1740bov1vleft7].[none:playerAgent:nk]'>
+            <groupfilter function='level-members' level='[none:playerAgent:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.0zyn1ov1bagqbz1740bov1vleft7].[none:result:nk]' kind='hide'>
+            <groupfilter function='except' user:ui-domain='relevant' user:ui-enumeration='exclusive' user:ui-manual-selection='true' user:ui-manual-selection-all-when-empty='true' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:result:nk]' />
+              <groupfilter function='member' level='[none:result:nk]' member='&quot;Lose&quot;' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0zyn1ov1bagqbz1740bov1vleft7].[none:playerAgent:nk]</column>
+            <column>[federated.0zyn1ov1bagqbz1740bov1vleft7].[cnt:result:qk]</column>
+            <column>[federated.0zyn1ov1bagqbz1740bov1vleft7].[none:map:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0zyn1ov1bagqbz1740bov1vleft7].[none:result:nk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.0zyn1ov1bagqbz1740bov1vleft7].[pcto:cnt:playerAgent:qk:2]</rows>
+        <cols>[federated.0zyn1ov1bagqbz1740bov1vleft7].[none:playerAgent:nk]</cols>
+        <percentages enabled='true' mode='column' />
+      </table>
+      <simple-id uuid='{EDE9F0B0-4344-4B91-9519-448634C774D8}' />
+    </worksheet>
+    <worksheet name='PickratesByEvent'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='vlr' name='federated.0zyn1ov1bagqbz1740bov1vleft7' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0zyn1ov1bagqbz1740bov1vleft7'>
+            <column caption='Event' datatype='string' name='[event]' role='dimension' type='nominal' />
+            <column caption='Map' datatype='string' name='[map]' role='dimension' type='nominal' />
+            <column-instance column='[event]' derivation='None' name='[none:event:nk]' pivot='key' type='nominal' />
+            <column-instance column='[map]' derivation='None' name='[none:map:nk]' pivot='key' type='nominal' />
+            <column-instance column='[playerAgent]' derivation='None' name='[none:playerAgent:nk]' pivot='key' type='nominal' />
+            <column-instance column='[playerAgent]' derivation='Count' name='[pcto:cnt:playerAgent:qk:9]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='RowInPane' type='PctTotal' />
+            </column-instance>
+            <column caption='Player Agent' datatype='string' name='[playerAgent]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0zyn1ov1bagqbz1740bov1vleft7].[none:event:nk]'>
+            <groupfilter from='&quot;Champions Tour Asia-Pacific: Last Chance Qualifier&quot;' function='range' level='[none:event:nk]' to='&quot;Valorant Conquerors Championship&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.0zyn1ov1bagqbz1740bov1vleft7].[none:map:nk]'>
+            <groupfilter function='level-members' level='[none:map:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.0zyn1ov1bagqbz1740bov1vleft7].[none:map:nk]</column>
+            <column>[federated.0zyn1ov1bagqbz1740bov1vleft7].[none:event:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane id='7' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='384' />
+                <format attr='maxwidth' value='384' />
+                <format attr='minheight' value='320' />
+                <format attr='maxheight' value='320' />
+                <format attr='aspect' value='0' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0zyn1ov1bagqbz1740bov1vleft7].[pcto:cnt:playerAgent:qk:9]</rows>
+        <cols>([federated.0zyn1ov1bagqbz1740bov1vleft7].[none:event:nk] / [federated.0zyn1ov1bagqbz1740bov1vleft7].[none:playerAgent:nk])</cols>
+        <percentages enabled='true' mode='row-in-pane' />
+      </table>
+      <simple-id uuid='{F1CCBB76-C733-4EF3-8705-09C77422824F}' />
+    </worksheet>
+    <worksheet name='SelectionByMap'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Agent Selection By Map</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='vlr' name='federated.0zyn1ov1bagqbz1740bov1vleft7' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0zyn1ov1bagqbz1740bov1vleft7'>
+            <_.fcp.ObjectModelTableType.false...column caption='vlr.csv' datatype='integer' name='[__tableau_internal_object_id__].[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E:qk]' pivot='key' type='quantitative' />
+            <_.fcp.ObjectModelTableType.true...column caption='vlr.csv' datatype='table' name='[__tableau_internal_object_id__].[vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E]' role='measure' type='quantitative' />
+            <column caption='Loser Rounds Won' datatype='integer' name='[loserRoundsWon]' role='measure' type='quantitative' />
+            <column caption='Map' datatype='string' name='[map]' role='dimension' type='nominal' />
+            <column-instance column='[map]' derivation='None' name='[none:map:nk]' pivot='key' type='nominal' />
+            <column-instance column='[playerAgent]' derivation='None' name='[none:playerAgent:nk]' pivot='key' type='nominal' />
+            <column-instance column='[result]' derivation='None' name='[none:result:nk]' pivot='key' type='nominal' />
+            <column caption='Player ACS' datatype='integer' name='[playerACS]' role='measure' type='quantitative' />
+            <column caption='Player ADR' datatype='integer' name='[playerADR]' role='measure' type='quantitative' />
+            <column caption='Player Agent' datatype='string' name='[playerAgent]' role='dimension' type='nominal' />
+            <column caption='Player Assists' datatype='integer' name='[playerAssists]' role='measure' type='quantitative' />
+            <column caption='Player Deaths' datatype='integer' name='[playerDeaths]' role='measure' type='quantitative' />
+            <column caption='Player First Blood' datatype='integer' name='[playerFirstBlood]' role='measure' type='quantitative' />
+            <column caption='Player First Death' datatype='integer' name='[playerFirstDeath]' role='measure' type='quantitative' />
+            <column caption='Player HS' datatype='real' name='[playerHS]' role='measure' type='quantitative' />
+            <column caption='Player Kills' datatype='integer' name='[playerKills]' role='measure' type='quantitative' />
+            <column caption='Result' datatype='string' name='[result]' role='dimension' type='nominal' />
+            <column-instance column='[loserRoundsWon]' derivation='Sum' name='[sum:loserRoundsWon:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[playerACS]' derivation='Sum' name='[sum:playerACS:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[playerADR]' derivation='Sum' name='[sum:playerADR:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[playerAssists]' derivation='Sum' name='[sum:playerAssists:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[playerDeaths]' derivation='Sum' name='[sum:playerDeaths:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[playerFirstBlood]' derivation='Sum' name='[sum:playerFirstBlood:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[playerFirstDeath]' derivation='Sum' name='[sum:playerFirstDeath:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[playerHS]' derivation='Sum' name='[sum:playerHS:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[playerKills]' derivation='Sum' name='[sum:playerKills:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[winnerRoundsWon]' derivation='Sum' name='[sum:winnerRoundsWon:qk]' pivot='key' type='quantitative' />
+            <column caption='Winner Rounds Won' datatype='integer' name='[winnerRoundsWon]' role='measure' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0zyn1ov1bagqbz1740bov1vleft7].[:Measure Names]'>
+            <groupfilter function='union' user:op='manual'>
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0zyn1ov1bagqbz1740bov1vleft7].[sum:loserRoundsWon:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0zyn1ov1bagqbz1740bov1vleft7].[sum:playerACS:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0zyn1ov1bagqbz1740bov1vleft7].[sum:playerADR:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0zyn1ov1bagqbz1740bov1vleft7].[sum:playerAssists:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0zyn1ov1bagqbz1740bov1vleft7].[sum:playerDeaths:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0zyn1ov1bagqbz1740bov1vleft7].[sum:playerFirstBlood:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0zyn1ov1bagqbz1740bov1vleft7].[sum:playerFirstDeath:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0zyn1ov1bagqbz1740bov1vleft7].[sum:playerHS:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0zyn1ov1bagqbz1740bov1vleft7].[sum:playerKills:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0zyn1ov1bagqbz1740bov1vleft7].[sum:winnerRoundsWon:qk]&quot;' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.0zyn1ov1bagqbz1740bov1vleft7].[none:map:nk]'>
+            <groupfilter function='level-members' level='[none:map:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.0zyn1ov1bagqbz1740bov1vleft7].[none:result:nk]'>
+            <groupfilter function='level-members' level='[none:result:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.0zyn1ov1bagqbz1740bov1vleft7].[:Measure Names]</column>
+            <column>[federated.0zyn1ov1bagqbz1740bov1vleft7].[none:map:nk]</column>
+            <column>[federated.0zyn1ov1bagqbz1740bov1vleft7].[none:result:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>[federated.0zyn1ov1bagqbz1740bov1vleft7].[__tableau_internal_object_id__].[cnt:vlr.csv_E11CA326B01B4BACAB2EB5BF2C32811E:qk]</rows>
+        <cols>[federated.0zyn1ov1bagqbz1740bov1vleft7].[none:playerAgent:nk]</cols>
+      </table>
+      <simple-id uuid='{4F271B7D-6DC2-463D-BB65-52A889718E26}' />
+    </worksheet>
+    <worksheet name='Sheet 4'>
+      <table>
+        <view>
+          <datasources />
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{E97C0C6B-3D5E-4867-A362-876C915BD118}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='51'>
+    <window class='worksheet' name='SelectionByMap'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card mode='radiolist' param='[federated.0zyn1ov1bagqbz1740bov1vleft7].[none:result:nk]' type='filter' />
+            <card mode='radiolist' param='[federated.0zyn1ov1bagqbz1740bov1vleft7].[none:map:nk]' type='filter' />
+            <card type='filters' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{D78D47EA-6B7D-4C6B-95E5-6C1D90FB798B}' />
+    </window>
+    <window class='worksheet' name='AgentWinRate'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card mode='radiolist' param='[federated.0zyn1ov1bagqbz1740bov1vleft7].[none:map:nk]' type='filter' />
+            <card mode='radiolist' param='[federated.0zyn1ov1bagqbz1740bov1vleft7].[none:playerAgent:nk]' type='filter' />
+            <card pane-specification-id='0' param='[federated.0zyn1ov1bagqbz1740bov1vleft7].[none:result:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{0DD817D3-25D0-46D0-877B-6102B2D70507}' />
+    </window>
+    <window class='worksheet' maximized='true' name='PickratesByEvent'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[federated.0zyn1ov1bagqbz1740bov1vleft7].[none:map:nk]' type='filter' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{1A22000A-5FE1-46C3-B6D7-C9A821A2D336}' />
+    </window>
+    <window class='worksheet' name='Sheet 4'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{E3DA8206-5C3A-4891-88CC-4A8554AAD25D}' />
+    </window>
+  </windows>
+</workbook>
