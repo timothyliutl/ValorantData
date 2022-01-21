@@ -44,6 +44,6 @@ class PlayerDataSpider(scrapy.Spider):
                             'map': name,
                             'matchID': matchID,
                             'gameID': matchID + name,
-                            'date': date
+                            'date': date.strftime('%d-%m-%y')
                         }
 
